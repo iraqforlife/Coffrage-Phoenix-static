@@ -3,7 +3,7 @@
   <meta charset="utf-8" />
   <title>Coffrages Phoenix</title>
   <meta name="robots" content="index, follow">
-  <meta name="language" content="French">
+  <meta name="language" content="English>
   <meta name="description" content="<?php echo  $metaDesc?>">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="keywords" content="concrete,béton,fondation,foundation,balcon,balcony,stairscase,escaliers,escalier,coffrages,formwork,structure,dalles,stabs">

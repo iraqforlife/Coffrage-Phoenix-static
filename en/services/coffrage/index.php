@@ -18,20 +18,22 @@
   
       <div class="desc">
           <div class="desc-img">
-              <img src="https://coffragesphoenix.com/assets/img/reparation-de-fissure2.jpg" alt="fissure-beton" width="780" height="759">
+              <img src="https://coffragesphoenix.com/assets/img/coffrage-beton-commercial_005.jpg" alt="Coffrage-de-beton" width="780" height="759">
           </div>
           <div class="servces-desc-title">
-              <h1 style="font-size: 53px !important;color:#545454;"><strong>Réparations de béton</strong></h1>
+              <h1 style="color:#545454;"><strong>Coffrage</strong></h1>
               <hr>
-              <p style="color: #1e1e1e;">Chez Coffrage Phoenix nous offrons plusieurs types de réparation de béton.</p>
+              <p style="color: #1e1e1e;">Coffrage Phoenix est la compagnie parfaite pour tous vos projets de construction nécessitant du coffrage qu’il s'agit de: </p>
               <ul class="browser-default">
-                  <li>Réparation d’une fondation</li>
-                  <li>Réparation de fissures de fondation</li>
-                  <li>Réparation marche de béton</li>
-                  <li>Réparation de balcon de béton</li>
-                  <li>Réparation des fissures sur dalle de béton</li>
+                  <li>Dalles en béton</li>
+                  <li>Balcons en béton</li>
+                  <li>Fondations de béton</li>
+                  <li>Marche en béton</li>
+                  <li>Agrandissement de maison</li>
+                  <li>Structures de béton</li>
+                  <li>Coffrages en tout genre</li>
               </ul>
-              <p style="color: #1e1e1e;">Avec notre équipe vous aller bénéficier de notre expertise. Nous nous engageons à vous offrir une solution adapter à vos exigences. N'hésitez pas à nous contacter pour tous vos besoins de réparation de béton pour donner une deuxième vie à vos structures de béton.</p>
+              <p style="color: #1e1e1e;">Notre équipe d'expert est là pour vous offrir un produit autant durable qu’esthétique. Nous n’utilisons que des matériaux et des outils de qualités pour vous assurer le meilleur résultat possible. N’hésitez pas à nous contacter pour toute question ou pour un estimer.</p>
           </div>
       </div>
   
