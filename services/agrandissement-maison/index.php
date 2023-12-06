@@ -18,7 +18,7 @@
   
       <div class="desc">
           <div class="desc-img">
-              <img src="https://coffragesphoenix.com/assets/img/fondation-agrandissement-de-maison_001.jpg" alt="Coffrage-de-beton" width="780" height="759">
+              <img src="https://coffragesphoenix.com/assets/img/fondation-agrandissement-de-maison_001.jpg" alt="Agrandissement-maison" width="780" height="759">
           </div>
           <div class="servces-desc-title">
               <h1 style="font-size: 42px !important;color:#545454;"><strong>Agrandissement de maison</strong></h1>

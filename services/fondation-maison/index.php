@@ -18,7 +18,7 @@
   
       <div class="desc">
           <div class="desc-img">
-              <img src="https://coffragesphoenix.com/assets/img/fondation2.jpg" alt="Coffrage-de-beton" width="780" height="759">
+              <img src="https://coffragesphoenix.com/assets/img/fondation2.jpg" alt="Fondation" width="780" height="759">
           </div>
           <div class="servces-desc-title">
               <h1 style="font-size: 50px !important;color:#545454;"><strong>Fondations de maison</strong></h1>
