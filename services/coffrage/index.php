@@ -2,6 +2,8 @@
 <html>
 <?php 
     $language = "French";
+    $metaDesc ="Coffrage Phoenix est une entreprise se spécialisant en fondation de béton, en coffrage et en excavation dans Lanaudière, les Laurentides et la Rive-Nord.";
+    $englishUrl = "https://coffragesphoenix.com/";
     include_once(__DIR__."/../../head.php");
 ?>
 <body >

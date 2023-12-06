@@ -36,7 +36,7 @@
                       <a href="https://coffragesphoenix.com/about">Entreprise</a>&nbsp;&nbsp;&nbsp;
                       <a href="https://coffragesphoenix.com/soumission">Soumission</a>&nbsp;&nbsp;&nbsp;
                       <a href="https://coffragesphoenix.com/contact">Contact</a>&nbsp;&nbsp;&nbsp;
-                      <a href="https://coffragesphoenix.com/english/" style="cursor: pointer;">English</a>
+                      <a href="<?php echo  $englishUrl?>" style="cursor: pointer;">English</a>
                   </div>
               </div>
           </div>

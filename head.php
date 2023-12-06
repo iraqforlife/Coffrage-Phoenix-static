@@ -4,7 +4,7 @@
   <title>Coffrages Phoenix</title>
   <meta name="robots" content="index, follow">
   <meta name="language" content="<?php echo  $language?>">
-  <meta name="description" content="Coffrage Phoenix est une entreprise se spécialisant en fondation de béton, en coffrage et en excavation dans Lanaudière, les Laurentides et la Rive-Nord.">
+  <meta name="description" content="<?php echo  $metaDesc?>">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="keywords" content="concrete,béton,fondation,foundation,balcon,balcony,stairscase,escaliers,escalier,coffrages,formwork,structure,dalles,stabs">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
