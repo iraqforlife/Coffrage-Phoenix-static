@@ -3,7 +3,7 @@
 <?php 
     $language = "French";
     $metaDesc ="Un balcon en béton est la solution idéale pour avoir un produit durable qui nécessite très peu d’entretien tout en résistant aux intempéries et aux années.";
-    $englishUrl = "https://coffragesphoenix.com/";
+    $englishUrl = "https://coffragesphoenix.com/en/services/concrete-balcony";
     include_once(__DIR__."/../../head.php");
 ?>
 <body >
@@ -12,7 +12,7 @@
   <div class="container">
     <div style="display: grid;" class="about">
       <div style="text-align: center;">
-          <h2>Services <strong>coffrages</strong></h2>
+          <h2>Services <strong>Coffrages</strong></h2>
       </div>
       <div style="text-align: center;margin-left: auto;margin-right: auto;"><img src="https://coffragesphoenix.com/assets/img/about-swig.svg" alt="about"/></div>
   

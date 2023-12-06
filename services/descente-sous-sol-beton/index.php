@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
 <?php 
-    $language = "French";
     $metaDesc ="Les descentes de sous-sol sont une tâche laborieuse, mais notre équipe d’experts saura vous offrir un produit de la meilleure qualité que ce soit pour votre maison ou l’entrée de votre sous-sol.";
-    $englishUrl = "https://coffragesphoenix.com/";
+    $englishUrl = "https://coffragesphoenix.com/en/services/concrete-basement";
     include_once(__DIR__."/../../head.php");
 ?>
 <body >
@@ -12,7 +11,7 @@
   <div class="container">
     <div style="display: grid;" class="about">
       <div style="text-align: center;">
-          <h2>Services <strong>coffrages</strong></h2>
+          <h2>Services <strong>Coffrages</strong></h2>
       </div>
       <div style="text-align: center;margin-left: auto;margin-right: auto;"><img src="https://coffragesphoenix.com/assets/img/about-swig.svg" alt="about"/></div>
   

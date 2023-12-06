@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
 <?php 
-    $language = "French";
     $metaDesc ="Notre équipe d’experts assurera un produit de la meilleure qualité pour vous assurer un produit durable et résistant aux tremblements de terre pour l’agrandissement de votre maison.";
-    $englishUrl = "https://coffragesphoenix.com/";
+    $englishUrl = "https://coffragesphoenix.com/en/services/house-extension";
     include_once(__DIR__."/../../head.php");
 ?>
 <body >
@@ -12,7 +11,7 @@
   <div class="container">
     <div style="display: grid;" class="about">
       <div style="text-align: center;">
-          <h2>Services <strong>coffrages</strong></h2>
+          <h2>Services <strong>Coffrages</strong></h2>
       </div>
       <div style="text-align: center;margin-left: auto;margin-right: auto;"><img src="https://coffragesphoenix.com/assets/img/about-swig.svg" alt="about"/></div>
   

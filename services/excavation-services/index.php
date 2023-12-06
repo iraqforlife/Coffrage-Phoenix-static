@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
 <?php 
-    $language = "French";
     $metaDesc ="Les minis excavations sont parfaites pour des milieux urbains avec des espaces restreints et sont parfaites pour creuser des tranchées, creuser les conduites de drains français et bien plus encore.";
-    $englishUrl = "https://coffragesphoenix.com/";
+    $englishUrl = "https://coffragesphoenix.com/en/services/mini-excavation";
     include_once(__DIR__."/../../head.php");
 ?>
 <body >
@@ -12,7 +11,7 @@
   <div class="container">
     <div style="display: grid;" class="about">
       <div style="text-align: center;">
-          <h2>Services <strong>coffrages</strong></h2>
+          <h2>Services <strong>Coffrages</strong></h2>
       </div>
       <div style="text-align: center;margin-left: auto;margin-right: auto;"><img src="https://coffragesphoenix.com/assets/img/about-swig.svg" alt="about"/></div>
   
