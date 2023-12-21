@@ -31,9 +31,9 @@
                             });
                         </script>
                       </div>&nbsp;&nbsp;&nbsp;
-                      <a href="https://coffragesphoenix.com/realisation">Realizations</a>&nbsp;&nbsp;&nbsp;
+                      <a href="https://coffragesphoenix.com/en/realisation">Realizations</a>&nbsp;&nbsp;&nbsp;
                       <a href="https://coffragesphoenix.com/about">Company</a>&nbsp;&nbsp;&nbsp;
-                      <a href="https://coffragesphoenix.com/soumission">Quote</a>&nbsp;&nbsp;&nbsp;
+                      <a href="https://coffragesphoenix.com/en/soumission">Quote</a>&nbsp;&nbsp;&nbsp;
                       <a href="https://coffragesphoenix.com/contact">Contact</a>&nbsp;&nbsp;&nbsp;
                       <a href="<?php echo  $englishUrl?>" style="cursor: pointer;">Français</a>
                   </div>
