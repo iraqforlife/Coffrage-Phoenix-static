@@ -19,7 +19,7 @@
                               <a href="https://coffragesphoenix.com/en/services/concrete-basement">Concrete basement entrance</a>
                               <a href="https://coffragesphoenix.com/en/services/concrete-step">Concrete steps</a>
                               <a href="https://coffragesphoenix.com/en/services/concrete-slab">Concrete slabs</a>
-                              <a href="https://coffragesphoenix.com/en/services/mini-excavation">Mini excavation</a>
+                              <a href="https://coffragesphoenix.com/en/services/excavation-services">Mini excavation</a>
                               <a href="https://coffragesphoenix.com/en/services/concrete-repair">Concrete repair</a>
                           </div>
                         <!-- Dropdown Structure -->

@@ -19,7 +19,7 @@
                             <a href="https://coffragesphoenix.com/services/descente-sous-sol-beton/">Descente de sous-sol en béton</a>
                             <a href="https://coffragesphoenix.com/services/marche-de-beton/">Marche en béton</a>
                             <a href="https://coffragesphoenix.com/services/dalle-de-beton/">Dalles en béton</a>
-                            <a href="https://coffragesphoenix.com/services/excavation-services/">Mini excavation</a>
+                            <a href="https://coffragesphoenix.com/services/mini-excavation/">Mini excavation</a>
                             <a href="https://coffragesphoenix.com/services/fissure-beton/">Réparations de béton</a>
                         </div>
                         <!-- Dropdown Structure -->

@@ -6,7 +6,7 @@
   <meta name="language" content="French">
   <meta name="description" content="<?php echo  $metaDesc?>">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="keywords" content="concrete,béton,fondation,foundation,balcon,balcony,stairscase,escaliers,escalier,coffrages,formwork,structure,dalles,stabs">
+  <meta name="keywords" content="concrete,béton,fondation,foundation,balcon,balcony,stairscase,escaliers,escalier,coffrages,formwork,structure,dalles,stabs,compagnie de coffrage,coffrage rive nord,coffrage lanaudiere,coffrages,coffrage terrebonne,coffrage montreal,coffrage marche beton exterieur">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link type="text/css" rel="stylesheet" href="https://coffragesphoenix.com/css/materialize.min.css"  media="screen,projection"/>
   <!-- to modify -->

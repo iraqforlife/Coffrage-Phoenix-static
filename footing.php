@@ -59,7 +59,7 @@
                     <br>
                     <a href="https://coffragesphoenix.com/services/agrandissement-maison" class="fonthover-04 lineheight-125" style="font-size: 17px;">Agrandissement de maison</a>
                     <br>
-                    <a href="https://coffragesphoenix.com/services/excavation-services" class="fonthover-04 lineheight-125" style="font-size: 17px;">Mini excavation</a>
+                    <a href="https://coffragesphoenix.com/services/mini-excavation" class="fonthover-04 lineheight-125" style="font-size: 17px;">Mini excavation</a>
                     <div class="footer-spacer-001"></div>
                 </div>
             </div>
