@@ -10,8 +10,9 @@
                     <a href="/">Accueil</a>&nbsp;&nbsp;&nbsp;
 
                     <div class="dropdown">
-                        <a href="/services" class='dropdown-trigger' href='#' data-target='dropdown1'>Services <i class="fa-solid fa-chevron-down"></i></a>
-                        <div id='dropdown1' class="dropdown-content">
+                        <a href="/services">Services</a>
+                        <a class='dropdown-trigger' href='#' data-target='dropdown1'> <i class="fa-solid fa-chevron-down"></i></a>
+                        <div id='dropdown1' class="dropdown-content" style="top:50px !important;">
                             <a href="/services/coffrage/">Coffrage</a>
                             <a href="/services/fondation-maison/">Fondations de maison</a>
                             <a href="/services/agrandissement-maison/">Agrandissement de maison</a>
@@ -24,9 +25,7 @@
                         <script>
                             document.addEventListener('DOMContentLoaded', function() {
                                 var elems = document.querySelectorAll('.dropdown-trigger');
-                                var options = {
-                                    "hover": "true"
-                                };
+                                var options = {};
                                 var instances = M.Dropdown.init(elems, options);
                             });
                         </script>

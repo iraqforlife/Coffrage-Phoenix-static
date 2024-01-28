@@ -125,7 +125,7 @@ include_once(__DIR__ . "/../head.php");
                   <i class="fa-solid fa-envelope"></i>
                 </div>
                 <div>
-                  <h4>{{'email' | translate}}</h4>
+                  <h4>Courriel</h4>
                   <span>soumission@coffragesphoenix.com</span>
                 </div>
               </div>

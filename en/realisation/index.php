@@ -71,8 +71,8 @@ include_once(__DIR__ . "/../head.php");
         <h2 class="header-1">Concrete stairs, concrete sidewalks and concrete balconies</h2>
       </div>
       <div class="columns-03-333333">
-        <img src="/assets/img/Marche-en-beton-001.webp" width="800" height="575" alt="Marche-en-beton" fetchPriority="high" loading="lazy">
-        <img src="/assets/img/Marche-en-beton-002.webp" width="800" height="575" alt="Marche-en-beton" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/marche-en-beton-001.webp" width="800" height="575" alt="Marche-en-beton" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/marche-en-beton-002.webp" width="800" height="575" alt="Marche-en-beton" fetchPriority="high" loading="lazy">
         <img src="/assets/img/escalier-de-beton-001.webp" width="800" height="575" alt="Marche-de-beton-laurentides" fetchPriority="high" loading="lazy">
         <img src="/assets/img/escalier-de-beton-002.webp" width="800" height="575" alt="Marche-de-beton-lanaudiere" fetchPriority="high" loading="lazy">
         <img src="/assets/img/escalier-de-beton-003.webp" width="800" height="575" alt="Escalier-en-beton" fetchPriority="high" loading="lazy">
@@ -92,7 +92,7 @@ include_once(__DIR__ . "/../head.php");
       <div class="columns-02-5050">
         <img src="/assets/img/descente-de-sous-sol-en-beton-001.webp" width="800" height="575" alt="Descente-de-sous-sol-en-beton" loading="lazy">
         <img src="/assets/img/descente-de-sous-sol-en-beton-002.webp" width="800" height="575" alt="Descente-de-sous-sol-laurentides" loading="lazy">
-        <img src="/assets/img/descente-de-sous-sol-en-beton-003.webp" width="800" height="575" alt="Descente-de-sous-sol-rive-nord" loading="lazy">
+        <img src="/assets/img/descente-de-sous-sol-en-beton-004.webp" width="800" height="575" alt="Descente-de-sous-sol-rive-nord" loading="lazy">
       </div>
       <div class="alignleft" style="margin: 25px 0;">
         <h2>Foundations for house expansion</h2>

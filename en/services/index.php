@@ -13,7 +13,6 @@ include_once(__DIR__ . "/../head.php");
     <style>
       .services img {
         border: 1px solid var(--primaryColor);
-        border-radius: 15px;
         margin: 12px 0;
       }
 
@@ -85,7 +84,7 @@ include_once(__DIR__ . "/../head.php");
         <div class="services-item">
           <a href="/en/services/concrete-basement">
             <h4 style="font-size: 27px !important">Concrete basement entrance</h4>
-            <img class="imagehover-02 border-01px" src="/assets/img/descente-de-sous-sol-en-beton-004.webp" alt="Descente-de-sous-sol-en-beton">
+            <img class="imagehover-02 border-01px" src="/assets/img/descente-de-sous-sol-en-beton-003.webp" alt="Descente-de-sous-sol-en-beton">
           </a>
           <p>
             When adding a <strong>basement entrance</strong> or access to your property, it's important to enlist
