@@ -2,7 +2,7 @@
 <html>
 <?php
 $metaDesc = "Here are the results of our team of experts’ work, ranging from concrete steps and concrete balconies to house foundations and even commercial concrete projects and much more! We ensure the highest quality work for each of our projects and the satisfaction of our clients.";
-$englishUrl = "https://coffragesphoenix.com/realisation";
+$englishUrl = "/realisation";
 include_once(__DIR__ . "/../head.php");
 ?>
 

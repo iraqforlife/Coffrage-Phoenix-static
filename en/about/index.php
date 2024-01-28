@@ -2,7 +2,7 @@
 <html>
 <?php
 $metaDesc = "Learn more about who Coffrages Phoenix are, what our values are, and what our vision is in the industry.";
-$englishUrl = "https://coffragesphoenix.com/en/about";
+$englishUrl = "/en/about";
 include_once(__DIR__ . "/../head.php");
 ?>
 
@@ -170,8 +170,8 @@ include_once(__DIR__ . "/../head.php");
           <h2 style="text-align: center;">Coffrages Phoenix</h2>
           <h5>Specialist in formwork in the Laurentians, Lanaudière and the North Shore.</h5>
           <p>Coffrages Phoenix specializes in concrete formwork as well as excavation services. With our team of experts, we provide the highest quality service to meet the requirements of our customers and exceed their expectations. We offer formwork services, concrete steps, concrete balconies and much more.</p>
-          <div style="text-align: center;margin-bottom: 35px;margin-top: 15px;">
-            <a href="https://coffragesphoenix.com/services" class="blue-button">More details about the services</a>
+          <div style="text-align: center;margin-bottom: 35px;margin-top: 40px;">
+            <a href="/services" class="blue-button">More details about the services</a>
           </div>
         </div>
         <div class="desc-img">
@@ -233,7 +233,7 @@ include_once(__DIR__ . "/../head.php");
       </div>
       <?php include(__DIR__ . "/../reviews.php") ?>
       <div class="team" style="margin: 15px auto;background: border-box;">
-        <div class="prf"><img src="/assets/img/DSC06845-2.webp" alt="ahmad"></div>
+        <div class="prf"><img src="/assets/img/ahmad al-taher.webp" alt="ahmad"></div>
         <div class="txt">
           <div class="mcb-column-inner mcb-item-heading-inner">
             <h2 class="title h2Colored">AHMAD <br>AL-TAHER</h2>

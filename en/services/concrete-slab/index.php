@@ -2,7 +2,7 @@
 <html>
 <?php
 $metaDesc = "Our concrete slab service will be perfect for your house foundation, garage, terrace, landscaping projects, and more.";
-$englishUrl = "https://coffragesphoenix.com/services/dalle-de-beton";
+$englishUrl = "/services/dalle-de-beton";
 include_once(__DIR__ . "/../../head.php");
 ?>
 

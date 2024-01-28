@@ -2,7 +2,7 @@
 <html>
 <?php
 $metaDesc = "We offer a wide range of services, including formwork, foundation work, house extension, concrete balconies, concrete basement entrance, concrete steps, concrete slabs, mini excavation, and concrete crack repair.";
-$englishUrl = "https://coffragesphoenix.com/services";
+$englishUrl = "/services";
 include_once(__DIR__ . "/../head.php");
 ?>
 
@@ -31,7 +31,7 @@ include_once(__DIR__ . "/../head.php");
     <div class="services container-1200px" style="padding-bottom: 0;">
       <div class="columnswithgap-03">
         <div class="services-item">
-          <a href="https://coffragesphoenix.com/en/services/formwork">
+          <a href="/en/services/formwork">
             <h4>Formwork</h4>
             <img class="imagehover-02 border-01px" src="/assets/img/coffrage-de-beton.webp" alt="Coffrage-de-beton">
           </a>
@@ -45,7 +45,7 @@ include_once(__DIR__ . "/../head.php");
         </div>
         <div></div>
         <div class="services-item">
-          <a href="https://coffragesphoenix.com/en/services/house-foundation">
+          <a href="/en/services/house-foundation">
             <h4>House foundations</h4>
             <img class="imagehover-02 border-01px" src="/assets/img/fondation.webp" alt="Fondation">
           </a>
@@ -58,7 +58,7 @@ include_once(__DIR__ . "/../head.php");
         </div>
         <div></div>
         <div class="services-item">
-          <a href="https://coffragesphoenix.com/en/services/house-extension">
+          <a href="/en/services/house-extension">
             <h4>House extension</h4>
             <img class="imagehover-02 border-01px" src="/assets/img/agrandissement.webp" alt="Agrandissement-fondation">
           </a>
@@ -71,7 +71,7 @@ include_once(__DIR__ . "/../head.php");
       </div>
       <div class="columnswithgap-03">
         <div class="services-item">
-          <a href="https://coffragesphoenix.com/en/services/concrete-balcony">
+          <a href="/en/services/concrete-balcony">
             <h4>Concrete balcony</h4>
             <img class="imagehover-02 border-01px" src="/assets/img/balcon-de-beton.webp" alt="Balcon-en-beton">
           </a>
@@ -83,7 +83,7 @@ include_once(__DIR__ . "/../head.php");
         </div>
         <div></div>
         <div class="services-item">
-          <a href="https://coffragesphoenix.com/en/services/concrete-basement">
+          <a href="/en/services/concrete-basement">
             <h4 style="font-size: 27px !important">Concrete basement entrance</h4>
             <img class="imagehover-02 border-01px" src="/assets/img/descente-de-sous-sol-en-beton-004.webp" alt="Descente-de-sous-sol-en-beton">
           </a>
@@ -95,7 +95,7 @@ include_once(__DIR__ . "/../head.php");
         </div>
         <div></div>
         <div class="services-item">
-          <a href="https://coffragesphoenix.com/en/services/concrete-step">
+          <a href="/en/services/concrete-step">
             <h4>Concrete step</h4>
             <img class="imagehover-02 border-01px" src="/assets/img/escalier-de-beton.webp" alt="Marche-de-beton-laurentides">
           </a>
@@ -105,7 +105,7 @@ include_once(__DIR__ . "/../head.php");
       </div>
       <div class="columnswithgap-03" style="padding-bottom: 60px;">
         <div class="services-item">
-          <a href="https://coffragesphoenix.com/en/services/concrete-slab">
+          <a href="/en/services/concrete-slab">
             <h4>Concrete slabs</h4>
             <img class="imagehover-02 border-01px" src="/assets/img/dalle.webp" alt="Dalle-de-beton">
           </a>
@@ -116,26 +116,9 @@ include_once(__DIR__ . "/../head.php");
           </p>
         </div>
         <div></div>
-        <div class="services-item">
-          <a href="https://coffragesphoenix.com/en/services/excavation-services">
-            <h4>Mini excavation</h4>
-            <img class="imagehover-02 border-01px" src="/assets/img/excavation.webp" alt="excavation">
-          </a>
-          <p>We also specialize in water pipe and <strong>French drain</strong> installations,
-            as well as <strong>site preparation</strong>. Our mini-excavators are compact and can access restricted spaces,
-            making them practical for projects in <strong>dense urban areas</strong>. They are also effective for digging at precise
-            depths and for performing <strong>delicate work</strong> on existing properties.</p>
-        </div>
         <div></div>
-        <div class="services-item">
-          <a href="https://coffragesphoenix.com/en/services/concrete-repair">
-            <h4>Repair</h4>
-            <img class="imagehover-02 border-01px" src="/assets/img/reparation-de-fissure.webp" alt="Reparation-fissure-beton">
-          </a>
-          <p>Whether it's repairing a <strong>foundation</strong>, a <strong>slab</strong>, a <strong>crack</strong>, or
-            a <strong>concrete staircase</strong>, we can perform all kinds of <strong>concrete repairs</strong>. It is important to repair it as soon as possible to avoid more serious problems.
-          </p>
-        </div>
+        <div></div>
+        <div></div>
       </div>
       <div data-paperform-id="5am6rzq3"></div>
     </div>

@@ -7,9 +7,9 @@
   <meta name="description" content="<?php echo  $metaDesc?>">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="keywords" content="concrete,béton,fondation,foundation,balcon,balcony,stairscase,escaliers,escalier,coffrages,formwork,structure,dalles,stabs">
-  <link type="text/css" rel="stylesheet" href="https://coffragesphoenix.com/css/materialize.min.css"  media="screen,projection"/>
+  <link type="text/css" rel="stylesheet" href="/css/materialize.min.css"  media="screen,projection"/>
   <!-- to modify -->
-  <link type="text/css" rel="stylesheet" href="https://coffragesphoenix.com/css/style.css" />
+  <link type="text/css" rel="stylesheet" href="/css/style.css" />
   <link rel="icon" type="image/x-icon" href="/assets/favicon.ico" />
   
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

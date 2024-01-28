@@ -2,7 +2,7 @@
 <html>
 <?php
 $metaDesc = "Coffrage Phoenix is a company specializing in concrete foundation, formwork, and excavation in Lanaudière, the Laurentides and the North Shore.";
-$englishUrl = "https://coffragesphoenix.com/services/coffrage";
+$englishUrl = "/services/coffrage";
 include_once(__DIR__ . "/../../head.php");
 ?>
 

@@ -2,7 +2,7 @@
 <html>
 <?php
 $metaDesc = "Concrete steps are an excellent option for a durable and aesthetically pleasing outcome.";
-$englishUrl = "https://coffragesphoenix.com/services/marche-de-beton";
+$englishUrl = "/services/marche-de-beton";
 include_once(__DIR__ . "/../../head.php");
 ?>
 

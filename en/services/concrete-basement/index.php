@@ -2,7 +2,7 @@
 <html>
 <?php
 $metaDesc = "Basement stairs can be a labor-intensive task, but our team of experts will provide you with the highest quality product, whether it's for your home or basement entrance.";
-$englishUrl = "https://coffragesphoenix.com/services/descente-sous-sol-beton";
+$englishUrl = "/services/descente-sous-sol-beton";
 include_once(__DIR__ . "/../../head.php");
 ?>
 

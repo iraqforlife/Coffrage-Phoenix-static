@@ -37,29 +37,26 @@
             <div class="alignleft">
                 <div>
                     <p class="fonthover-04 bold" style="font-size: 24px;">Services</p>
-                    <a href="https://coffragesphoenix.com/services/fondation-maison" class="fonthover-04 lineheight-125" style="font-size: 17px;">Fondations de maison</a>
+                    <a href="/services/fondation-maison" class="fonthover-04 lineheight-125" style="font-size: 17px;">Fondations de maison</a>
                     <br>
-                    <a href="https://coffragesphoenix.com/services/coffrage" class="fonthover-04 lineheight-125" style="font-size: 17px;">Coffrages de béton</a>
+                    <a href="/services/coffrage" class="fonthover-04 lineheight-125" style="font-size: 17px;">Coffrages de béton</a>
                     <br>
-                    <a href="https://coffragesphoenix.com/services/coffrage" class="fonthover-04 lineheight-125" style="font-size: 17px;">Structures de béton</a>
+                    <a href="/services/coffrage" class="fonthover-04 lineheight-125" style="font-size: 17px;">Structures de béton</a>
                     <br>
-                    <a href="https://coffragesphoenix.com/services/coffrage" class="fonthover-04 lineheight-125" style="font-size: 17px;">Coffrages en tout genre</a>
+                    <a href="/services/coffrage" class="fonthover-04 lineheight-125" style="font-size: 17px;">Coffrages en tout genre</a>
                     <br>
-                    <a href="https://coffragesphoenix.com/services/balcon-en-beton" class="fonthover-04 lineheight-125" style="font-size: 17px;">Balcons en béton</a>
+                    <a href="/services/balcon-en-beton" class="fonthover-04 lineheight-125" style="font-size: 17px;">Balcons en béton</a>
                     <br>
-                    <a href="https://coffragesphoenix.com/services/marche-de-beton" class="fonthover-04 lineheight-125" style="font-size: 17px;">Marche en béton</a>
+                    <a href="/services/marche-de-beton" class="fonthover-04 lineheight-125" style="font-size: 17px;">Marche en béton</a>
                     <br>
-                    <a href="https://coffragesphoenix.com/services/descente-sous-sol-beton" class="fonthover-04 lineheight-125" style="font-size: 17px;">Descente de sous-sol en béton</a>
+                    <a href="/services/descente-sous-sol-beton" class="fonthover-04 lineheight-125" style="font-size: 17px;">Descente de sous-sol en béton</a>
                     <br>
-                    <a href="https://coffragesphoenix.com/services/dalle-de-beton" class="fonthover-04 lineheight-125" style="font-size: 17px;">Planchers de garage</a>
+                    <a href="/services/dalle-de-beton" class="fonthover-04 lineheight-125" style="font-size: 17px;">Planchers de garage</a>
                     <br>
-                    <a href="https://coffragesphoenix.com/services/dalle-de-beton" class="fonthover-04 lineheight-125" style="font-size: 17px;">Dalles en béton</a>
+                    <a href="/services/dalle-de-beton" class="fonthover-04 lineheight-125" style="font-size: 17px;">Dalles en béton</a>
                     <br>
-                    <a href="https://coffragesphoenix.com/services/fissure-beton" class="fonthover-04 lineheight-125" style="font-size: 17px;">Réparations de béton</a>
+                    <a href="/services/agrandissement-maison" class="fonthover-04 lineheight-125" style="font-size: 17px;">Agrandissement de maison</a>
                     <br>
-                    <a href="https://coffragesphoenix.com/services/agrandissement-maison" class="fonthover-04 lineheight-125" style="font-size: 17px;">Agrandissement de maison</a>
-                    <br>
-                    <a href="https://coffragesphoenix.com/services/mini-excavation" class="fonthover-04 lineheight-125" style="font-size: 17px;">Mini excavation</a>
                     <div class="footer-spacer-001"></div>
                 </div>
             </div>
