@@ -65,98 +65,6 @@ include_once(__DIR__ . "/../head.php");
     .txt {
       font-size: 16px;
     }
-
-    .values {
-      margin: 15px auto;
-      align-items: center;
-      text-align: center;
-      display: grid;
-      grid-template-columns: 25% 25% 25% 25%;
-    }
-
-    @media only screen and (max-width: 767px) {
-      .values {
-        padding-left: 33px !important;
-        padding-right: 33px !important;
-        display: block;
-      }
-
-      .values-header h2 {
-        font-size: 45px !important;
-      }
-    }
-
-    @media only screen and (min-width: 768px) and (max-width: 959px) {
-      .values {
-        grid-template-columns: 50% 50% !important;
-      }
-    }
-
-    .values h5 {
-      margin-bottom: 15px;
-      font-size: 20px;
-      line-height: 28px;
-      font-weight: 500;
-      letter-spacing: 0px;
-    }
-
-    .values i {
-      margin-bottom: 24px;
-      vertical-align: middle;
-      font-size: 60px;
-      color: var(--primaryColor);
-    }
-
-    .values-header {
-      text-align: center;
-      margin-bottom: 30px;
-    }
-
-    .value {
-      padding: 30px;
-      border-radius: 24px;
-      border: 1px solid var(--primaryColor);
-      margin: 0px 12px 40px 12px;
-      max-height: 430px;
-      box-shadow: 0px 4px 5px 0px rgba(12, 76, 142, .38);
-    }
-
-    @media only screen and (max-width: 767px) {
-      .value {
-        padding: 24px !important;
-      }
-    }
-
-    @media only screen and (max-width: 390px) {
-      .value {
-        min-height: 410px;
-        font-size: 14px;
-      }
-    }
-
-    @media only screen and (min-width: 501px) and (max-width: 900px) {
-      .value {
-        min-height: 330px;
-      }
-    }
-
-    @media only screen and (min-width: 900px) and (max-width: 1220px) {
-      .value {
-        min-height: 404px;
-      }
-    }
-
-    @media only screen and (min-width: 1221px) and (max-width: 1400px) {
-      .value {
-        min-height: 395px;
-      }
-    }
-
-    @media only screen and (min-width: 1401px) {
-      .value {
-        min-height: 345px;
-      }
-    }
   </style>
   <div class="container">
     <div class="about">
@@ -170,7 +78,7 @@ include_once(__DIR__ . "/../head.php");
         <div class="desc-text">
           <h2 style="text-align: center;">Coffrages Phoenix</h2>
           <h5>Spécialiste en coffrage dans les Laurentides, Lanaudière et la Rive Nord.</h5>
-          <p>Coffrages Phoenix se spécialise dans les coffrages de béton ainsi que des services d'excavation. Avec notre équipe d'experts, nous assurons un service de la meilleure qualité pour répondre au exigences de notre clientèle et dépasser leurs attentes. Nous offrons des services de coffrage, de marches de béton, de balcons en béton et bien plus.</p>
+          <p>Coffrages Phoenix se spécialise dans les coffrages de béton ainsi que des dalles de béton . Avec notre équipe d'experts, nous assurons un service de la meilleure qualité pour répondre au exigences de notre clientèle et dépasser leurs attentes. Nous offrons des services de coffrage, de marches de béton, de balcons en béton et bien plus.</p>
           <div style="text-align: center;margin-bottom: 35px;margin-top: 40px;">
             <a href="/services" class="blue-button">Plus de détails sur les services</a>
           </div>
@@ -183,6 +91,99 @@ include_once(__DIR__ . "/../head.php");
         <h2>Nos valeurs</h2>
       </div>
       <div class="values">
+        <style>
+          .values {
+            margin: 15px auto;
+            align-items: center;
+            text-align: center;
+            display: grid;
+            grid-template-columns: 25% 25% 25% 25%;
+          }
+
+          @media only screen and (max-width: 767px) {
+            .values {
+              padding-left: 33px !important;
+              padding-right: 33px !important;
+              display: block;
+            }
+
+            .values-header h2 {
+              font-size: 45px !important;
+            }
+          }
+
+          @media only screen and (min-width: 768px) and (max-width: 959px) {
+            .values {
+              grid-template-columns: 50% 50% !important;
+            }
+          }
+
+          .values h5 {
+            margin-bottom: 15px;
+            font-size: 20px;
+            line-height: 28px;
+            font-weight: 500;
+            letter-spacing: 0px;
+          }
+
+          .values i {
+            margin-bottom: 24px;
+            vertical-align: middle;
+            font-size: 60px;
+            color: var(--primaryColor);
+          }
+
+          .values-header {
+            text-align: center;
+            margin-bottom: 30px;
+          }
+
+          .value {
+            padding: 30px;
+            border-radius: 24px;
+            border: 1px solid var(--primaryColor);
+            margin: 0px 12px 40px 12px;
+            max-height: 430px;
+            box-shadow: 0px 4px 5px 0px rgba(12, 76, 142, .38);
+          }
+
+          @media only screen and (max-width: 767px) {
+            .value {
+              padding: 24px !important;
+            }
+          }
+
+          @media only screen and (max-width: 390px) {
+            .value {
+              min-height: 410px;
+              font-size: 14px;
+            }
+          }
+
+          @media only screen and (min-width: 501px) and (max-width: 900px) {
+            .value {
+              min-height: 330px;
+            }
+          }
+
+          @media only screen and (min-width: 900px) and (max-width: 1220px) {
+            .value {
+              min-height: 404px;
+            }
+          }
+
+          @media only screen and (min-width: 1221px) and (max-width: 1400px) {
+            .value {
+              min-height: 395px;
+            }
+          }
+
+          @media only screen and (min-width: 1401px) {
+            .value {
+              min-height: 345px;
+            }
+          }
+        </style>
         <div class="value">
           <div>
             <i class="fa-solid fa-user"></i>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <?php
-$metaDesc = "We offer a wide range of services, including formwork, foundation work, house extension, concrete balconies, concrete basement entrance, concrete steps, concrete slabs, mini excavation, and concrete crack repair.";
+$metaDesc = "We offer a wide range of services, including formwork, foundation work, house extension, concrete balconies, concrete basement entrance, concrete steps and concrete slabs";
 $englishUrl = "/services";
 include_once(__DIR__ . "/../head.php");
 ?>

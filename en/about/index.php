@@ -169,7 +169,7 @@ include_once(__DIR__ . "/../head.php");
         <div class="desc-text">
           <h2 style="text-align: center;">Coffrages Phoenix</h2>
           <h5>Specialist in formwork in the Laurentians, Lanaudière and the North Shore.</h5>
-          <p>Coffrages Phoenix specializes in concrete formwork as well as excavation services. With our team of experts, we provide the highest quality service to meet the requirements of our customers and exceed their expectations. We offer formwork services, concrete steps, concrete balconies and much more.</p>
+          <p>Coffrages Phoenix specializes in concrete formwork as well as concrete slab. With our team of experts, we provide the highest quality service to meet the requirements of our customers and exceed their expectations. We offer formwork services, concrete steps, concrete balconies and much more.</p>
           <div style="text-align: center;margin-bottom: 35px;margin-top: 40px;">
             <a href="/services" class="blue-button">More details about the services</a>
           </div>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <?php
-$metaDesc = "Nous offrons une panoplie de services: coffrage, fondation, agrandissement de maison, balcon en béton, descente de sous-sol, marche de béton, dalles en béton, mini excavation ainsi que la réparation de fissure de béton.";
+$metaDesc = "Nous offrons une panoplie de services: coffrage, fondation, agrandissement de maison, balcon en béton, descente de sous-sol, marche de béton ainsi que les dalles en béton.";
 $englishUrl = "/en/services";
 include_once(__DIR__ . "/../head.php");
 ?>
