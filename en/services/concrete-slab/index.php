@@ -14,11 +14,11 @@ include_once(__DIR__ . "/../../head.php");
       <div style="text-align: center;">
         <h2><strong>Formwork</strong> Services</h2>
       </div>
-      <div style="text-align: center;margin-left: auto;margin-right: auto;"><img src="https://coffragesphoenix.com/assets/img/about-swig.svg" alt="about" /></div>
+      <div style="text-align: center;margin-left: auto;margin-right: auto;"><img src="/assets/img/about-swig.svg" alt="about" /></div>
 
       <div class="desc">
         <div class="desc-img">
-          <img src="https://coffragesphoenix.com/assets/img/dalle2.jpeg" alt="dalle-beton" width="780" height="759">
+          <img src="/assets/img/dalle2.webp" alt="dalle-beton" width="780" height="759">
         </div>
         <div class="servces-desc-title">
           <h1 style="color:#545454;"><strong>Concrete slabs</strong></h1>

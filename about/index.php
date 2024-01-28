@@ -164,7 +164,7 @@ include_once(__DIR__ . "/../head.php");
         <div style="text-align: center;">
           <h1>À propos de nous</h1>
         </div>
-        <div style="text-align: center;margin-left: auto;margin-right: auto;"><img src="https://coffragesphoenix.com/assets/img/about-swig.svg" alt="about" /></div>
+        <div style="text-align: center;margin-left: auto;margin-right: auto;"><img src="/assets/img/about-swig.svg" alt="about" /></div>
       </div>
       <div class="desc">
         <div class="desc-text">
@@ -172,11 +172,11 @@ include_once(__DIR__ . "/../head.php");
           <h5>Spécialiste en coffrage dans les Laurentides, Lanaudière et la Rive Nord.</h5>
           <p>Coffrages Phoenix se spécialise dans les coffrages de béton ainsi que des services d'excavation. Avec notre équipe d'experts, nous assurons un service de la meilleure qualité pour répondre au exigences de notre clientèle et dépasser leurs attentes. Nous offrons des services de coffrage, de marches de béton, de balcons en béton et bien plus.</p>
           <div style="text-align: center;margin-bottom: 35px;margin-top: 15px;">
-            <a href="https://coffragesphoenix.com/services" class="blue-button">Plus de détails sur les services</a>
+            <a href="/services" class="blue-button">Plus de détails sur les services</a>
           </div>
         </div>
         <div class="desc-img">
-          <img src="https://coffragesphoenix.com/assets/img/escalier-de-beton_001.jpg" alt="Marche-de-beton-laurentides" width="780" height="759">
+          <img src="/assets/img/escalier-de-beton-001.webp" alt="Marche-de-beton-laurentides" width="780" height="759">
         </div>
       </div>
       <div class="values-header">
@@ -222,7 +222,7 @@ include_once(__DIR__ . "/../head.php");
       </div>
       <div class="desc">
         <div class="desc-img">
-          <img src="https://coffragesphoenix.com/assets/img/patio2.jpeg" alt="Patio" width="780" height="759">
+          <img src="/assets/img/patio2.webp" alt="Patio" width="780" height="759">
         </div>
         <div class="desc-text" style="margin-top: 0;">
           <h2 style="text-align: center; ">Vision</h2>
@@ -235,7 +235,7 @@ include_once(__DIR__ . "/../head.php");
       <?php include(__DIR__ . "/../reviews.php") ?>
 
       <div class="team" style="margin: 15px auto;background: border-box;">
-        <div class="prf"><img src="https://coffragesphoenix.com/assets/img/DSC06845-2.jpg" alt="ahmad"></div>
+        <div class="prf"><img src="/assets/img/ahmad al-taher.webp" alt="ahmad"></div>
         <div class="txt">
           <div class="mcb-column-inner mcb-item-heading-inner">
             <h2 class="title h2Colored">AHMAD <br>AL-TAHER</h2>

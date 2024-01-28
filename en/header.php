@@ -2,7 +2,7 @@
       <nav class="backgroundcolor-white" style="box-shadow: none;width: 100%;display: block;height: auto;">
           <div class="header-menu">
               <div style="display: flex;">
-                  <a href="https://coffragesphoenix.com/"><img class="header-logo imagehover-01" src="https://coffragesphoenix.com/assets/img/coffrages-phoenix.png" alt="Coffrages-Phoenix"></a>
+                  <a href="https://coffragesphoenix.com/"><img class="header-logo imagehover-01" src="/assets/img/coffrages-phoenix.webp" alt="Coffrages-Phoenix"></a>
                   <a href="#" data-target="slide-out" class="mobile-nav-toggle sidenav-trigger"><i class="fa-solid fa-bars"></i></a>
               </div>
               <div class="alignright">
@@ -45,7 +45,7 @@
 <ul id="slide-out" class="sidenav">
         <div class="mobile-nav">
             <div style="margin: 20px;">
-                <a href="https://coffragesphoenix.com/"><img src="https://coffragesphoenix.com/assets/img/coffrages-phoenix.png" alt="Coffrages-Phoenix"></a>
+                <a href="https://coffragesphoenix.com/"><img src="/assets/img/coffrages-phoenix.webp" alt="Coffrages-Phoenix"></a>
             </div>
             <div style="border-top-color:lightgray;border-top-color: lightgray;margin: 0;border-top-style: solid;border-width: thin;">
                 <a href="https://coffragesphoenix.com/">Home</a></div>

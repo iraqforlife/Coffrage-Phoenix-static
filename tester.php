@@ -95,11 +95,11 @@
           <h2 style="font-size: 30px !important;">H2: Cybersecurity</h2>
           <h1>H1: Loi 25 compliance</h1>
       </div>
-      <div style="text-align: center;margin-left: auto;margin-right: auto;"><img src="https://coffragesphoenix.com/assets/img/about-swig.svg" alt="about"/></div>
+      <div style="text-align: center;margin-left: auto;margin-right: auto;"><img src="/assets/img/about-swig.svg" alt="about"/></div>
   
       <div class="sizabledesc">
           <div class="sizabledesc-img">
-              <img src="https://coffragesphoenix.com/assets/img/balcon-de-beton_004.jpg" alt="Balcon-en-beton" width="780" height="759">
+              <img src="/assets/img/balcon-de-beton-004.webp" alt="Balcon-en-beton" width="780" height="759">
           </div>
           <div style="margin: 30px;">
               <h3 style="color:#545454;">H3: Understanding and Adhering to Law 25 Regulations</h3>
@@ -116,12 +116,12 @@
               <div style="text-align: center; margin-bottom: 35px; margin-top: 15px;"><a href="#cta" class="blue-button" tabindex="0">CTA</a></div>
           </div>
           <div class="sizabledesc-img">
-              <img src="https://coffragesphoenix.com/assets/img/balcon-de-beton_004.jpg" alt="Balcon-en-beton" width="780" height="759">
+              <img src="/assets/img/balcon-de-beton-004.webp" alt="Balcon-en-beton" width="780" height="759">
           </div>
       </div>
       <div class="sizabledesc">
           <div class="sizabledesc-img">
-              <img src="https://coffragesphoenix.com/assets/img/balcon-de-beton_004.jpg" alt="Balcon-en-beton" width="780" height="759">
+              <img src="/assets/img/balcon-de-beton-004.webp" alt="Balcon-en-beton" width="780" height="759">
           </div>
           <div style="margin: 30px;">
               <h3 style="color:#545454;">H3: Legal Consultation and Support</h3>

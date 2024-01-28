@@ -26,14 +26,14 @@ include_once(__DIR__ . "/../head.php");
       <div style="text-align: center;">
         <h1>Services</h1>
       </div>
-      <div style="text-align: center;margin-left: auto;margin-right: auto;"><img src="https://coffragesphoenix.com/assets/img/about-swig.svg" alt="about" /></div>
+      <div style="text-align: center;margin-left: auto;margin-right: auto;"><img src="/assets/img/about-swig.svg" alt="about" /></div>
     </div>
     <div class="services container-1200px" style="padding-bottom: 0;">
       <div class="columnswithgap-03">
         <div class="services-item">
           <a href="https://coffragesphoenix.com/en/services/formwork">
             <h4>Formwork</h4>
-            <img class="imagehover-02 border-01px" src="https://coffragesphoenix.com/assets/img/coffrage-de-beton.jpg" alt="Coffrage-de-beton">
+            <img class="imagehover-02 border-01px" src="/assets/img/coffrage-de-beton.webp" alt="Coffrage-de-beton">
           </a>
 
           <div class="spacer-010px"></div>
@@ -47,7 +47,7 @@ include_once(__DIR__ . "/../head.php");
         <div class="services-item">
           <a href="https://coffragesphoenix.com/en/services/house-foundation">
             <h4>House foundations</h4>
-            <img class="imagehover-02 border-01px" src="https://coffragesphoenix.com/assets/img/fondation.jpg" alt="Fondation">
+            <img class="imagehover-02 border-01px" src="/assets/img/fondation.webp" alt="Fondation">
           </a>
           <p>
             An essential component that supports the weight of the complete structure are the concrete foundations.
@@ -60,7 +60,7 @@ include_once(__DIR__ . "/../head.php");
         <div class="services-item">
           <a href="https://coffragesphoenix.com/en/services/house-extension">
             <h4>House extension</h4>
-            <img class="imagehover-02 border-01px" src="https://coffragesphoenix.com/assets/img/agrandissement.jpg" alt="Agrandissement-fondation">
+            <img class="imagehover-02 border-01px" src="/assets/img/agrandissement.webp" alt="Agrandissement-fondation">
           </a>
           <p>
             When constructing a new addition to your house, pick components that will <strong>last and be sturdy</strong>.
@@ -73,7 +73,7 @@ include_once(__DIR__ . "/../head.php");
         <div class="services-item">
           <a href="https://coffragesphoenix.com/en/services/concrete-balcony">
             <h4>Concrete balcony</h4>
-            <img class="imagehover-02 border-01px" src="https://coffragesphoenix.com/assets/img/balcon-de-beton.jpg" alt="Balcon-en-beton">
+            <img class="imagehover-02 border-01px" src="/assets/img/balcon-de-beton.webp" alt="Balcon-en-beton">
           </a>
           <p>
             Because of their <strong>sturdiness, power, and weather resilience</strong>, concrete balconies are common.
@@ -85,7 +85,7 @@ include_once(__DIR__ . "/../head.php");
         <div class="services-item">
           <a href="https://coffragesphoenix.com/en/services/concrete-basement">
             <h4 style="font-size: 27px !important">Concrete basement entrance</h4>
-            <img class="imagehover-02 border-01px" src="https://coffragesphoenix.com/assets/img/descente-de-sous-sol-en-beton_003.png" alt="Descente-de-sous-sol-en-beton">
+            <img class="imagehover-02 border-01px" src="/assets/img/descente-de-sous-sol-en-beton-004.webp" alt="Descente-de-sous-sol-en-beton">
           </a>
           <p>
             When adding a <strong>basement entrance</strong> or access to your property, it's important to enlist
@@ -97,7 +97,7 @@ include_once(__DIR__ . "/../head.php");
         <div class="services-item">
           <a href="https://coffragesphoenix.com/en/services/concrete-step">
             <h4>Concrete step</h4>
-            <img class="imagehover-02 border-01px" src="https://coffragesphoenix.com/assets/img/escalier-de-beton.jpg" alt="Marche-de-beton-laurentides">
+            <img class="imagehover-02 border-01px" src="/assets/img/escalier-de-beton.webp" alt="Marche-de-beton-laurentides">
           </a>
           <p>One of the most important things when making a <strong>concrete staircase</strong>
             is the <strong>formwork</strong>. A well-made <strong>formwork</strong> and the use of good quality concrete will ensure solid durability.</p>
@@ -107,7 +107,7 @@ include_once(__DIR__ . "/../head.php");
         <div class="services-item">
           <a href="https://coffragesphoenix.com/en/services/concrete-slab">
             <h4>Concrete slabs</h4>
-            <img class="imagehover-02 border-01px" src="https://coffragesphoenix.com/assets/img/dalle.jpeg" alt="Dalle-de-beton">
+            <img class="imagehover-02 border-01px" src="/assets/img/dalle.webp" alt="Dalle-de-beton">
           </a>
           <p>
             Driveways, patios, and walkways are just a few of the building projects that use concrete blocks.
@@ -119,7 +119,7 @@ include_once(__DIR__ . "/../head.php");
         <div class="services-item">
           <a href="https://coffragesphoenix.com/en/services/excavation-services">
             <h4>Mini excavation</h4>
-            <img class="imagehover-02 border-01px" src="https://coffragesphoenix.com/assets/img/excavation.jpg" alt="excavation">
+            <img class="imagehover-02 border-01px" src="/assets/img/excavation.webp" alt="excavation">
           </a>
           <p>We also specialize in water pipe and <strong>French drain</strong> installations,
             as well as <strong>site preparation</strong>. Our mini-excavators are compact and can access restricted spaces,
@@ -130,7 +130,7 @@ include_once(__DIR__ . "/../head.php");
         <div class="services-item">
           <a href="https://coffragesphoenix.com/en/services/concrete-repair">
             <h4>Repair</h4>
-            <img class="imagehover-02 border-01px" src="https://coffragesphoenix.com/assets/img/reparation-de-fissure.jpg" alt="Reparation-fissure-beton">
+            <img class="imagehover-02 border-01px" src="/assets/img/reparation-de-fissure.webp" alt="Reparation-fissure-beton">
           </a>
           <p>Whether it's repairing a <strong>foundation</strong>, a <strong>slab</strong>, a <strong>crack</strong>, or
             a <strong>concrete staircase</strong>, we can perform all kinds of <strong>concrete repairs</strong>. It is important to repair it as soon as possible to avoid more serious problems.

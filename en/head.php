@@ -10,7 +10,7 @@
   <link type="text/css" rel="stylesheet" href="https://coffragesphoenix.com/css/materialize.min.css"  media="screen,projection"/>
   <!-- to modify -->
   <link type="text/css" rel="stylesheet" href="https://coffragesphoenix.com/css/style.css" />
-  <link rel="icon" type="image/x-icon" href="https://coffragesphoenix.com/assets/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="/assets/favicon.ico" />
   
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -29,7 +29,7 @@
       "@context": "http://schema.org",
       "@type": "LocalBusiness",
       "name": "Coffrages Phoenix",
-      "image": "http://coffragesphoenix.com/assets/img/coffrages-phoenix.png",
+      "image": "http://coffragesphoenix.com/assets/img/coffrages-phoenix.webp",
       "telephone": "(514) 444-2822",
       "email": "soumission@coffragesphoenix.com",
       "address": {

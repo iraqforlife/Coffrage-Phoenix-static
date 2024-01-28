@@ -26,14 +26,14 @@ include_once(__DIR__ . "/../head.php");
       <div style="text-align: center;">
         <h1>Services</h1>
       </div>
-      <div style="text-align: center;margin-left: auto;margin-right: auto;"><img src="https://coffragesphoenix.com/assets/img/about-swig.svg" alt="about" /></div>
+      <div style="text-align: center;margin-left: auto;margin-right: auto;"><img src="/assets/img/about-swig.svg" alt="about" /></div>
     </div>
     <div class="services container-1200px" style="padding-bottom: 0;">
       <div class="columnswithgap-03">
         <div class="services-item">
           <a href="https://coffragesphoenix.com/services/coffrage">
             <h4>Coffrage</h4>
-            <img class="imagehover-02 border-01px" src="https://coffragesphoenix.com/assets/img/coffrage-de-beton.jpg" alt="Coffrage-de-beton">
+            <img class="imagehover-02 border-01px" src="/assets/img/coffrage-de-beton.webp" alt="Coffrage-de-beton">
           </a>
           <div class="spacer-010px"></div>
           <p>Nos <strong>spécialistes expérimentés</strong> offrent une gamme de solutions
@@ -47,7 +47,7 @@ include_once(__DIR__ . "/../head.php");
         <div class="services-item">
           <a href="https://coffragesphoenix.com/services/fondation-maison">
             <h4>Fondations de maison</h4>
-            <img class="imagehover-02 border-01px" src="https://coffragesphoenix.com/assets/img/fondation.jpg" alt="Fondation">
+            <img class="imagehover-02 border-01px" src="/assets/img/fondation.webp" alt="Fondation">
           </a>
           <p>
             Un composant essentiel qui soutient le poids de la structure complète sont les fondations en béton.
@@ -60,7 +60,7 @@ include_once(__DIR__ . "/../head.php");
         <div class="services-item">
           <a href="https://coffragesphoenix.com/services/agrandissement-maison">
             <h4>Agrandissement de maison</h4>
-            <img class="imagehover-02 border-01px" src="https://coffragesphoenix.com/assets/img/agrandissement.jpg" alt="Agrandissement-fondation">
+            <img class="imagehover-02 border-01px" src="/assets/img/agrandissement.webp" alt="Agrandissement-fondation">
           </a>
           <p>
             Lorsque vous construisez une nouvelle extension à votre maison, choisissez des composants qui <strong>dureront et seront solides</strong>.
@@ -73,7 +73,7 @@ include_once(__DIR__ . "/../head.php");
         <div class="services-item">
           <a href="https://coffragesphoenix.com/services/balcon-en-beton">
             <h4>Balcons en béton</h4>
-            <img class="imagehover-02 border-01px" src="https://coffragesphoenix.com/assets/img/balcon-de-beton.jpg" alt="Balcon-en-beton">
+            <img class="imagehover-02 border-01px" src="/assets/img/balcon-de-beton.webp" alt="Balcon-en-beton">
           </a>
           <p>
             En raison de leur <strong>solidité</strong>, de leur <strong>résistance</strong> et de leur capacité à <strong>résister aux intempéries</strong>, les balcons en béton sont courants.
@@ -85,7 +85,7 @@ include_once(__DIR__ . "/../head.php");
         <div class="services-item">
           <a href="https://coffragesphoenix.com/services/descente-sous-sol-beton">
             <h4 style="font-size: 27px !important">Descente de sous-sol en béton</h4>
-            <img class="imagehover-02 border-01px" src="https://coffragesphoenix.com/assets/img/descente-de-sous-sol-en-beton_003.png" alt="Descente-de-sous-sol-en-beton">
+            <img class="imagehover-02 border-01px" src="/assets/img/descente-de-sous-sol-en-beton-004.webp" alt="Descente-de-sous-sol-en-beton">
           </a>
           <p>
             Lors de l'ajout d'une descente ou d'un accès au <strong>sous-sol</strong> de votre propriété,
@@ -97,7 +97,7 @@ include_once(__DIR__ . "/../head.php");
         <div class="services-item">
           <a href="https://coffragesphoenix.com/services/marche-de-beton">
             <h4>Marche en béton</h4>
-            <img class="imagehover-02 border-01px" src="https://coffragesphoenix.com/assets/img/escalier-de-beton.jpg" alt="Marche-de-beton-laurentides">
+            <img class="imagehover-02 border-01px" src="/assets/img/escalier-de-beton.webp" alt="Marche-de-beton-laurentides">
           </a>
           <p>
             L'une des choses les plus importantes lors de la fabrication d'un <strong>escalier de béton</strong> est le <strong>coffrage</strong>.
@@ -109,7 +109,7 @@ include_once(__DIR__ . "/../head.php");
         <div class="services-item">
           <a href="https://coffragesphoenix.com/services/dalle-de-beton">
             <h4>Dalles en béton</h4>
-            <img class="imagehover-02 border-01px" src="https://coffragesphoenix.com/assets/img/dalle.jpeg" alt="Dalle-de-beton">
+            <img class="imagehover-02 border-01px" src="/assets/img/dalle.webp" alt="Dalle-de-beton">
           </a>
           <p>
             Les allées, les patios et les trottoirs ne sont que quelques-uns des projets de construction qui utilisent des blocs de béton.
@@ -122,7 +122,7 @@ include_once(__DIR__ . "/../head.php");
         <div class="services-item">
           <a href="https://coffragesphoenix.com/services/mini-excavation">
             <h4>Mini excavation</h4>
-            <img class="imagehover-02 border-01px" src="https://coffragesphoenix.com/assets/img/excavation.jpg" alt="excavation">
+            <img class="imagehover-02 border-01px" src="/assets/img/excavation.webp" alt="excavation">
           </a>
           <p>Les mini-excavations sont souvent utilisées pour creuser des <strong>tranchées</strong>
             pour les conduites d'eau et des <strong>drains français</strong>, ainsi que pour la <strong>préparation de terrains</strong>.
@@ -135,7 +135,7 @@ include_once(__DIR__ . "/../head.php");
         <div class="services-item">
           <a href="https://coffragesphoenix.com/services/fissure-beton">
             <h4>Réparations</h4>
-            <img class="imagehover-02 border-01px" src="https://coffragesphoenix.com/assets/img/reparation-de-fissure.jpg" alt="Reparation-fissure-beton">
+            <img class="imagehover-02 border-01px" src="/assets/img/reparation-de-fissure.webp" alt="Reparation-fissure-beton">
           </a>
           <p>
             Que ce soit pour la <strong>réparation</strong> d'une <strong>fondation</strong> d'une <strong>dalle</strong>, d'une <strong>fissure</strong> ou

@@ -83,7 +83,7 @@
     <div class="reviews-boxes">
         <a class="reviews-box" href="https://soumissionrenovation.ca/entrepreneur/coffrages_phoenix" target="_blank" class="reviews-box">
             <div class="reviews-box-img">
-                <div class="reviews-img-wrapper"><img style="max-width: 100%; height: auto;" width="100px" height="100px" src="https://coffragesphoenix.com/assets/img/j.png" alt="about" /></div>
+                <div class="reviews-img-wrapper"><img style="max-width: 100%; height: auto;" width="100px" height="100px" src="/assets/img/j.webp" alt="about" /></div>
                 <div>
                     <p>Bon travaux bon prix</p>
                 </div>
@@ -99,7 +99,7 @@
         </a>
         <a class="reviews-box" href="https://soumissionrenovation.ca/entrepreneur/coffrages_phoenix" target="_blank">
             <div class="reviews-box-img">
-                <div class="reviews-img-wrapper"><img style="max-width: 100%; height: auto;" width="100px" height="100px" src="https://coffragesphoenix.com/assets/img/a.png" alt="about" /></div>
+                <div class="reviews-img-wrapper"><img style="max-width: 100%; height: auto;" width="100px" height="100px" src="/assets/img/a.webp" alt="about" /></div>
                 <div>
                     <p>Excellent entrepreneur expérimenté Respecte pleinement ses engagements Je le recommande</p>
                 </div>
@@ -115,7 +115,7 @@
         </a>
         <div class="reviews-box">
             <a href="https://g.co/kgs/49Fy9r" target="_blank" class="reviews-box-img" style="color: black;">
-                <div class="reviews-img-wrapper"><img style="max-width: 100%; height: auto;" width="100px" height="100px" src="https://coffragesphoenix.com/assets/img/p.png" alt="about" /></div>
+                <div class="reviews-img-wrapper"><img style="max-width: 100%; height: auto;" width="100px" height="100px" src="/assets/img/p.webp" alt="about" /></div>
                 <div>
                     <p>Excellent service!</p>
                 </div>

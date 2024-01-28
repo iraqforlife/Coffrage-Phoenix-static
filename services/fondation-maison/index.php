@@ -13,11 +13,11 @@
       <div style="text-align: center;">
           <h2>Services <strong>Coffrages</strong></h2>
       </div>
-      <div style="text-align: center;margin-left: auto;margin-right: auto;"><img src="https://coffragesphoenix.com/assets/img/about-swig.svg" alt="about"/></div>
+      <div style="text-align: center;margin-left: auto;margin-right: auto;"><img src="/assets/img/about-swig.svg" alt="about"/></div>
   
       <div class="desc">
           <div class="desc-img">
-              <img src="https://coffragesphoenix.com/assets/img/fondation2.jpg" alt="Fondation" width="780" height="759">
+              <img src="/assets/img/fondation2.webp" alt="Fondation" width="780" height="759">
           </div>
           <div class="servces-desc-title">
               <h1 style="font-size: 50px !important;color:#545454;"><strong>Fondations de maison</strong></h1>

@@ -61,7 +61,7 @@ include_once(__DIR__ . "/../head.php");
       <div style="text-align: center;">
         <h1>Réalisations</h1>
       </div>
-      <div style="text-align: center;margin-left: auto;margin-right: auto;"><img src="https://coffragesphoenix.com/assets/img/about-swig.svg" alt="about" /></div>
+      <div style="text-align: center;margin-left: auto;margin-right: auto;"><img src="/assets/img/about-swig.svg" alt="about" /></div>
     </div>
     <div class="container-95pct">
       <div class="insta-button">
@@ -71,36 +71,36 @@ include_once(__DIR__ . "/../head.php");
         <h2 class="header-1">Marche de béton, dalle de béton et balcon en béton</h2>
       </div>
       <div class="columns-03-333333">
-        <img src="https://coffragesphoenix.com/assets/img/Marche-en-beton_001.jpg" width="800" height="575" alt="Marche-en-beton" fetchPriority="high" loading="lazy">
-        <img src="https://coffragesphoenix.com/assets/img/Marche-en-beton_002.jpg" width="800" height="575" alt="Marche-en-beton" fetchPriority="high" loading="lazy">
-        <img src="https://coffragesphoenix.com/assets/img/escalier-de-beton_001.jpg" width="800" height="575" alt="Marche-de-beton-laurentides" fetchPriority="high" loading="lazy">
-        <img src="https://coffragesphoenix.com/assets/img/escalier-de-beton_002.jpg" width="800" height="575" alt="Marche-de-beton-lanaudiere" fetchPriority="high" loading="lazy">
-        <img src="https://coffragesphoenix.com/assets/img/escalier-de-beton_003.jpeg" width="800" height="575" alt="Escalier-en-beton" fetchPriority="high" loading="lazy">
-        <img src="https://coffragesphoenix.com/assets/img/escalier-de-beton_004.jpeg" width="800" height="575" alt="Escalier-en-beton" fetchPriority="high" loading="lazy">
-        <img src="https://coffragesphoenix.com/assets/img/escalier-de-beton_005.jpeg" width="800" height="575" alt="Escalier-de-beton-laurentides" fetchPriority="high" loading="lazy">
-        <img src="https://coffragesphoenix.com/assets/img/escalier-trottoir-de-beton_001.jpg" width="800" height="575" alt="Trottoir-en-beton" fetchPriority="high" loading="lazy">
-        <img src="https://coffragesphoenix.com/assets/img/escalier-trottoir-de-beton_002.jpg" width="800" height="575" alt="Escalier de beton" fetchPriority="high" loading="lazy">
-        <img src="https://coffragesphoenix.com/assets/img/balcon-de-beton_003.jpg" width="800" height="575" alt="Balcon-en-beton" fetchPriority="high" loading="lazy">
-        <img src="https://coffragesphoenix.com/assets/img/balcon-de-beton_004.jpg" width="800" height="575" alt="Balcon-en-beton" fetchPriority="high" loading="lazy">
-        <img src="https://coffragesphoenix.com/assets/img/patio2.jpeg" width="800" height="575" alt="Patio" fetchPriority="high" loading="lazy">
-        <img src="https://coffragesphoenix.com/assets/img/patio.jpeg" width="800" height="575" alt="Patio-en-beton" fetchPriority="high" loading="lazy">
-        <img src="https://coffragesphoenix.com/assets/img/piscine.jpeg" width="800" height="575" alt="Piscine" fetchPriority="high" loading="lazy">
+        <img src="./assets/img/marche-en-beton-001.webp" width="800" height="575" alt="Marche-en-beton" fetchPriority="high" loading="lazy">
+        <img src="./assets/img/marche-en-beton-002.webp" width="800" height="575" alt="Marche-en-beton" fetchPriority="high" loading="lazy">
+        <img src="./assets/img/escalier-de-beton-001.webp" width="800" height="575" alt="Marche-de-beton-laurentides" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/escalier-de-beton-002.webp" width="800" height="575" alt="Marche-de-beton-lanaudiere" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/escalier-de-beton-003.webp" width="800" height="575" alt="Escalier-en-beton" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/escalier-de-beton-004.webp" width="800" height="575" alt="Escalier-en-beton" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/escalier-de-beton-005.webp" width="800" height="575" alt="Escalier-de-beton-laurentides" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/escalier-trottoir-de-beton-001.webp" width="800" height="575" alt="Trottoir-en-beton" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/escalier-trottoir-de-beton-002.webp" width="800" height="575" alt="Escalier de beton" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/balcon-de-beton-003.webp" width="800" height="575" alt="Balcon-en-beton" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/balcon-de-beton-004.webp" width="800" height="575" alt="Balcon-en-beton" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/patio2.webp" width="800" height="575" alt="Patio" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/patio.webp" width="800" height="575" alt="Patio-en-beton" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/piscine.webp" width="800" height="575" alt="Piscine" fetchPriority="high" loading="lazy">
       </div>
       <div class="alignleft" style="margin: 25px 0;">
         <h2>Descente de sous-sol en béton</h2>
       </div>
       <div class="columns-02-5050">
-        <img src="https://coffragesphoenix.com/assets/img/descente-de-sous-sol-en-beton_001.jpg" width="800" height="575" alt="Descente-de-sous-sol-en-beton" loading="lazy">
-        <img src="https://coffragesphoenix.com/assets/img/descente-de-sous-sol-en-beton_002.jpg" width="800" height="575" alt="Descente-de-sous-sol-laurentides" loading="lazy">
-        <img src="https://coffragesphoenix.com/assets/img/descente-de-sous-sol-en-beton_003.jpeg" width="800" height="575" alt="Descente-de-sous-sol-rive-nord" loading="lazy">
+        <img src="/assets/img/descente-de-sous-sol-en-beton-001.webp" width="800" height="575" alt="Descente-de-sous-sol-en-beton" loading="lazy">
+        <img src="/assets/img/descente-de-sous-sol-en-beton-002.webp" width="800" height="575" alt="Descente-de-sous-sol-laurentides" loading="lazy">
+        <img src="/assets/img/descente-de-sous-sol-en-beton-003.webp" width="800" height="575" alt="Descente-de-sous-sol-rive-nord" loading="lazy">
       </div>
       <div class="alignleft" style="margin: 25px 0;">
         <h2>Fondations pour agrandissement de maison</h2>
       </div>
       <div class="columns-02-5050">
-        <img src="https://coffragesphoenix.com/assets/img/fondation-agrandissement-de-maison_001.jpg" width="800" height="575" alt="Agrandissement-fondation" fetchPriority="low" loading="lazy">
-        <img src="https://coffragesphoenix.com/assets/img/fondation-agrandissement-de-maison_002.jpeg" width="800" height="575" alt="agrandissement-fondation-maison-laurentides" fetchPriority="low" loading="lazy">
-        <img src="https://coffragesphoenix.com/assets/img/fondation-agrandissement-de-maison_003.jpg"="800" height="575" alt="Agrandissement-fondation" fetchPriority="low" loading="lazy">
+        <img src="/assets/img/fondation-agrandissement-de-maison-001.webp" width="800" height="575" alt="Agrandissement-fondation" fetchPriority="low" loading="lazy">
+        <img src="/assets/img/fondation-agrandissement-de-maison-002.webp" width="800" height="575" alt="agrandissement-fondation-maison-laurentides" fetchPriority="low" loading="lazy">
+        <img src="/assets/img/fondation-agrandissement-de-maison-003.webp"="800" height="575" alt="Agrandissement-fondation" fetchPriority="low" loading="lazy">
       </div>
     </div>
 
