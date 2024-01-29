@@ -1,5 +1,5 @@
 <footer>
-    <div class="backgroundcolor-04">
+    <div style="background-color: #1c1c1c">
         <div class="spacer-010px"></div>
         <div class="container-95pct columns-03-333333-02 padding-050px">
             <div class="alignleft">
