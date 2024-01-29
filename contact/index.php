@@ -27,7 +27,7 @@ include_once(__DIR__ . "/../head.php");
                 <div class="icon-back">
                   <i class="fa-solid fa-phone"></i>
                 </div>
-                <div>
+                <div style="margin-left: 20px;">
                   <h4>Téléphone</h4>
                   <span>(514) 444-2822</span>
                 </div>
@@ -40,7 +40,7 @@ include_once(__DIR__ . "/../head.php");
                 <div class="icon-back">
                   <i class="fa-solid fa-envelope"></i>
                 </div>
-                <div>
+                <div style="margin-left: 20px;">
                   <h4>Courriel</h4>
                   <span>soumission@coffragesphoenix.com</span>
                 </div>
@@ -53,7 +53,7 @@ include_once(__DIR__ . "/../head.php");
                 <div class="icon-back">
                   <i class="fa-brands fa-facebook"></i>
                 </div>
-                <div>
+                <div style="margin-left: 20px;">
                   <h4>Facebook</h4>
                   <span>@Coffragesphoenix</span>
                 </div>
@@ -66,7 +66,7 @@ include_once(__DIR__ . "/../head.php");
                 <div class="icon-back">
                   <i class="fa-brands fa-instagram"></i>
                 </div>
-                <div>
+                <div style="margin-left: 20px;">
                   <h4>Instagram</h4>
                   <span>@Coffragesphoenix</span>
                 </div>
@@ -79,7 +79,7 @@ include_once(__DIR__ . "/../head.php");
                 <div class="icon-back">
                   <i class="fa-solid fa-location-dot"></i>
                 </div>
-                <div>
+                <div style="margin-left: 20px;">
                   <h4>Location</h4>
                   <span>4635 Boulevard Laurier,<br>Terrebonne, QC<br>J6X 0B3</span>
                 </div>

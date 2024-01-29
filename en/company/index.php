@@ -2,7 +2,7 @@
 <html>
 <?php
 $metaDesc = "Learn more about who Coffrages Phoenix are, what our values are, and what our vision is in the industry.";
-$englishUrl = "/en/about";
+$englishUrl = "/entreprise";
 include_once(__DIR__ . "/../head.php");
 ?>
 
