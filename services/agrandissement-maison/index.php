@@ -9,12 +9,11 @@
   <?php include(__DIR__."/../../header.php")?>
 
   <div class="container">
-    <div style="display: grid;" class="about">
+    <div class="about">
       <div style="text-align: center;">
           <h2>Services <strong>Coffrages</strong></h2>
       </div>
-      <div style="text-align: center;margin-left: auto;margin-right: auto;"><img src="/assets/img/about-swig.svg" alt="about"/></div>
-  
+      <div style="text-align: center;margin-left: auto;margin-right: auto; margin-top: 30px; margin-bottom: 30px;"><a href="#soumission" class="blue-button">Demander une soumission</a></div>
       <div class="desc">
           <div class="desc-img">
               <img src="/assets/img/fondation-agrandissement-de-maison-001.webp" alt="Agrandissement-maison" width="780" height="759">
@@ -26,7 +25,7 @@
           </div>
       </div>
   
-      <div data-paperform-id="lesentrerpisesasraca"></div>
+      <div id="soumission" data-paperform-id="lesentrerpisesasraca"></div>
     </div>
   </div>
   <?php include(__DIR__."/../../footing.php")?>
