@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <?php
-$metaDesc = "Apprenez en plus sur qui est Coffrages Phoenix, quels sont nos valeurs et quel-est notre vision dans le domaine.";
+$metaDesc = "If you have nay questions for Coffrage Phoenix or inquiries about your projects, please don’t hesitate to reach out to us. You can contact us by phone at 514-444-2822, by email at soumission@coffragesphoenix.com, through our social media channels @coffragesphoenix";
 $englishUrl = "/contact";
 include_once(__DIR__ . "/../head.php");
 ?>

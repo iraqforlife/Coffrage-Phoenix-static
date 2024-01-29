@@ -65,7 +65,7 @@
                     <p style="font-size: 24px;" class="fonthover-04 bold">Villes et régions desservies</p>
                     <p style="font-size: 16px;" class="fonthover-04 lineheight-125">
                         Blainville, Bois-des-Filion, Chertsey, Joliette, L'Assomption, L'Épiphanie, Lac Écho, Lac Siesta, 
-                        Laurentides, Laval, Lorraine, Mascouche, Montréal, Rawdon, Repentigny, Rive-Nord, Rosemère, Saint-Alexis,
+                        Laurentides, <a href="/coffrage-beton-laval">Laval</a>, Lorraine, Mascouche, Montréal, Rawdon, Repentigny, Rive-Nord, Rosemère, Saint-Alexis,
                         Saint-Calixte, Saint-Esprit, Saint-Eustache, Saint-Hippolyte, Saint-Jacques, Saint-Jérôme, Saint-Lin, 
                         Saint-Roch-de-L'Achigan, Sainte-Anne-des-Plaines, Sainte-Julienne, Sainte-Sophie, Sainte-Thérèse, Terrebonne
                     </p>
