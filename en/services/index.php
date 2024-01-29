@@ -11,15 +11,7 @@ include_once(__DIR__ . "/../head.php");
 
   <div class="container">
     <style>
-      .services img {
-        border: 1px solid var(--primaryColor);
-        margin: 12px 0;
-      }
-
-      .services p {
-        text-align: justify;
-        font-size: 14px;
-      }
+      .services img {border: 1px solid var(--primaryColor);margin: 12px 0;}.services p {text-align: justify;font-size: 14px;}
     </style>
     <div style="display: grid;margin-bottom: 30px;">
       <div style="text-align: center;">

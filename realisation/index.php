@@ -8,50 +8,7 @@ include_once(__DIR__ . "/../head.php");
 
 <body>
   <style>
-    @media only screen and (min-width: 573px) and (max-width: 831px) {
-      h2 {
-        font-size: 40px !important;
-        line-height: 35px !important;
-      }
-
-      .header-1 {
-        font-size: 35px !important;
-      }
-    }
-
-    @media only screen and (min-width: 395px) and (max-width: 572px) {
-      h2 {
-        font-size: 30px !important;
-        line-height: 35px !important;
-      }
-
-      .insta-button a {
-        font-size: 14px !important;
-      }
-    }
-
-    @media only screen and (max-width: 394px) {
-      .insta-button a {
-        font-size: 12px !important;
-      }
-      .red-button {
-        font-size: 12px !important;
-      }
-    }
-
-    .insta-button {
-      text-align: center;
-      margin: 40px 0;
-    }
-
-    h2 {
-      font-family: "Space Grotesk", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif !important;
-      font-size: 45px !important;
-      line-height: 60px !important;
-      font-weight: 400 !important;
-      letter-spacing: 0px !important;
-      color: var(--primaryColor);
-    }
+    @media only screen and (min-width:573px) and (max-width:831px){h2{font-size:40px!important;line-height:35px!important}.header-1{font-size:35px!important}}@media only screen and (min-width:395px) and (max-width:572px){h2{font-size:30px!important;line-height:35px!important}.insta-button a{font-size:14px!important}}@media only screen and (max-width:394px){.insta-button a,.red-button{font-size:12px!important}}.insta-button{text-align:center;margin:40px 0}h2{font-family:"Space Grotesk",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif!important;font-size:45px!important;line-height:60px!important;font-weight:400!important;letter-spacing:0!important;color:var(--primaryColor)}
   </style>
   <?php include(__DIR__ . "/../header.php") ?>
 
