@@ -8,30 +8,6 @@ include_once(__DIR__ . "/head.php");
 
 <body>
   <?php include(__DIR__ . "/header.php") ?>
-  <script>
-
-    document.addEventListener('DOMContentLoaded', function () {
-      const container = document.getElementById('carousel')
-      const sliderButtons = document.getElementsByClassName('sliderButton')
-
-      for (var i = 0; i < sliderButtons.length; i++) {
-        const divider = container.scrollWidth / sliderButtons.length
-        const scrollTo = divider * i
-
-        sliderButtons[i].addEventListener('click', function () {
-          container.scrollLeft = scrollTo
-        })
-      }
-
-      document.getElementById('left').addEventListener('click', function () {
-        container.scrollLeft -= 500
-      })
-      document.getElementById('right').addEventListener('click', function () {
-        container.scrollLeft += 500
-      })
-    });
-
-  </script>
   <style>
     .slider-header {
       width: 40%;
@@ -40,7 +16,6 @@ include_once(__DIR__ . "/head.php");
     .slider-header h2 {
       margin-bottom: 30px;
       color: black !important;
-
     }
 
     @media only screen and (max-width: 360px) {
@@ -120,7 +95,6 @@ include_once(__DIR__ . "/head.php");
 
     @media only screen and (max-width: 550px) {
       .slider-header .socials {
-
         display: none;
       }
     }
@@ -132,17 +106,11 @@ include_once(__DIR__ . "/head.php");
     .service-item {
       text-align: center;
       margin: 10px;
-      border: 1px solid v#0c4c8e;
+      border: 1px solid #0c4c8e;
       max-width: 650px;
-      min-width: 500px;
+      min-width: 340px;
       box-shadow: 0px 4px 5px 0px rgba(12, 76, 142, .38);
 
-    }
-
-    @media only screen and (max-width: 1100px) {
-      .service-item {
-        margin: 10px auto;
-      }
     }
 
     .service-item p {
@@ -184,7 +152,8 @@ include_once(__DIR__ . "/head.php");
       </div>
       <style>
         .servicesSlider {
-          position: relative;
+          display: grid;
+          grid-template-columns: 5% 90% 5%;
         }
 
         .borderBlue {
@@ -224,22 +193,26 @@ include_once(__DIR__ . "/head.php");
         }
 
         #left {
-          top: 50%;
-          transform: translateY(-50%) translateX(-20px);
           z-index: 10;
         }
 
         #right {
-          top: 50%;
-          right: 0;
-          transform: translateY(-50%) translateX(20px);
           z-index: 10;
         }
+            .sliderButton {
+              background-color: #ced4da;
+              width: 3rem;
+              height: 0.6rem;
+              transition: background-color .2s, color .2s, box-shadow .2s;
+              border-radius: 0;
+              border-width: thin;
+              border-color: #0c4c8e;
+            }
       </style>
 
-      <div class="servicesSlider" style="">
-        <button id="left" class="verticleCenter carouselButtons">
-          <i class="fa-solid fa-arrow-left"></i>
+      <div class="servicesSlider">
+        <button id="left" class="carouselButtons">
+          <i class="fa-solid fa-arrow-left" style="font-size: x-large;"></i>
         </button>
         <div id="carousel">
           <div class="aligncenter serviceItems">
@@ -287,28 +260,15 @@ include_once(__DIR__ . "/head.php");
             </div>
           </div>
         </div>
-        <button id="right" class="verticleCenter carouselButtons">
-          <i class="fa-solid fa-arrow-right"></i>
+        <button id="right" class="carouselButtons">
+          <i class="fa-solid fa-arrow-right" style="font-size: x-large;"></i>
         </button>
+      </div>
         <div class="aligncenter">
-          <script>
-            console.log('aaa')
-          </script>
-          <style>
-            .sliderButton {
-
-              background-color: #ced4da;
-              width: 2rem;
-              height: 0.5rem;
-              transition: background-color .2s, color .2s, box-shadow .2s;
-              border-radius: 0;
-            }
-          </style>
           <button class="sliderButton"></button>
           <button class="sliderButton"></button>
           <button class="sliderButton"></button>
         </div>
-      </div>
       <div style="text-align: center;margin-bottom: 35px;margin-top: 15px;">
         <button [routerLink]="['/services']" class="blue-button">{{'services-plus' | translate}}</button>
       </div>
@@ -462,5 +422,29 @@ include_once(__DIR__ . "/head.php");
   </div>
   <?php include(__DIR__ . "/footing.php") ?>
 </body>
+  <script>
+
+    document.addEventListener('DOMContentLoaded', function () {
+      const container = document.getElementById('carousel')
+      const sliderButtons = document.getElementsByClassName('sliderButton')
+
+      for (var i = 0; i < sliderButtons.length; i++) {
+        const divider = container.scrollWidth / sliderButtons.length
+        const scrollTo = divider * i
+
+        sliderButtons[i].addEventListener('click', function () {
+          container.scrollLeft = scrollTo
+        })
+      }
+
+      document.getElementById('left').addEventListener('click', function () {
+        container.scrollLeft -= 500
+      })
+      document.getElementById('right').addEventListener('click', function () {
+        container.scrollLeft += 500
+      })
+    });
+
+  </script>
 
 </html>
