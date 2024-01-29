@@ -8,6 +8,30 @@ include_once(__DIR__ . "/head.php");
 
 <body>
   <?php include(__DIR__ . "/header.php") ?>
+  <script>
+
+    document.addEventListener('DOMContentLoaded', function () {
+      const container = document.getElementById('carousel')
+      const sliderButtons = document.getElementsByClassName('sliderButton')
+
+      for (var i = 0; i < sliderButtons.length; i++) {
+        const divider = container.scrollWidth / sliderButtons.length
+        const scrollTo = divider * i
+
+        sliderButtons[i].addEventListener('click', function () {
+          container.scrollLeft = scrollTo
+        })
+      }
+
+      document.getElementById('left').addEventListener('click', function () {
+        container.scrollLeft -= 500
+      })
+      document.getElementById('right').addEventListener('click', function () {
+        container.scrollLeft += 500
+      })
+    });
+
+  </script>
   <style>
     .slider-header {
       width: 40%;
@@ -110,6 +134,7 @@ include_once(__DIR__ . "/head.php");
       margin: 10px;
       border: 1px solid v#0c4c8e;
       max-width: 650px;
+      min-width: 500px;
       box-shadow: 0px 4px 5px 0px rgba(12, 76, 142, .38);
 
     }
@@ -138,13 +163,18 @@ include_once(__DIR__ . "/head.php");
         <div class="spacer-001"></div>
         <a class="button-border" href="#soumission">{{'QUOTE'|translate}}&nbsp; &#10095;</a>
         <div class="socials fonthover-06" style="margin-top: 5px;">
-          <a class="reseau-button" href="https://www.facebook.com/coffragesphoenix/" target="_blank"><i class="fa-brands fa-facebook"></i></a>
-          <a class="reseau-button" href="https://www.instagram.com/coffragesphoenix/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-          <a class="reseau-button" href="https://twitter.com/CoffragePhoenix/" title="Twitter" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+          <a class="reseau-button" href="https://www.facebook.com/coffragesphoenix/" target="_blank"><i
+              class="fa-brands fa-facebook"></i></a>
+          <a class="reseau-button" href="https://www.instagram.com/coffragesphoenix/" target="_blank"><i
+              class="fa-brands fa-instagram"></i></a>
+          <a class="reseau-button" href="https://twitter.com/CoffragePhoenix/" title="Twitter" target="_blank"><i
+              class="fa-brands fa-twitter"></i></a>
         </div>
       </div>
       <div style="overflow: hidden;">
-        <img src="/assets/img/coffrage-de-beton-sainte-anne-des-plaines.webp" style="min-height:100px;max-height:850px;object-fit:cover;width: 200%;position:relative;margin:0;left:0" alt="Coffrage-de-beton-rive-nord">
+        <img src="/assets/img/coffrage-de-beton-sainte-anne-des-plaines.webp"
+          style="min-height:100px;max-height:850px;object-fit:cover;width: 200%;position:relative;margin:0;left:0"
+          alt="Coffrage-de-beton-rive-nord">
       </div>
     </div>
 
@@ -153,6 +183,10 @@ include_once(__DIR__ . "/head.php");
         <h2>Nos services</h2>
       </div>
       <style>
+        .servicesSlider {
+          position: relative;
+        }
+
         .borderBlue {
           border: 1px solid #0c4c8e;
         }
@@ -162,19 +196,52 @@ include_once(__DIR__ . "/head.php");
         }
 
         .serviceItems {
-          display: grid;
-          grid-template-columns: 33.33% 33.33% 33.33%;
+          display: flex;
+          flex-wrap: nowrap;
+          white-space: nowrap;
         }
 
         .verticleCenter {
+          position: absolute;
           display: flex;
+          align-items: center;
           justify-content: center;
           align-items: center;
         }
+
+        .carouselButtons {
+          outline: none;
+          background: none;
+          border: none;
+          cursor: pointer;
+        }
+
+        #carousel {
+          display: flex;
+          align-items: center;
+          overflow-x: auto;
+          scroll-behavior: smooth;
+        }
+
+        #left {
+          top: 50%;
+          transform: translateY(-50%) translateX(-20px);
+          z-index: 10;
+        }
+
+        #right {
+          top: 50%;
+          right: 0;
+          transform: translateY(-50%) translateX(20px);
+          z-index: 10;
+        }
       </style>
-      <div class="servicesSlider" style="display:grid; grid-template-rows:90% 10%">
-        <div style="display:grid; grid-template-columns:5% 90% 5%">
-            <div class="verticleCenter"><i class="fa-solid fa-arrow-left"></i></div>
+
+      <div class="servicesSlider" style="">
+        <button id="left" class="verticleCenter carouselButtons">
+          <i class="fa-solid fa-arrow-left"></i>
+        </button>
+        <div id="carousel">
           <div class="aligncenter serviceItems">
             <div class="service-item">
               <a href="/services/coffrage">
@@ -194,37 +261,39 @@ include_once(__DIR__ . "/head.php");
                 <p>Agrandissement de maison</p>
               </a>
             </div>
-            <div class="service-item hide">
+            <div class="service-item">
               <a href="/services/balcon-en-beton">
                 <img src="/assets/img/balcon-de-beton.webp" alt="Balcons en béton">
                 <p>Balcons en béton</p>
               </a>
             </div>
-            <div class="service-item hide">
+            <div class="service-item ">
               <a href="/services/descente-sous-sol-beton">
                 <img src="/assets/img/descente-de-sous-sol-en-beton-003.webp" alt="Descente de sous-sol en béton">
                 <p>Descente de sous-sol en béton</p>
               </a>
             </div>
-            <div class="service-item hide">
+            <div class="service-item">
               <a href="/services/marche-de-beton">
                 <img src="/assets/img/escalier-de-beton.webp" alt="Marche en béton">
                 <p>Marche en béton</p>
               </a>
             </div>
-            <div class="service-item hide">
+            <div class="service-item">
               <a href="/services/dalle-de-beton/">
                 <img src="/assets/img/dalle.webp" alt="concrete-dalle">
                 <p>Dalles en béton</p>
               </a>
             </div>
-
-          </div>
-          <div class="verticleCenter">
-            <i class="fa-solid fa-arrow-right"></i>
           </div>
         </div>
+        <button id="right" class="verticleCenter carouselButtons">
+          <i class="fa-solid fa-arrow-right"></i>
+        </button>
         <div class="aligncenter">
+          <script>
+            console.log('aaa')
+          </script>
           <style>
             .sliderButton {
 
@@ -349,7 +418,8 @@ include_once(__DIR__ . "/head.php");
           </div>
           <div>
             <h3>Intégrité</h3>
-            <p>Nous nous engageons à agir avec intégrité dans toutes nos activités en respectant les normes éthiques et les lois en vigueur.</p>
+            <p>Nous nous engageons à agir avec intégrité dans toutes nos activités en respectant les normes éthiques et
+              les lois en vigueur.</p>
           </div>
         </div>
         <div class="value">
@@ -367,7 +437,8 @@ include_once(__DIR__ . "/head.php");
           </div>
           <div>
             <h3>Confiance</h3>
-            <p>Nous construisons la confiance de nos clients en étant transparents dans nos communications et nos activités et en respectant nos engagements.</p>
+            <p>Nous construisons la confiance de nos clients en étant transparents dans nos communications et nos
+              activités et en respectant nos engagements.</p>
           </div>
         </div>
         <div class="value">
@@ -376,7 +447,8 @@ include_once(__DIR__ . "/head.php");
           </div>
           <div>
             <h3>Innovation</h3>
-            <p>Nous cherchons en permanence à innover en adoptant des techniques et des technologies de pointe pour améliorer la qualité de nos produits et services.</p>
+            <p>Nous cherchons en permanence à innover en adoptant des techniques et des technologies de pointe pour
+              améliorer la qualité de nos produits et services.</p>
           </div>
         </div>
       </div>
