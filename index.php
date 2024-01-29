@@ -123,31 +123,26 @@ include_once(__DIR__ . "/head.php");
     }
   </style>
   <div class="container">
-
     <div style="position: relative;z-index: 2;">
       <div class="absolute container-91pct top-050px left-003pct slider-header">
-        <h1>Coffrages Phoenix</h1>
-        <h2>{{'home.title' | translate}}</h2>
+
+        <h2>Spécialiste en fondation de béton et coffrages dans Lanaudière, les Laurentides et la Rive-Nord</h2>
         <div class="spacer-001"></div>
-        <a class="button-border" href="#soumission">{{'QUOTE'|translate}}&nbsp; &#10095;</a>
+        <a class="button-border" href="#soumission">Soumission&nbsp; &#10095;</a>
         <div class="socials fonthover-06" style="margin-top: 5px;">
-          <a class="reseau-button" href="https://www.facebook.com/coffragesphoenix/" target="_blank"><i
-              class="fa-brands fa-facebook"></i></a>
-          <a class="reseau-button" href="https://www.instagram.com/coffragesphoenix/" target="_blank"><i
-              class="fa-brands fa-instagram"></i></a>
-          <a class="reseau-button" href="https://twitter.com/CoffragePhoenix/" title="Twitter" target="_blank"><i
-              class="fa-brands fa-twitter"></i></a>
+          <a class="reseau-button" href="https://www.facebook.com/coffragesphoenix/" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+          <a class="reseau-button" href="https://www.instagram.com/coffragesphoenix/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+          <a class="reseau-button" href="https://twitter.com/CoffragePhoenix/" title="Twitter" target="_blank"><i class="fa-brands fa-twitter"></i></a>
         </div>
       </div>
       <div style="overflow: hidden;">
-        <img src="/assets/img/coffrage-de-beton-sainte-anne-des-plaines.webp"
-          style="min-height:100px;max-height:850px;object-fit:cover;width: 200%;position:relative;margin:0;left:0"
-          alt="Coffrage-de-beton-rive-nord">
+        <img src="/assets/img/coffrage-de-beton-sainte-anne-des-plaines.webp" style="min-height:100px;max-height:850px;object-fit:cover;width: 200%;position:relative;margin:0;left:0" alt="Coffrage-de-beton-rive-nord">
       </div>
     </div>
 
     <div class="container-1200px padding-060px" style="padding-bottom: 0;">
       <div class="services-header">
+        <h1>Coffrages Phoenix</h1>
         <h2>Nos services</h2>
       </div>
       <style>
@@ -199,17 +194,17 @@ include_once(__DIR__ . "/head.php");
         #right {
           z-index: 10;
         }
-            .sliderButton {
-              background-color: #ced4da;
-              width: 3rem;
-              height: 0.6rem;
-              transition: background-color .2s, color .2s, box-shadow .2s;
-              border-radius: 0;
-              border-width: thin;
-              border-color: #0c4c8e;
-            }
-      </style>
 
+        .sliderButton {
+          background-color: #ced4da;
+          width: 3rem;
+          height: 0.6rem;
+          transition: background-color .2s, color .2s, box-shadow .2s;
+          border-radius: 0;
+          border-width: thin;
+          border-color: #0c4c8e;
+        }
+      </style>
       <div class="servicesSlider">
         <button id="left" class="carouselButtons">
           <i class="fa-solid fa-arrow-left" style="font-size: x-large;"></i>
@@ -264,13 +259,13 @@ include_once(__DIR__ . "/head.php");
           <i class="fa-solid fa-arrow-right" style="font-size: x-large;"></i>
         </button>
       </div>
-        <div class="aligncenter">
-          <button class="sliderButton"></button>
-          <button class="sliderButton"></button>
-          <button class="sliderButton"></button>
-        </div>
-      <div style="text-align: center;margin-bottom: 35px;margin-top: 15px;">
-        <button [routerLink]="['/services']" class="blue-button">{{'services-plus' | translate}}</button>
+      <div class="aligncenter" style="margin: 15px">
+        <button class="sliderButton"></button>
+        <button class="sliderButton"></button>
+        <button class="sliderButton"></button>
+      </div>
+      <div style="text-align: center;margin-bottom: 35px;margin-top: 35px;">
+        <a href="/services" class="blue-button">Plus de détails sur les services</a>
       </div>
 
       <div class="values-header">
@@ -318,7 +313,7 @@ include_once(__DIR__ . "/head.php");
             margin-bottom: 24px;
             vertical-align: middle;
             font-size: 60px;
-            color: var(--primaryColor);
+            color: #0c4c8e;
           }
 
           .values-header {
@@ -329,7 +324,7 @@ include_once(__DIR__ . "/head.php");
           .value {
             padding: 30px;
             border-radius: 24px;
-            border: 1px solid var(--primaryColor);
+            border: 1px solid #0c4c8e;
             margin: 0px 12px 40px 12px;
             max-height: 430px;
             box-shadow: 0px 4px 5px 0px rgba(12, 76, 142, .38);
@@ -413,38 +408,36 @@ include_once(__DIR__ . "/head.php");
         </div>
       </div>
       <div style="text-align: center;margin-bottom: 35px;margin-top: -25px;">
-        <button [routerLink]="['/about']" class="blue-button">{{'about-plus' | translate}}</button>
+        <a href="/about" class="blue-button">En savoir plus sur l'entreprise</a>
       </div>
-
+      <div id="soumission" data-paperform-id="lesentrerpisesasraca"></div>
       <app-reviews />
     </div>
 
   </div>
   <?php include(__DIR__ . "/footing.php") ?>
 </body>
-  <script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const container = document.getElementById('carousel')
+    const sliderButtons = document.getElementsByClassName('sliderButton')
 
-    document.addEventListener('DOMContentLoaded', function () {
-      const container = document.getElementById('carousel')
-      const sliderButtons = document.getElementsByClassName('sliderButton')
+    for (var i = 0; i < sliderButtons.length; i++) {
+      const divider = container.scrollWidth / sliderButtons.length
+      const scrollTo = divider * i
 
-      for (var i = 0; i < sliderButtons.length; i++) {
-        const divider = container.scrollWidth / sliderButtons.length
-        const scrollTo = divider * i
-
-        sliderButtons[i].addEventListener('click', function () {
-          container.scrollLeft = scrollTo
-        })
-      }
-
-      document.getElementById('left').addEventListener('click', function () {
-        container.scrollLeft -= 500
+      sliderButtons[i].addEventListener('click', function() {
+        container.scrollLeft = scrollTo
       })
-      document.getElementById('right').addEventListener('click', function () {
-        container.scrollLeft += 500
-      })
-    });
+    }
 
-  </script>
+    document.getElementById('left').addEventListener('click', function() {
+      container.scrollLeft -= 500
+    })
+    document.getElementById('right').addEventListener('click', function() {
+      container.scrollLeft += 500
+    })
+  });
+</script>
 
 </html>

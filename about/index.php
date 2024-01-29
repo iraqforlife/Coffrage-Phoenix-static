@@ -26,7 +26,7 @@ include_once(__DIR__ . "/../head.php");
 
     .team img {
       border-radius: 30px;
-      border: 1px solid var(--primaryColor);
+      border: 1px solid #0c4c8e;
       height: 100%;
       width: 95%;
       margin-left: 2.5%;
@@ -130,7 +130,7 @@ include_once(__DIR__ . "/../head.php");
             margin-bottom: 24px;
             vertical-align: middle;
             font-size: 60px;
-            color: var(--primaryColor);
+            color: #0c4c8e;
           }
 
           .values-header {
@@ -141,7 +141,7 @@ include_once(__DIR__ . "/../head.php");
           .value {
             padding: 30px;
             border-radius: 24px;
-            border: 1px solid var(--primaryColor);
+            border: 1px solid #0c4c8e;
             margin: 0px 12px 40px 12px;
             max-height: 430px;
             box-shadow: 0px 4px 5px 0px rgba(12, 76, 142, .38);
