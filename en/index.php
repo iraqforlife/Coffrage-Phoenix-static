@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <?php
-$metaDesc = "Coffrage Phoenix est une entreprise se spécialisant en fondation de béton, en coffrage et dalle de béton dans Lanaudière, les Laurentides et la Rive-Nord.";
-$englishUrl = "/en";
+$metaDesc = "Coffrage Phoenix is a company specializing in concrete foundation, formwork, and concrete slabs in Lanaudière, the Laurentides and the North Shore.";
+$englishUrl = "/";
 include_once(__DIR__ . "/head.php");
 ?>
 
@@ -125,9 +125,9 @@ include_once(__DIR__ . "/head.php");
   <div class="container">
     <div style="position: relative;z-index: 2;">
       <div class="absolute container-91pct top-050px left-003pct slider-header">
-        <h2>Spécialiste en fondation de béton et coffrages dans Lanaudière, les Laurentides et la Rive-Nord</h2>
+        <h2>Concrete foundation and formwork specialist in Lanaudière, the Laurentides and the North Shore</h2>
         <div class="spacer-001"></div>
-        <a class="button-border" href="#soumission">Quote&nbsp; &#10095;</a>
+        <a class="button-border" href="#quote">Quote&nbsp; &#10095;</a>
         <div class="socials fonthover-06" style="margin-top: 5px;">
           <a class="reseau-button" href="https://www.facebook.com/coffragesphoenix/" target="_blank"><i class="fa-brands fa-facebook"></i></a>
           <a class="reseau-button" href="https://www.instagram.com/coffragesphoenix/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
@@ -142,7 +142,7 @@ include_once(__DIR__ . "/head.php");
     <div class="container-1200px padding-060px" style="padding-bottom: 0;">
       <div class="services-header">
         <h1>Coffrages Phoenix</h1>
-        <h2>Nos services</h2>
+        <h2>Our services</h2>
       </div>
       <style>
         .servicesSlider {
@@ -210,45 +210,45 @@ include_once(__DIR__ . "/head.php");
         <div id="carousel">
           <div class="aligncenter serviceItems">
             <div class="service-item">
-              <a href="/services/coffrage">
+              <a href="/en/services/formwork">
                 <img src="/assets/img/coffrage-de-beton.webp" alt="coffrage">
-                <p>Coffrage</p>
+                <p>Formwork</p>
               </a>
             </div>
             <div class="service-item">
-              <a href="/services/fondation-maison">
+              <a href="/en/services/house-foundation">
                 <img src="/assets/img/fondation.webp" alt="concrete-foundation-house">
-                <p>Fondations de maison</p>
+                <p>House foundations</p>
               </a>
             </div>
             <div class="service-item">
-              <a href="/services/agrandissement-maison">
+              <a href="/en/services/house-extension">
                 <img src="/assets/img/agrandissement.webp" alt="Agrandissement de maison">
-                <p>Agrandissement de maison</p>
+                <p>House extension</p>
               </a>
             </div>
             <div class="service-item">
-              <a href="/services/balcon-en-beton">
+              <a href="/en/services/concrete-balcony">
                 <img src="/assets/img/balcon-de-beton.webp" alt="Balcons en béton">
-                <p>Balcons en béton</p>
+                <p>Concrete balcony</p>
               </a>
             </div>
             <div class="service-item ">
-              <a href="/services/descente-sous-sol-beton">
+              <a href="/en/services/concrete-basement">
                 <img src="/assets/img/descente-de-sous-sol-en-beton-003.webp" alt="Descente de sous-sol en béton">
-                <p>Descente de sous-sol en béton</p>
+                <p>Concrete basement descent</p>
               </a>
             </div>
             <div class="service-item">
-              <a href="/services/marche-de-beton">
+              <a href="/en/services/concrete-step">
                 <img src="/assets/img/escalier-de-beton.webp" alt="Marche en béton">
-                <p>Marche en béton</p>
+                <p>Concrete step</p>
               </a>
             </div>
             <div class="service-item">
-              <a href="/services/dalle-de-beton/">
+              <a href="/en/services/concrete-slab">
                 <img src="/assets/img/dalle.webp" alt="concrete-dalle">
-                <p>Dalles en béton</p>
+                <p>Concrete slab</p>
               </a>
             </div>
           </div>
@@ -263,17 +263,13 @@ include_once(__DIR__ . "/head.php");
         <button class="sliderButton"></button>
       </div>
       <div style="text-align: center;margin-bottom: 35px;margin-top: 35px;">
-        <a href="/services" class="blue-button">Plus de détails sur les services</a>
+        <a href="/services" class="blue-button">More details about the services</a>
       </div>
-
       <?php include(__DIR__ . "/values.php") ?>
-      
       <div style="text-align: center;margin-bottom: 35px;">
-        <a href="/entreprise" class="blue-button">En savoir plus sur l'entreprise</a>
+        <a href="/entreprise" class="blue-button">Learn more about the company</a>
       </div>
-      
-      <div id="soumission" data-paperform-id="lesentrerpisesasraca"></div>
-      
+      <div id="quote" data-paperform-id="lesentrerpisesasraca"></div>
       <?php include(__DIR__ . "/reviews.php") ?>
     </div>
 

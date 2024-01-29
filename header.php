@@ -31,7 +31,7 @@
                         </script>
                     </div>&nbsp;&nbsp;&nbsp;
                     <a href="/realisation">Réalisations</a>&nbsp;&nbsp;&nbsp;
-                    <a href="/about">Entreprise</a>&nbsp;&nbsp;&nbsp;
+                    <a href="/entreprise">Entreprise</a>&nbsp;&nbsp;&nbsp;
                     <a href="/soumission">Soumission</a>&nbsp;&nbsp;&nbsp;
                     <a href="/contact">Contact</a>&nbsp;&nbsp;&nbsp;
                     <a href="<?php echo  $englishUrl ?>" style="cursor: pointer;">English</a>
@@ -58,7 +58,7 @@
             <a href="/realisation">Réalisations</a>
         </div>
         <div style="border-top-color:lightgray;border-top-color: lightgray;margin: 0;border-top-style: solid;border-width: thin;">
-            <a href="/about">Entreprise</a>
+            <a href="/entreprise">Entreprise</a>
         </div>
         <div style="border-top-color:lightgray;border-top-color: lightgray;margin: 0;border-top-style: solid;border-width: thin;">
             <a href="/soumission">Soumission</a>

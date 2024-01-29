@@ -2,7 +2,7 @@
 <html>
 <?php
 $metaDesc = "Apprenez en plus sur qui est Coffrages Phoenix, quels sont nos valeurs et quel-est notre vision dans le domaine.";
-$englishUrl = "/en/about";
+$englishUrl = "/en/company";
 include_once(__DIR__ . "/../head.php");
 ?>
 
@@ -87,140 +87,9 @@ include_once(__DIR__ . "/../head.php");
           <img src="/assets/img/escalier-de-beton-001.webp" alt="Marche-de-beton-laurentides" width="780" height="759">
         </div>
       </div>
-      <div class="values-header">
-        <h2>Nos valeurs</h2>
-      </div>
-      <div class="values">
-        <style>
-          .values {
-            margin: 15px auto;
-            align-items: center;
-            text-align: center;
-            display: grid;
-            grid-template-columns: 25% 25% 25% 25%;
-          }
+      
+      <?php include(__DIR__ . "/../values.php") ?>
 
-          @media only screen and (max-width: 767px) {
-            .values {
-              padding-left: 33px !important;
-              padding-right: 33px !important;
-              display: block;
-            }
-
-            .values-header h2 {
-              font-size: 45px !important;
-            }
-          }
-
-          @media only screen and (min-width: 768px) and (max-width: 959px) {
-            .values {
-              grid-template-columns: 50% 50% !important;
-            }
-          }
-
-          .values h5 {
-            margin-bottom: 15px;
-            font-size: 20px;
-            line-height: 28px;
-            font-weight: 500;
-            letter-spacing: 0px;
-          }
-
-          .values i {
-            margin-bottom: 24px;
-            vertical-align: middle;
-            font-size: 60px;
-            color: #0c4c8e;
-          }
-
-          .values-header {
-            text-align: center;
-            margin-bottom: 30px;
-          }
-
-          .value {
-            padding: 30px;
-            border-radius: 24px;
-            border: 1px solid #0c4c8e;
-            margin: 0px 12px 40px 12px;
-            max-height: 430px;
-            box-shadow: 0px 4px 5px 0px rgba(12, 76, 142, .38);
-          }
-
-          @media only screen and (max-width: 767px) {
-            .value {
-              padding: 24px !important;
-            }
-          }
-
-          @media only screen and (max-width: 390px) {
-            .value {
-              min-height: 410px;
-              font-size: 14px;
-            }
-          }
-
-          @media only screen and (min-width: 501px) and (max-width: 900px) {
-            .value {
-              min-height: 330px;
-            }
-          }
-
-          @media only screen and (min-width: 900px) and (max-width: 1220px) {
-            .value {
-              min-height: 404px;
-            }
-          }
-
-          @media only screen and (min-width: 1221px) and (max-width: 1400px) {
-            .value {
-              min-height: 395px;
-            }
-          }
-
-          @media only screen and (min-width: 1401px) {
-            .value {
-              min-height: 345px;
-            }
-          }
-        </style>
-        <div class="value">
-          <div>
-            <i class="fa-solid fa-user"></i>
-          </div>
-          <div>
-            <h5>Intégrité</h5>
-            <p>Nous nous engageons à agir avec intégrité dans toutes nos activités en respectant les normes éthiques et les lois en vigueur.</p>
-          </div>
-        </div>
-        <div class="value">
-          <div>
-            <i class="fa-solid fa-dumbbell"></i>
-          </div>
-          <div>
-            <h5>Qualité</h5>
-            <p>Nous nous engageons à fournir des produits et des services de qualité supérieure à nos clients.</p>
-          </div>
-        </div>
-        <div class="value">
-          <div>
-            <i class="fa-solid fa-handshake"></i>
-          </div>
-          <div>
-            <h5>Confiance</h5>
-            <p>Nous construisons la confiance de nos clients en étant transparents dans nos communications et nos activités et en respectant nos engagements.</p>
-          </div>
-        </div>
-        <div class="value">
-          <div>
-            <i class="fa-solid fa-lightbulb"></i>
-          </div>
-          <div>
-            <h5>Innovation</h5>
-            <p>Nous cherchons en permanence à innover en adoptant des techniques et des technologies de pointe pour améliorer la qualité de nos produits et services.</p>
-          </div>
-        </div>
-      </div>
       <div class="desc">
         <div class="desc-img">
           <img src="/assets/img/patio2.webp" alt="Patio" width="780" height="759">

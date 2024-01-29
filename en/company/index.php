@@ -65,97 +65,6 @@ include_once(__DIR__ . "/../head.php");
     .txt {
       font-size: 16px;
     }
-
-    .values {
-      margin: 15px auto;
-      align-items: center;
-      text-align: center;
-      display: grid;
-      grid-template-columns: 25% 25% 25% 25%;
-    }
-
-    @media only screen and (max-width: 767px) {
-      .values {
-        padding-left: 33px !important;
-        padding-right: 33px !important;
-        display: block;
-      }
-
-      .values-header h2 {
-        font-size: 45px !important;
-      }
-    }
-
-    @media only screen and (min-width: 768px) and (max-width: 959px) {
-      .values {
-        grid-template-columns: 50% 50% !important;
-      }
-    }
-
-    .values h5 {
-      margin-bottom: 15px;
-      font-size: 20px;
-      line-height: 28px;
-      font-weight: 500;
-      letter-spacing: 0px;
-    }
-
-    .values i {
-      margin-bottom: 24px;
-      vertical-align: middle;
-      font-size: 60px;
-      color: #0c4c8e;
-    }
-
-    .values-header {
-      text-align: center;
-      margin-bottom: 30px;
-    }
-
-    .value {
-      padding: 30px;
-      border-radius: 24px;
-      border: 1px solid #0c4c8e;
-      margin: 0px 12px 40px 12px;
-      max-height: 430px;
-      box-shadow: 0px 4px 5px 0px rgba(12, 76, 142, .38);
-    }
-
-    @media only screen and (max-width: 767px) {
-      .value {
-        padding: 24px !important;
-      }
-    }
-
-    @media only screen and (max-width: 390px) {
-      .value {
-        font-size: 14px;
-      }
-    }
-
-    @media only screen and (min-width: 501px) and (max-width: 900px) {
-      .value {
-        min-height: 330px;
-      }
-    }
-
-    @media only screen and (min-width: 900px) and (max-width: 1220px) {
-      .value {
-        min-height: 404px;
-      }
-    }
-
-    @media only screen and (min-width: 1221px) and (max-width: 1400px) {
-      .value {
-        min-height: 395px;
-      }
-    }
-
-    @media only screen and (min-width: 1401px) {
-      .value {
-        min-height: 345px;
-      }
-    }
   </style>
   <div class="container">
     <div class="about">
@@ -178,47 +87,9 @@ include_once(__DIR__ . "/../head.php");
           <img src="/assets/img/escalier-de-beton-001.webp" alt="Marche-de-beton-laurentides" width="780" height="759">
         </div>
       </div>
-      <div class="values-header">
-        <h2>Our values</h2>
-      </div>
-      <div class="values">
-        <div class="value">
-          <div>
-            <i class="fa-solid fa-user"></i>
-          </div>
-          <div>
-            <h5>Integrity</h5>
-            <p>We are committed to acting with integrity in all our activities by adhering to ethical standards and applicable laws.</p>
-          </div>
-        </div>
-        <div class="value">
-          <div>
-            <i class="fa-solid fa-dumbbell"></i>
-          </div>
-          <div>
-            <h5>Quality</h5>
-            <p>We are committed to providing our customers with superior quality products and services.</p>
-          </div>
-        </div>
-        <div class="value">
-          <div>
-            <i class="fa-solid fa-handshake"></i>
-          </div>
-          <div>
-            <h5>Trust</h5>
-            <p>We build trust with our customers by being transparent in our communications and activities and by honoring our commitments.</p>
-          </div>
-        </div>
-        <div class="value">
-          <div>
-            <i class="fa-solid fa-lightbulb"></i>
-          </div>
-          <div>
-            <h5>Innovation</h5>
-            <p>We constantly strive to innovate by adopting cutting-edge techniques and technologies to improve the quality of our products and services.</p>
-          </div>
-        </div>
-      </div>
+      
+      <?php include(__DIR__ . "/../values.php") ?>
+
       <div class="desc">
         <div class="desc-img">
           <img src="/assets/img/patio2.webp" alt="Patio" width="780" height="759">
