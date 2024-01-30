@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <?php
-$metaDesc = "Basement stairs can be a labor-intensive task, but our team of experts will provide you with the highest quality product, whether it's for your home or basement entrance.";
-$englishUrl = "/services/descente-sous-sol-beton";
+$metaDesc = "Our team of experts will provide you with the highest quality product, whether it's for your home or basement entrance.";
+$englishUrl = "/services/descente-sous-sol-beton/";
 include_once(__DIR__ . "/../../head.php");
 ?>
 

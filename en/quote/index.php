@@ -2,7 +2,7 @@
 <html>
 <?php 
     $metaDesc ="Please provide a quote for your concrete projects, formwork needs, or excavation requirements.";
-    $englishUrl = "/soumission";
+    $englishUrl = "/soumission/";
     include_once(__DIR__."/../head.php");
 ?>
 <body >

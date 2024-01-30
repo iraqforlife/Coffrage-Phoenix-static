@@ -2,7 +2,7 @@
 <html>
 <?php
 $metaDesc = "Our team of experts will ensure the highest quality product to provide you with a durable and earthquake-resistant outcome for your house expansion.";
-$englishUrl = "/services/agrandissement-maison";
+$englishUrl = "/services/agrandissement-maison/";
 include_once(__DIR__ . "/../../head.php");
 ?>
 

@@ -37,16 +37,16 @@
             <div class="alignleft">
                 <div>
                     <p class="fonthover-04 bold" style="font-size: 24px;">Services</p>
-                    <a href="/en/services/house-foundation" class="fonthover-04 lineheight-125" style="font-size: 17px;">House foundations</a><br>
-                    <a href="/en/services/formwork" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete formworks</a><br>
-                    <a href="/en/services/formwork" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete structures</a><br>
-                    <a href="/en/services/formwork" class="fonthover-04 lineheight-125" style="font-size: 17px;">Formwork of all kinds</a><br>
-                    <a href="/en/services/concrete-balcony" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete balcony</a><br>
-                    <a href="/en/services/concrete-step" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete step</a><br>
-                    <a href="/en/services/concrete-basement" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete basement entrance</a><br>
-                    <a href="/en/services/concrete-basement" class="fonthover-04 lineheight-125" style="font-size: 17px;">Garage floors</a><br>
-                    <a href="/en/services/concrete-slab" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete slabs</a><br>
-                    <a href="/en/services/house-extension" class="fonthover-04 lineheight-125" style="font-size: 17px;">House extension</a><br>
+                    <a href="/en/services/house-foundation/" class="fonthover-04 lineheight-125" style="font-size: 17px;">House foundations</a><br>
+                    <a href="/en/services/formwork/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete formworks</a><br>
+                    <a href="/en/services/formwork/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete structures</a><br>
+                    <a href="/en/services/formwork/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Formwork of all kinds</a><br>
+                    <a href="/en/services/concrete-balcony/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete balcony</a><br>
+                    <a href="/en/services/concrete-step/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete step</a><br>
+                    <a href="/en/services/concrete-basement/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete basement entrance</a><br>
+                    <a href="/en/services/concrete-basement/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Garage floors</a><br>
+                    <a href="/en/services/concrete-slab/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete slabs</a><br>
+                    <a href="/en/services/house-extension/" class="fonthover-04 lineheight-125" style="font-size: 17px;">House extension</a><br>
                     <div class="footer-spacer-001"></div>
                 </div>
             </div>
@@ -55,8 +55,8 @@
                     <p style="font-size: 24px;" class="fonthover-04 bold">Cities and regions served</p>
                     <p style="font-size: 16px;" class="fonthover-04 lineheight-125">
                         Blainville, Bois-des-Filion, Chertsey, Joliette, L'Assomption, L'Épiphanie, Lac Écho, Lac Siesta, 
-                        Laurentides, <a href="/en/coffrage-beton-laval">Laval</a>, Lorraine, Mascouche, Montréal, Rawdon, Repentigny, Rive-Nord, Rosemère, Saint-Alexis,
-                        Saint-Calixte, Saint-Esprit, Saint-Eustache, Saint-Hippolyte, Saint-Jacques, Saint-Jérôme, Saint-Lin, 
+                        Laurentides, <a href="/en/coffrage-beton-laval/">Laval</a>, Lorraine, Mascouche, Montréal, Rawdon, Repentigny, Rive-Nord, Rosemère, Saint-Alexis,
+                        Saint-Calixte, Saint-Esprit, Saint-Eustache, Saint-Hippolyte, Saint-Jacques, Saint-Jérôme, <a href="/en/coffrage-saint-lin-laurentides/">Saint-Lin</a>, 
                         Saint-Roch-de-L'Achigan, Sainte-Anne-des-Plaines, Sainte-Julienne, Sainte-Sophie, Sainte-Thérèse, Terrebonne
                     </p>
                 </div>

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <?php 
-    $metaDesc ="Les descentes de sous-sol sont une tâche laborieuse, mais notre équipe d’experts saura vous offrir un produit de la meilleure qualité que ce soit pour votre maison ou l’entrée de votre sous-sol.";
-    $englishUrl = "/en/services/concrete-basement";
+    $metaDesc ="Notre équipe d’experts saura vous offrir un produit de la meilleure qualité que ce soit pour votre maison ou l’entrée de votre sous-sol.";
+    $englishUrl = "/en/services/concrete-basement/";
     include_once(__DIR__."/../../head.php");
 ?>
 <body >

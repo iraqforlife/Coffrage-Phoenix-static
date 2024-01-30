@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <?php
-$metaDesc = "Nous offrons une panoplie de services: coffrage, fondation, agrandissement de maison, balcon en béton, descente de sous-sol, marche de béton ainsi que les dalles en béton.";
-$englishUrl = "/en/services";
+$metaDesc = "Nous offrons une panoplie de services: coffrage, fondation, balcon en béton, descente de sous-sol, marche de béton ainsi que les dalles en béton.";
+$englishUrl = "/en/services/";
 include_once(__DIR__ . "/../head.php");
 ?>
 
@@ -22,7 +22,7 @@ include_once(__DIR__ . "/../head.php");
     <div class="services container-1200px" style="padding-bottom: 0;">
       <div class="columnswithgap-03">
         <div class="services-item">
-          <a href="/services/coffrage">
+          <a href="/services/coffrage/">
             <h4>Coffrage</h4>
             <img class="imagehover-02 border-01px" src="/assets/img/coffrage-de-beton.webp" alt="Coffrage-de-beton">
           </a>
@@ -36,7 +36,7 @@ include_once(__DIR__ . "/../head.php");
         </div>
         <div></div>
         <div class="services-item">
-          <a href="/services/fondation-maison">
+          <a href="/services/fondation-maison/">
             <h4>Fondations de maison</h4>
             <img class="imagehover-02 border-01px" src="/assets/img/fondation.webp" alt="Fondation">
           </a>
@@ -49,7 +49,7 @@ include_once(__DIR__ . "/../head.php");
         </div>
         <div></div>
         <div class="services-item">
-          <a href="/services/agrandissement-maison">
+          <a href="/services/agrandissement-maison/">
             <h4>Agrandissement de maison</h4>
             <img class="imagehover-02 border-01px" src="/assets/img/agrandissement.webp" alt="Agrandissement-fondation">
           </a>
@@ -62,7 +62,7 @@ include_once(__DIR__ . "/../head.php");
       </div>
       <div class="columnswithgap-03">
         <div class="services-item">
-          <a href="/services/balcon-en-beton">
+          <a href="/services/balcon-en-beton/">
             <h4>Balcons en béton</h4>
             <img class="imagehover-02 border-01px" src="/assets/img/balcon-de-beton.webp" alt="Balcon-en-beton">
           </a>
@@ -74,7 +74,7 @@ include_once(__DIR__ . "/../head.php");
         </div>
         <div></div>
         <div class="services-item">
-          <a href="/services/descente-sous-sol-beton">
+          <a href="/services/descente-sous-sol-beton/">
             <h4 style="font-size: 27px !important">Descente de sous-sol en béton</h4>
             <img class="imagehover-02 border-01px" src="/assets/img/descente-de-sous-sol-en-beton-003.webp" alt="Descente-de-sous-sol-en-beton">
           </a>
@@ -86,7 +86,7 @@ include_once(__DIR__ . "/../head.php");
         </div>
         <div></div>
         <div class="services-item">
-          <a href="/services/marche-de-beton">
+          <a href="/services/marche-de-beton/">
             <h4>Marche en béton</h4>
             <img class="imagehover-02 border-01px" src="/assets/img/escalier-de-beton.webp" alt="Marche-de-beton-laurentides">
           </a>
@@ -98,7 +98,7 @@ include_once(__DIR__ . "/../head.php");
       </div>
       <div class="columnswithgap-03" style="padding-bottom: 60px;">
         <div class="services-item">
-          <a href="/services/dalle-de-beton">
+          <a href="/services/dalle-de-beton/">
             <h4>Dalles en béton</h4>
             <img class="imagehover-02 border-01px" src="/assets/img/dalle.webp" alt="Dalle-de-beton">
           </a>

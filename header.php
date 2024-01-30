@@ -10,7 +10,7 @@
                     <a href="/">Accueil</a>&nbsp;&nbsp;&nbsp;
 
                     <div class="dropdown">
-                        <a href="/services">Services</a>
+                        <a href="/services/">Services</a>
                         <a class='dropdown-trigger' href='#' data-target='dropdown1'> <i class="fa-solid fa-chevron-down"></i></a>
                         <div id='dropdown1' class="dropdown-content" style="top:50px !important;">
                             <a href="/services/coffrage/">Coffrage</a>
@@ -30,10 +30,10 @@
                             });
                         </script>
                     </div>&nbsp;&nbsp;&nbsp;
-                    <a href="/realisation">Réalisations</a>&nbsp;&nbsp;&nbsp;
-                    <a href="/entreprise">Entreprise</a>&nbsp;&nbsp;&nbsp;
-                    <a href="/soumission">Soumission</a>&nbsp;&nbsp;&nbsp;
-                    <a href="/contact">Contact</a>&nbsp;&nbsp;&nbsp;
+                    <a href="/realisation/">Réalisations</a>&nbsp;&nbsp;&nbsp;
+                    <a href="/entreprise/">Entreprise</a>&nbsp;&nbsp;&nbsp;
+                    <a href="/soumission/">Soumission</a>&nbsp;&nbsp;&nbsp;
+                    <a href="/contact/">Contact</a>&nbsp;&nbsp;&nbsp;
                     <a href="<?php echo  $englishUrl ?>" style="cursor: pointer;">English</a>
                 </div>
             </div>

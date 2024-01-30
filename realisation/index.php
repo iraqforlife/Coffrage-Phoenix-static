@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <?php
-$metaDesc = "Voici les résultats du travail de notre équipe d’experts, en passant par les marches de béton, les balcons en béton, les fondations de maison jusqu’aux travaux de béton commerciaux et bien plus encore! Nous assurons un travail de la plus haute qualité pour chacun de nos projets et la satisfaction de nos clients.";
-$englishUrl = "/en/realizations";
+$metaDesc = "Voici les résultats de notre équipe d’experts, en passant par les dalles de béton, les balcons en béton, les fondations de maison jusqu’aux travaux de béton!";
+$englishUrl = "/en/realizations/";
 include_once(__DIR__ . "/../head.php");
 ?>
 

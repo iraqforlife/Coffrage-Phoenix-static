@@ -40,43 +40,43 @@ include_once(__DIR__ . "/head.php");
         <div id="carousel">
           <div class="aligncenter serviceItems">
             <div class="service-item">
-              <a href="/en/services/formwork">
+              <a href="/en/services/formwork/">
                 <img src="/assets/img/coffrage-de-beton.webp" alt="coffrage">
                 <p>Formwork</p>
               </a>
             </div>
             <div class="service-item">
-              <a href="/en/services/house-foundation">
+              <a href="/en/services/house-foundation/">
                 <img src="/assets/img/fondation.webp" alt="concrete-foundation-house">
                 <p>House foundations</p>
               </a>
             </div>
             <div class="service-item">
-              <a href="/en/services/house-extension">
+              <a href="/en/services/house-extension/">
                 <img src="/assets/img/agrandissement.webp" alt="Agrandissement de maison">
                 <p>House extension</p>
               </a>
             </div>
             <div class="service-item">
-              <a href="/en/services/concrete-balcony">
+              <a href="/en/services/concrete-balcony/">
                 <img src="/assets/img/balcon-de-beton.webp" alt="Balcons en béton">
                 <p>Concrete balcony</p>
               </a>
             </div>
             <div class="service-item ">
-              <a href="/en/services/concrete-basement">
+              <a href="/en/services/concrete-basement/">
                 <img src="/assets/img/descente-de-sous-sol-en-beton-003.webp" alt="Descente de sous-sol en béton">
                 <p>Concrete basement descent</p>
               </a>
             </div>
             <div class="service-item">
-              <a href="/en/services/concrete-step">
+              <a href="/en/services/concrete-step/">
                 <img src="/assets/img/escalier-de-beton.webp" alt="Marche en béton">
                 <p>Concrete step</p>
               </a>
             </div>
             <div class="service-item">
-              <a href="/en/services/concrete-slab">
+              <a href="/en/services/concrete-slab/">
                 <img src="/assets/img/dalle.webp" alt="concrete-dalle">
                 <p>Concrete slab</p>
               </a>
@@ -93,13 +93,13 @@ include_once(__DIR__ . "/head.php");
         <button class="sliderButton"></button>
       </div>
       <div style="text-align: center;margin-bottom: 35px;margin-top: 35px;">
-        <a href="/services" class="blue-button">More details about the services</a>
+        <a href="/services/" class="blue-button">More details about the services</a>
       </div>
       <?php include(__DIR__ . "/values.php") ?>
       <div style="text-align: center;margin-bottom: 35px;">
-        <a href="/entreprise" class="blue-button">Learn more about the company</a>
+        <a href="/entreprise/" class="blue-button">Learn more about the company</a>
       </div>
-      <div id="quote" data-paperform-id="lesentrerpisesasraca"></div>
+      <div id="quote" data-paperform-id="5am6rzq3"></div>
       <?php include(__DIR__ . "/reviews.php") ?>
     </div>
 

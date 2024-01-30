@@ -2,7 +2,7 @@
 <html>
 <?php
 $metaDesc = "Our team of experts will ensure the highest quality for the foundation of your house, guaranteeing a durable and earthquake-resistant product.";
-$englishUrl = "/services/fondation-maison";
+$englishUrl = "/services/fondation-maison/";
 include_once(__DIR__ . "/../../head.php");
 ?>
 
@@ -15,7 +15,6 @@ include_once(__DIR__ . "/../../head.php");
         <h2><strong>Formwork</strong> services</h2>
       </div>
       <div style="text-align: center;margin-left: auto;margin-right: auto; margin-top: 30px; margin-bottom: 30px;"><a href="#quote" class="blue-button">Request a quote</a></div>
-
       <div class="desc">
         <div class="desc-img">
           <img src="/assets/img/fondation2.webp" alt="Fondation" width="780" height="759">

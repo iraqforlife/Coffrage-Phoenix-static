@@ -2,7 +2,7 @@
 <html>
 <?php 
     $metaDesc ="Un balcon en béton est la solution idéale pour avoir un produit durable qui nécessite très peu d’entretien tout en résistant aux intempéries et aux années.";
-    $englishUrl = "/en/services/concrete-balcony";
+    $englishUrl = "/en/services/concrete-balcony/";
     include_once(__DIR__."/../../head.php");
 ?>
 <body >

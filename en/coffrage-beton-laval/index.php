@@ -2,7 +2,7 @@
 <html>
 <?php
 $metaDesc = "Specialist in concrete formwork in Laval. Slabs, balconies, foundations, and more. Quality and aesthetics guaranteed. Contact Coffrages Phoenix for a quote.";
-$englishUrl = "/coffrage-beton-laval";
+$englishUrl = "/coffrage-beton-laval/";
 include_once(__DIR__ . "/../head.php");
 ?>
 
@@ -14,8 +14,15 @@ include_once(__DIR__ . "/../head.php");
       <div style="text-align: center;">
         <h2><strong>Formwork</strong> Services</h2>
       </div>
-      <div style="text-align: center;margin-left: auto;margin-right: auto; margin-top: 30px; margin-bottom: 30px;"><a href="#soumission" class="blue-button">Demander une soumission</a></div>
+      <div style="text-align: center;margin-left: auto;margin-right: auto; margin-top: 30px; margin-bottom: 30px;"><a href="#soumission" class="blue-button">Request a quote</a></div>
       <div class="desc">
+        <style>
+          @media only screen and (min-width:1240px){
+            .desc-img {
+              display:flex;
+            }
+          }
+        </style>
         <div class="desc-img">
           <img src="/assets/img/coffrages-beton-laval.webp" alt="coffrages beton laval" width="780" height="759">
         </div>
@@ -26,7 +33,7 @@ include_once(__DIR__ . "/../head.php");
         </div>
       </div>
 
-      <div id="soumission" data-paperform-id="lesentrerpisesasraca"></div>
+      <div id="soumission" data-paperform-id="5am6rzq3"></div>
     </div>
   </div>
   <?php include(__DIR__ . "/../footing.php") ?>

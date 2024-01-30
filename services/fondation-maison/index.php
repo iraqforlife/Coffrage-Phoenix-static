@@ -2,7 +2,7 @@
 <html>
 <?php 
     $metaDesc ="Notre équipe d’experts assurera la meilleure qualité pour la fondation de votre maison en assurant un produit durable et résistant aux tremblements de terre.";
-    $englishUrl = "/en/services/house-foundation";
+    $englishUrl = "/en/services/house-foundation/";
     include_once(__DIR__."/../../head.php");
 ?>
 <body >

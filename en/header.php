@@ -10,16 +10,16 @@
                     <a href="/en/">Home</a>&nbsp;&nbsp;&nbsp;
 
                     <div class="dropdown">
-                        <a href="/en/services">Services </a>
+                        <a href="/en/services/">Services </a>
                         <a class='dropdown-trigger' href='#' data-target='dropdown1'> <i class="fa-solid fa-chevron-down"></i></a>
                         <div id='dropdown1' class="dropdown-content" style="top:50px !important;">
-                            <a href="/en/services/formwork">Formwork</a>
-                            <a href="/en/services/house-foundation">House foundations</a>
-                            <a href="/en/services/house-extension">House extension</a>
-                            <a href="/en/services/concrete-balcony">Concrete balcony</a>
-                            <a href="/en/services/concrete-basement">Concrete basement entrance</a>
-                            <a href="/en/services/concrete-step">Concrete steps</a>
-                            <a href="/en/services/concrete-slab">Concrete slabs</a>
+                            <a href="/en/services/formwork/">Formwork</a>
+                            <a href="/en/services/house-foundation/">House foundations</a>
+                            <a href="/en/services/house-extension/">House extension</a>
+                            <a href="/en/services/concrete-balcony/">Concrete balcony</a>
+                            <a href="/en/services/concrete-basement/">Concrete basement entrance</a>
+                            <a href="/en/services/concrete-step/">Concrete steps</a>
+                            <a href="/en/services/concrete-slab/">Concrete slabs</a>
                         </div>
                         <!-- Dropdown Structure -->
                         <script>
@@ -30,10 +30,10 @@
                             });
                         </script>
                     </div>&nbsp;&nbsp;&nbsp;
-                    <a href="/en/realizations">Realizations</a>&nbsp;&nbsp;&nbsp;
-                    <a href="/en/company">Company</a>&nbsp;&nbsp;&nbsp;
-                    <a href="/en/quote">Quote</a>&nbsp;&nbsp;&nbsp;
-                    <a href="/en/contact">Contact</a>&nbsp;&nbsp;&nbsp;
+                    <a href="/en/realizations/">Realizations</a>&nbsp;&nbsp;&nbsp;
+                    <a href="/en/company/">Company</a>&nbsp;&nbsp;&nbsp;
+                    <a href="/en/quote/">Quote</a>&nbsp;&nbsp;&nbsp;
+                    <a href="/en/contact/">Contact</a>&nbsp;&nbsp;&nbsp;
                     <a href="<?php echo  $englishUrl ?>" style="cursor: pointer;">Français</a>
                 </div>
             </div>
@@ -50,19 +50,19 @@
             <a href="/en/">Home</a>
         </div>
         <div style="border-top-color:lightgray;border-top-color: lightgray;margin: 0;border-top-style: solid;border-width: thin;">
-            <a href="/en/services">Services</a>
+            <a href="/en/services/">Services</a>
         </div>
         <div style="border-top-color:lightgray;border-top-color: lightgray;margin: 0;border-top-style: solid;border-width: thin;">
-            <a href="/en/realizations">Realizations</a>
+            <a href="/en/realizations/">Realizations</a>
         </div>
         <div style="border-top-color:lightgray;border-top-color: lightgray;margin: 0;border-top-style: solid;border-width: thin;">
-            <a href="/en/company">Company</a>
+            <a href="/en/company/">Company</a>
         </div>
         <div style="border-top-color:lightgray;border-top-color: lightgray;margin: 0;border-top-style: solid;border-width: thin;">
-            <a href="/en/quote">Quote</a>
+            <a href="/en/quote/">Quote</a>
         </div>
         <div style="border-top-color:lightgray;border-top-color: lightgray;margin: 0;border-top-style: solid;border-width: thin;">
-            <a href="/en/contact" data-target="slide-out">Contact</a>
+            <a href="/en/contact/" data-target="slide-out">Contact</a>
         </div>
         <div style="border-top-color:lightgray;border-top-color: lightgray;margin: 0;border-top-style: solid;border-width: thin;">
             <a href="<?php echo  $englishUrl ?>" style="cursor: pointer;">Français</a>

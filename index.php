@@ -40,37 +40,37 @@ include_once(__DIR__ . "/head.php");
         <div id="carousel">
           <div class="aligncenter serviceItems">
             <div class="service-item">
-              <a href="/services/coffrage">
+              <a href="/services/coffrage/">
                 <img src="/assets/img/coffrage-de-beton.webp" alt="coffrage">
                 <p>Coffrage</p>
               </a>
             </div>
             <div class="service-item">
-              <a href="/services/fondation-maison">
+              <a href="/services/fondation-maison/">
                 <img src="/assets/img/fondation.webp" alt="concrete-foundation-house">
                 <p>Fondations de maison</p>
               </a>
             </div>
             <div class="service-item">
-              <a href="/services/agrandissement-maison">
+              <a href="/services/agrandissement-maison/">
                 <img src="/assets/img/agrandissement.webp" alt="Agrandissement de maison">
                 <p>Agrandissement de maison</p>
               </a>
             </div>
             <div class="service-item">
-              <a href="/services/balcon-en-beton">
+              <a href="/services/balcon-en-beton/">
                 <img src="/assets/img/balcon-de-beton.webp" alt="Balcons en béton">
                 <p>Balcons en béton</p>
               </a>
             </div>
             <div class="service-item ">
-              <a href="/services/descente-sous-sol-beton">
+              <a href="/services/descente-sous-sol-beton/">
                 <img src="/assets/img/descente-de-sous-sol-en-beton-003.webp" alt="Descente de sous-sol en béton">
                 <p>Descente de sous-sol en béton</p>
               </a>
             </div>
             <div class="service-item">
-              <a href="/services/marche-de-beton">
+              <a href="/services/marche-de-beton/">
                 <img src="/assets/img/escalier-de-beton.webp" alt="Marche en béton">
                 <p>Marche en béton</p>
               </a>
@@ -93,13 +93,13 @@ include_once(__DIR__ . "/head.php");
         <button class="sliderButton"></button>
       </div>
       <div style="text-align: center;margin-bottom: 35px;margin-top: 35px;">
-        <a href="/services" class="blue-button">Plus de détails sur les services</a>
+        <a href="/services/" class="blue-button">Plus de détails sur les services</a>
       </div>
 
       <?php include(__DIR__ . "/values.php") ?>
       
       <div style="text-align: center;margin-bottom: 35px;">
-        <a href="/entreprise" class="blue-button">En savoir plus sur l'entreprise</a>
+        <a href="/entreprise/" class="blue-button">En savoir plus sur l'entreprise</a>
       </div>
       
       <div id="soumission" data-paperform-id="lesentrerpisesasraca"></div>
