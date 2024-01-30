@@ -64,7 +64,7 @@
             <a href="/soumission/">Soumission</a>
         </div>
         <div style="border-top-color:lightgray;border-top-color: lightgray;margin: 0;border-top-style: solid;border-width: thin;">
-            <a href="/contact" data-target="slide-out">Contact</a>
+            <a href="/contact/" data-target="slide-out">Contact</a>
         </div>
         <div style="border-top-color:lightgray;border-top-color: lightgray;margin: 0;border-top-style: solid;border-width: thin;">
             <a href="<?php echo  $englishUrl ?>" style="cursor: pointer;">English</a>
