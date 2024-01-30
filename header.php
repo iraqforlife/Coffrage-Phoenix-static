@@ -52,16 +52,16 @@
             <a href="/">Accueil</a>
         </div>
         <div style="border-top-color:lightgray;border-top-color: lightgray;margin: 0;border-top-style: solid;border-width: thin;">
-            <a href="/services">Services</a>
+            <a href="/services/">Services</a>
         </div>
         <div style="border-top-color:lightgray;border-top-color: lightgray;margin: 0;border-top-style: solid;border-width: thin;">
-            <a href="/realisation">Réalisations</a>
+            <a href="/realisation/">Réalisations</a>
         </div>
         <div style="border-top-color:lightgray;border-top-color: lightgray;margin: 0;border-top-style: solid;border-width: thin;">
-            <a href="/entreprise">Entreprise</a>
+            <a href="/entreprise/">Entreprise</a>
         </div>
         <div style="border-top-color:lightgray;border-top-color: lightgray;margin: 0;border-top-style: solid;border-width: thin;">
-            <a href="/soumission">Soumission</a>
+            <a href="/soumission/">Soumission</a>
         </div>
         <div style="border-top-color:lightgray;border-top-color: lightgray;margin: 0;border-top-style: solid;border-width: thin;">
             <a href="/contact" data-target="slide-out">Contact</a>
