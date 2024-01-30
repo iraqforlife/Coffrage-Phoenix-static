@@ -7,7 +7,7 @@
 ?>
 <body >
   <?php include(__DIR__."/../header.php")?>
-
+  <h1 style="text-align: center;">Quote Request</h1>
   <div class="container">  
       <div data-paperform-id="5am6rzq3"></div>
   </div>
