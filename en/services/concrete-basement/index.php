@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html lang="en">
 <html>
 <?php
 $metaDesc = "Our team of experts will provide you with the highest quality product, whether it's for your home or basement entrance.";

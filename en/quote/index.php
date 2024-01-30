@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html lang="en">
 <html>
 <?php 
     $metaDesc ="Please provide a quote for your concrete projects, formwork needs, or excavation requirements.";

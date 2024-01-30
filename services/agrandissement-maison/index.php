@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html lang="fr">
 <html>
 <?php 
     $metaDesc ="Notre équipe d’experts assurera un produit de la meilleure qualité pour vous assurer un produit durable pour l’agrandissement de votre maison.";

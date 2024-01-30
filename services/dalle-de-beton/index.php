@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html lang="fr">
 <html>
 <?php 
     $metaDesc ="Notre service de dalle de béton sera parfait pour vos projets de fondation de maison, de garage, de terrasse, d’aménagement paysager et plus encore.";

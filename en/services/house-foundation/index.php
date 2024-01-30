@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html lang="en">
 <html>
 <?php
 $metaDesc = "Our team of experts will ensure the highest quality for the foundation of your house, guaranteeing a durable and earthquake-resistant product.";

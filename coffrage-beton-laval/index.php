@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html lang="fr">
 <html>
 <?php 
     $metaDesc ="Spécialiste en coffrages de béton à Laval. Dalles, balcons, fondations et plus. Qualité et esthétisme assurés. Contactez Coffrages Phoenix pour un devis.";

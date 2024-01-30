@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html lang="en">
 <html>
 <?php
 $metaDesc = "We offer a wide range of services, including formwork, foundation work, house extension, concrete balconies, concrete steps and concrete slabs.";

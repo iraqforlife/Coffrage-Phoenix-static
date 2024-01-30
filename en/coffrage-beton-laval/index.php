@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html lang="en">
 <html>
 <?php
 $metaDesc = "Specialist in concrete formwork in Laval. Slabs, balconies, foundations, and more. Quality and aesthetics guaranteed. Contact Coffrages Phoenix for a quote.";

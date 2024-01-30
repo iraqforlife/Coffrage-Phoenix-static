@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html lang="en">
 <html>
 <?php
 $metaDesc = "Learn more about who Coffrages Phoenix are, what our values are, and what our vision is in the industry.";

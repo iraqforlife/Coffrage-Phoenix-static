@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html lang="fr">
 <html>
 <?php 
     $metaDesc ="Notre équipe d’experts assurera la meilleure qualité pour la fondation de votre maison en assurant un produit durable et résistant aux tremblements de terre.";

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html lang="en">
 <html>
 <?php
 $metaDesc = "Concrete steps are an excellent option for a durable and aesthetically pleasing outcome.";

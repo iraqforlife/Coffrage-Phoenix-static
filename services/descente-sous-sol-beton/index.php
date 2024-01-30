@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html lang="fr">
 <html>
 <?php 
     $metaDesc ="Notre équipe d’experts saura vous offrir un produit de la meilleure qualité que ce soit pour votre maison ou l’entrée de votre sous-sol.";

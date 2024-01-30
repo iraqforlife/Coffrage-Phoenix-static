@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html  lang="fr">
 <html>
 <?php 
     $metaDesc ="Faite une soumission pour vos projets de bétons, vos besoins en coffrages ou vos besoins en excavation";

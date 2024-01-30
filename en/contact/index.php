@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html lang="en">
 <html>
 <?php
 $metaDesc = "If you have nay questions for Coffrage Phoenix or inquiries about your projects, please don’t hesitate to reach out to us. You can contact us by phone at 514-444-2822, by email at soumission@coffragesphoenix.com, through our social media channels @coffragesphoenix";

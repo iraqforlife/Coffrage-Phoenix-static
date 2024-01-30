@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html lang="fr">
 <html>
 <?php
 $metaDesc = "Voici les résultats de notre équipe d’experts, en passant par les dalles de béton, les balcons en béton, les fondations de maison jusqu’aux travaux de béton!";

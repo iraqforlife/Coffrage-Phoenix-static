@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html lang="en">
 <html>
 <?php
 $metaDesc = "A concrete balcony is the ideal solution for a durable product that requires minimal maintenance while withstanding weather conditions and the test of time.";

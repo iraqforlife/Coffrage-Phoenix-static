@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html lang="fr">
 <html>
 <?php 
     $metaDesc ="Les marches de bétons sont une excellente option pour un résultat durable, mais toute fois esthétique.";

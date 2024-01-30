@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html lang="fr">
 <html>
 <?php 
     $metaDesc ="Expert en coffrages béton à Saint-Lin-Laurentides. Services pour dalles, balcons, fondations et plus. Qualité et durabilité avec Coffrages Phoenix.";

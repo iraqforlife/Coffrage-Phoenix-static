@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html lang="en">
 <html>
 <?php
 $metaDesc = "Coffrage Phoenix is a company specializing in concrete foundation, formwork, and concrete slabs in Lanaudière, the Laurentides and the North Shore.";

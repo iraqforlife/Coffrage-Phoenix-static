@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html  lang="fr">
 <html>
 <?php
 $metaDesc = "Coffrage Phoenix est une entreprise se spécialisant en fondation de béton, en coffrage et dalle de béton dans Lanaudière, les Laurentides et la Rive-Nord.";

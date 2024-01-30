@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html lang="en">
 <html>
 <?php
 $metaDesc = "Our concrete slab service will be perfect for your house foundation, garage, terrace, landscaping projects, and more.";
