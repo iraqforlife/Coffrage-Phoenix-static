@@ -36,7 +36,7 @@
             
             <div class="alignleft">
                 <div>
-                    <p class="fonthover-04 bold" style="font-size: 24px;">Services</p>
+                    <a href="/services/" class="fonthover-04 bold" style="font-size: 24px;">Services</a><br>
                     <a href="/en/services/house-foundation/" class="fonthover-04 lineheight-125" style="font-size: 17px;">House foundations</a><br>
                     <a href="/en/services/formwork/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete formworks</a><br>
                     <a href="/en/services/formwork/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete structures</a><br>

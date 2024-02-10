@@ -3,6 +3,7 @@
 <?php
 $metaDesc = "Our team of experts will ensure the highest quality for the foundation of your house, guaranteeing a durable and earthquake-resistant product.";
 $englishUrl = "/services/fondation-maison/";
+$title = "Coffrages Phoenix - House foundations";
 include_once(__DIR__ . "/../../head.php");
 ?>
 

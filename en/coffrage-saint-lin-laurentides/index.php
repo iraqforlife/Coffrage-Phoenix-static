@@ -3,6 +3,7 @@
 <?php
 $metaDesc = "Expert in concrete formwork in Saint-Lin-Laurentides. Services for slabs, balconies, foundations, and more. Quality and durability with Coffrages Phoenix.";
 $englishUrl = "/coffrage-saint-lin-laurentides/";
+$title = "Coffrages Phoenix - Concrete Formwork in Saint-lin-laurentides";
 include_once(__DIR__ . "/../head.php");
 ?>
 

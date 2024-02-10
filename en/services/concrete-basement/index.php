@@ -3,6 +3,7 @@
 <?php
 $metaDesc = "Our team of experts will provide you with the highest quality product, whether it's for your home or basement entrance.";
 $englishUrl = "/services/descente-sous-sol-beton/";
+$title = "Coffrages Phoenix - Concrete Basement Entrance";
 include_once(__DIR__ . "/../../head.php");
 ?>
 

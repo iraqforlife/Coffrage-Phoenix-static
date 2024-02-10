@@ -3,6 +3,7 @@
 <?php 
     $metaDesc ="Expert en coffrages béton à Saint-Lin-Laurentides. Services pour dalles, balcons, fondations et plus. Qualité et durabilité avec Coffrages Phoenix.";
     $englishUrl = "/en/coffrage-saint-lin-laurentides/";
+    $title = "Coffrages Phoenix - Coffrage saint-lin-laurentides";
     include_once(__DIR__."/../head.php");
 ?>
 <body >

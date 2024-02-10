@@ -3,6 +3,7 @@
 <?php 
     $metaDesc ="Notre service de dalle de béton sera parfait pour vos projets de fondation de maison, de garage, de terrasse, d’aménagement paysager et plus encore.";
     $englishUrl = "/en/services/concrete-slab/";
+    $title = "Coffrages Phoenix - Dalle de béton";
     include_once(__DIR__."/../../head.php");
 ?>
 <body >

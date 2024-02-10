@@ -1,6 +1,7 @@
 <!DOCTYPE html  lang="fr">
 <html>
 <?php
+$title = "Coffrages Phoenix - Nos Services";
 $metaDesc = "Nous offrons une panoplie de services: coffrage, fondation, balcon en béton, descente de sous-sol, marche de béton ainsi que les dalles en béton.";
 $englishUrl = "/en/services/";
 include_once(__DIR__ . "/../head.php");

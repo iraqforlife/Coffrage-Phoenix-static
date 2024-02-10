@@ -36,7 +36,8 @@
             
             <div class="alignleft">
                 <div>
-                    <p class="fonthover-04 bold" style="font-size: 24px;">Services</p>
+                    <a href="/services/" class="fonthover-04 bold" style="font-size: 24px;">Services</a>
+                    <br>
                     <a href="/services/fondation-maison/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Fondations de maison</a>
                     <br>
                     <a href="/services/coffrage/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Coffrages de béton</a>

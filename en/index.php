@@ -1,6 +1,7 @@
 <!DOCTYPE html lang="en">
 <html>
 <?php
+$title = "Coffrages Phoenix - Welcome";
 $metaDesc = "Coffrage Phoenix is a company specializing in concrete foundation, formwork, and concrete slabs in Lanaudière, the Laurentides and the North Shore.";
 $englishUrl = "/";
 include_once(__DIR__ . "/head.php");
