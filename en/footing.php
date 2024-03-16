@@ -60,6 +60,12 @@
                         Saint-Roch-de-L'Achigan, Sainte-Anne-des-Plaines, Sainte-Julienne, Sainte-Sophie, Sainte-Thérèse, Terrebonne
                     </p>
                 </div>
+                <div>
+                    <p class="fonthover-04 lineheight-125">© All rights reserved Les entreprises asra inc.</p>
+                    <a class="fonthover-04 lineheight-125" href="/en/legal-notice/">Legal Notice</a></br>
+                    <a class="fonthover-04 lineheight-125" href="/en/privacy-policy/">Politique de confidentialité</a></br>
+                    <a class="fonthover-04 lineheight-125" href="/en/terms-conditions/">Cookies and Terms & Conditions</a></br>
+                </div>
             </div>
         </div>
     </div>

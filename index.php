@@ -3,7 +3,7 @@
 <?php
 $metaDesc = "Coffrage Phoenix est une entreprise se spécialisant en fondation de béton, en coffrage et dalle de béton dans Lanaudière, les Laurentides et la Rive-Nord.";
 $englishUrl = "/en";
-$title = "Coffrages Phoenix - Accueille";
+$title = "Coffrages Phoenix - Accueil";
 include_once(__DIR__ . "/head.php");
 ?>
 
@@ -17,7 +17,7 @@ include_once(__DIR__ . "/head.php");
       <div class="absolute container-91pct top-050px left-003pct slider-header">
         <h2>Spécialiste en fondation de béton et coffrages dans Lanaudière, les Laurentides et la Rive-Nord</h2>
         <div class="spacer-001"></div>
-        <a class="button-border" href="#soumission">Quote&nbsp; &#10095;</a>
+        <a class="button-border" href="#soumission">Soumission&nbsp; &#10095;</a>
         <div class="socials fonthover-06" style="margin-top: 5px;">
           <a class="reseau-button" href="https://www.facebook.com/coffragesphoenix/" target="_blank"><i class="fa-brands fa-facebook"></i></a>
           <a class="reseau-button" href="https://www.instagram.com/coffragesphoenix/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
