@@ -1,9 +1,9 @@
 <!DOCTYPE html lang="fr">
 <html>
 <?php
-$metaDesc = "Faite une soumission pour vos projets de bétons, vos besoins en coffrages ou vos besoins en excavation";
+$metaDesc = "Coffrages Phoenix's privacy policy";
 $englishUrl = "/politique-de-confidentialite/";
-$title = "Coffrages Phoenix - Soumission";
+$title = "Coffrages Phoenix - Privacy Policy";
 include_once(__DIR__ . "/../head.php");
 ?>
 
