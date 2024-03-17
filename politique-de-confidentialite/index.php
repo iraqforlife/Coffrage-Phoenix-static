@@ -4,8 +4,8 @@
 $metaDesc = "La Politique de confidentialité de Coffrages phoenix.";
 $englishUrl = "/en/privacy-policy/";
 $title = "Coffrages Phoenix - Politique de confidentialité";
-include_once(__DIR__ . "/../head.php");
 $canonical = "politique-de-confidentialite/";
+include_once(__DIR__ . "/../head.php");
 ?>
 
 <body>
