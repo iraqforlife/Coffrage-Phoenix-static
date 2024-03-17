@@ -4,6 +4,7 @@
 $metaDesc = "We offer a wide range of services, including formwork, foundation work, house extension, concrete balconies, concrete steps and concrete slabs.";
 $englishUrl = "/services/";
 $title = "Coffrages Phoenix - Our Services";
+$canonical = "en/services/";
 include_once(__DIR__ . "/../head.php");
 ?>
 

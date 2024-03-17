@@ -4,6 +4,7 @@
 $metaDesc = "A concrete balcony is the ideal solution for a durable product that requires minimal maintenance while withstanding weather conditions and the test of time.";
 $englishUrl = "/services/balcon-en-beton/";
 $title = "Coffrages Phoenix - Concrete Balcony";
+$canonical = "en/services/concrete-balcony/";
 include_once(__DIR__ . "/../../head.php");
 ?>
 

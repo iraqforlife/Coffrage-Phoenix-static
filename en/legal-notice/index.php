@@ -4,6 +4,7 @@
 $metaDesc = "The legal notice for the website of Coffrages Phoenix";
 $englishUrl = "/avis-legale";
 $title = "Coffrages Phoenix - Legal notice";
+$canonical = "en/legal-notice/";
 include_once(__DIR__ . "/../head.php");
 ?>
 

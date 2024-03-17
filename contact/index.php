@@ -4,6 +4,7 @@
 $metaDesc = "Apprenez en plus sur qui est Coffrages Phoenix, quels sont nos valeurs et quel-est notre vision dans le domaine.";
 $englishUrl = "/en/contact/";
 $title = "Coffrages Phoenix - Contact";
+$canonical = "contact/";
 include_once(__DIR__ . "/../head.php");
 ?>
 

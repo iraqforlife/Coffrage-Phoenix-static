@@ -4,6 +4,7 @@
     $metaDesc ="Coffrage Phoenix est une entreprise se spécialisant en fondation de béton, en coffrage et en dalle de béton dans Lanaudière, les Laurentides et la Rive-Nord.";
     $englishUrl = "/en/services/formwork/";
     $title = "Coffrages Phoenix - Coffrages";
+    $canonical = "services/coffrage/";
     include_once(__DIR__."/../../head.php");
 ?>
 <body >

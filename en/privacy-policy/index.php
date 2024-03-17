@@ -4,6 +4,7 @@
 $metaDesc = "Coffrages Phoenix's privacy policy";
 $englishUrl = "/politique-de-confidentialite/";
 $title = "Coffrages Phoenix - Privacy Policy";
+$canonical = "en/privacy-policy/";
 include_once(__DIR__ . "/../head.php");
 ?>
 

@@ -4,6 +4,7 @@
     $metaDesc ="Les mentions légales du site Internet de Coffrages Phoenix";
     $englishUrl = "/en/legal-notice/";
     $title = "Coffrages Phoenix - Avis Légal";
+    $canonical = "avis-legale/";
     include_once(__DIR__."/../head.php");
 ?>
 <body >

@@ -4,6 +4,7 @@
     $metaDesc ="Notre équipe d’experts assurera la meilleure qualité pour la fondation de votre maison en assurant un produit durable et résistant aux tremblements de terre.";
     $englishUrl = "/en/services/house-foundation/";
     $title = "Coffrages Phoenix - Fondation de Maison";
+    $canonical = "services/fondation-maison/";
     include_once(__DIR__."/../../head.php");
 ?>
 <body >

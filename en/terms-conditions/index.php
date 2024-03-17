@@ -4,6 +4,7 @@
 $metaDesc = "Coffrages Phoenix's terms and conditions";
 $englishUrl = "/termes-conditions/";
 $title = "Coffrages Phoenix - Soumission";
+$canonical = "en/terms-conditions/";
 include_once(__DIR__ . "/../head.php");
 ?>
 
