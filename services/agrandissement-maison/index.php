@@ -3,7 +3,7 @@
 <?php 
     $metaDesc ="Notre équipe d’experts assurera un produit de la meilleure qualité pour vous assurer un produit durable pour l’agrandissement de votre maison.";
     $englishUrl = "/en/services/house-extension/";
-    $title = "Coffrages Phoenix - Agrandissement de maison";
+    $title = "Agrandissement de maison";
     $canonical = "services/agrandissement-maison/";
     include_once(__DIR__."/../../head.php");
 ?>
