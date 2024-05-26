@@ -32,11 +32,11 @@ include_once(__DIR__ . "/../head.php");
       <div class="columns-03-333333">
         <img src="/assets/img/marche-en-beton-001.webp" width="800" height="575" alt="Marche-en-beton" fetchPriority="high" loading="lazy">
         <img src="/assets/img/marche-en-beton-002.webp" width="800" height="575" alt="Marche-en-beton" fetchPriority="high" loading="lazy">
-        <img src="/assets/img/escalier-de-beton-001.webp" width="800" height="575" alt="Marche-de-beton-laurentides" fetchPriority="high" loading="lazy">
-        <img src="/assets/img/escalier-de-beton-002.webp" width="800" height="575" alt="Marche-de-beton-lanaudiere" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/escalier-de-beton-001.webp" width="800" height="575" alt="Marche-de-beton-laval" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/escalier-de-beton-002.webp" width="800" height="575" alt="Marche-de-beton-terrebonne" fetchPriority="high" loading="lazy">
         <img src="/assets/img/escalier-de-beton-003.webp" width="800" height="575" alt="Escalier-en-beton" fetchPriority="high" loading="lazy">
         <img src="/assets/img/escalier-de-beton-004.webp" width="800" height="575" alt="Escalier-en-beton" fetchPriority="high" loading="lazy">
-        <img src="/assets/img/escalier-de-beton-005.webp" width="800" height="575" alt="Escalier-de-beton-laurentides" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/escalier-de-beton-005.webp" width="800" height="575" alt="Escalier-de-beton-laval" fetchPriority="high" loading="lazy">
         <img src="/assets/img/escalier-trottoir-de-beton-001.webp" width="800" height="575" alt="Trottoir-en-beton" fetchPriority="high" loading="lazy">
         <img src="/assets/img/escalier-trottoir-de-beton-002.webp" width="800" height="575" alt="Escalier de beton" fetchPriority="high" loading="lazy">
         <img src="/assets/img/balcon-de-beton-003.webp" width="800" height="575" alt="Balcon-en-beton" fetchPriority="high" loading="lazy">
@@ -50,7 +50,7 @@ include_once(__DIR__ . "/../head.php");
       </div>
       <div class="columns-02-5050">
         <img src="/assets/img/descente-de-sous-sol-en-beton-001.webp" width="800" height="575" alt="Descente-de-sous-sol-en-beton" loading="lazy">
-        <img src="/assets/img/descente-de-sous-sol-en-beton-002.webp" width="800" height="575" alt="Descente-de-sous-sol-laurentides" loading="lazy">
+        <img src="/assets/img/descente-de-sous-sol-en-beton-002.webp" width="800" height="575" alt="Descente-de-sous-sol-laval" loading="lazy">
         <img src="/assets/img/descente-de-sous-sol-en-beton-004.webp" width="800" height="575" alt="Descente-de-sous-sol-rive-nord" loading="lazy">
       </div>
       <div class="alignleft" style="margin: 25px 0;">
@@ -58,7 +58,7 @@ include_once(__DIR__ . "/../head.php");
       </div>
       <div class="columns-02-5050">
         <img src="/assets/img/fondation-agrandissement-de-maison-001.webp" width="800" height="575" alt="Agrandissement-fondation" fetchPriority="low" loading="lazy">
-        <img src="/assets/img/fondation-agrandissement-de-maison-002.webp" width="800" height="575" alt="agrandissement-fondation-maison-laurentides" fetchPriority="low" loading="lazy">
+        <img src="/assets/img/fondation-agrandissement-de-maison-002.webp" width="800" height="575" alt="agrandissement-fondation-maison-laval" fetchPriority="low" loading="lazy">
         <img src="/assets/img/fondation-agrandissement-de-maison-003.webp"="800" height="575" alt="Agrandissement-fondation" fetchPriority="low" loading="lazy">
       </div>
     </div>

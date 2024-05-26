@@ -24,14 +24,14 @@ include_once(__DIR__ . "/../head.php");
       <div class="desc">
         <div class="desc-text">
           <h2 style="text-align: center;">Coffrages Phoenix</h2>
-          <h5>Spécialiste en coffrage dans les Laurentides, Lanaudière et la Rive Nord.</h5>
-          <p>Coffrages Phoenix se spécialise dans les coffrages de béton ainsi que des dalles de béton . Avec notre équipe d'experts, nous assurons un service de la meilleure qualité pour répondre au exigences de notre clientèle et dépasser leurs attentes. Nous offrons des services de coffrage, de marches de béton, de balcons en béton et bien plus.</p>
+          <h5>Spécialiste en coffrage à Montréal, Laval, Terrebonne et la Rive Nord de Montréal.</h5>
+          <p>Coffrages Phoenix se spécialise dans les coffrages de béton ainsi que des dalles de béton. Avec notre équipe d'experts, nous assurons un service de la meilleure qualité pour répondre au exigences de notre clientèle et dépasser leurs attentes. Nous offrons des services de coffrage, de marches de béton, de balcons en béton et bien plus.</p>
           <div style="text-align: center;margin-bottom: 35px;margin-top: 40px;">
             <a href="/services/" class="blue-button">Plus de détails sur les services</a>
           </div>
         </div>
         <div class="desc-img">
-          <img src="/assets/img/escalier-de-beton-001.webp" alt="Marche-de-beton-laurentides" width="780" height="759">
+          <img src="/assets/img/escalier-de-beton-001.webp" alt="Marche-de-beton-laval" width="780" height="759">
         </div>
       </div>
       
@@ -42,9 +42,8 @@ include_once(__DIR__ . "/../head.php");
           <img src="/assets/img/patio2.webp" alt="Patio" width="780" height="759">
         </div>
         <div class="desc-text" style="margin-top: 0;">
-          <h2 style="text-align: center; ">Vision</h2>
-          <h3 style="font-size: 36px !important;line-height:28px !important ;">Innovation, qualité, objectif commun</h3>
-          <p>Notre vision est d'être le leader en coffrage au Québec en offrant des solutions innovantes et de haute qualité pour répondre aux besoins de nos clients et dépasser leurs attentes, tout en mobilisant et inspirant nos employés pour atteindre notre objectif commun.</p>
+          <h2 style="text-align: center; ">Mission</h2>
+          <p>Notre mission est d'offrir un service exceptionnel et des travaux de qualité pour les familles à Montréal, Laval et la rive Nord de Montréal.</p>
           <h2 style="text-align: center; ">Histoire</h2>
           <p>Notre histoire a commencé avec l'envie de reprendre le flambeau d'une entreprise existante et de la propulser vers de nouveaux sommets. Après avoir acheté ses actifs, nous nous sommes fixés pour objectif de faire fructifier cette entreprise, en opérant de manière efficiente et en la développant. Notre ambition pour notre première année de démarrage est de stabiliser les opérations, d'établir des partenariats solides et de mettre en place les fondations pour une croissance à long terme. Nous sommes impatients de voir les fruits de nos efforts et de contribuer au dynamisme économique de la région.</p>
         </div>

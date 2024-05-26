@@ -1,7 +1,7 @@
 <!DOCTYPE html  lang="fr">
 <html>
 <?php
-$metaDesc = "Coffrage Phoenix est une entreprise se spécialisant en fondation de béton, en coffrage et dalle de béton dans Lanaudière, les Laurentides et la Rive-Nord.";
+$metaDesc = "Coffrage Phoenix est une entreprise se spécialisant en fondation de béton, en coffrage et dalle de béton à Montreal, Laval, Terrebonne et la Rive-Nord de montreal.";
 $englishUrl = "/en";
 $title = "Coffrages Phoenix - Accueil";
 $canonical = "";
@@ -16,7 +16,7 @@ include_once(__DIR__ . "/head.php");
   <div class="container">
     <div style="position: relative;z-index: 2;">
       <div class="absolute container-91pct top-050px left-003pct slider-header">
-        <h2>Spécialiste en fondation de béton et coffrages dans Lanaudière, les Laurentides et la Rive-Nord</h2>
+        <h2>Spécialiste en fondation de béton et coffrages à Montréal, Laval, Terrebonne et la Rive-Nord</h2>
         <div class="spacer-001"></div>
         <a class="button-border" href="#soumission">Soumission&nbsp; &#10095;</a>
         <div class="socials fonthover-06" style="margin-top: 5px;">

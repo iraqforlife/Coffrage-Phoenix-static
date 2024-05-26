@@ -90,7 +90,7 @@ include_once(__DIR__ . "/../head.php");
         <div class="services-item">
           <a href="/services/marche-de-beton/">
             <h4>Marche en béton</h4>
-            <img class="imagehover-02 border-01px" src="/assets/img/escalier-de-beton.webp" alt="Marche-de-beton-laurentides">
+            <img class="imagehover-02 border-01px" src="/assets/img/escalier-de-beton.webp" alt="Marche-de-beton-laval">
           </a>
           <p>
             L'une des choses les plus importantes lors de la fabrication d'un <strong>escalier de béton</strong> est le <strong>coffrage</strong>.

@@ -65,17 +65,16 @@
                 <div>
                     <p style="font-size: 24px;" class="fonthover-04 bold">Villes et régions desservies</p>
                     <p style="font-size: 16px;" class="fonthover-04 lineheight-125">
-                        Blainville, Bois-des-Filion, Chertsey, Joliette, L'Assomption, L'Épiphanie, Lac Écho, Lac Siesta, 
-                        Laurentides, <a href="/coffrage-beton-laval/">Laval</a>, Lorraine, Mascouche, Montréal, Rawdon, Repentigny, Rive-Nord, Rosemère, Saint-Alexis,
-                        Saint-Calixte, Saint-Esprit, Saint-Eustache, Saint-Hippolyte, Saint-Jacques, Saint-Jérôme, <a href="/coffrage-saint-lin-laurentides/">Saint-Lin</a>, 
-                        Saint-Roch-de-L'Achigan, Sainte-Anne-des-Plaines, Sainte-Julienne, Sainte-Sophie, Sainte-Thérèse, Terrebonne
+                        Blainville, Bois-des-Filion, Deux-Montagnes, Joliette, L'Assomption, 
+                        Laurentides, <a href="/coffrage-beton-laval/">Laval</a>, Lorraine, Mascouche, Mirabel, Montréal, Repentigny, Rive-Nord, Rosemère, Saint-Esprit, Saint-Eustache, Saint-Hippolyte, Saint-Jérôme, <a href="/coffrage-saint-lin-laurentides/">Saint-Lin</a>, Sainte-Marthe-sur-le-Lac, Sainte-Anne-des-Plaines, Sainte-Julienne, Sainte-Sophie, Sainte-Thérèse, Terrebonne, West-island
                     </p>
                 </div>
                 <div>
-                    <p class="fonthover-04 lineheight-125">© All rights reserved Les entreprises asra inc.</p>
+                    <p class="fonthover-04 lineheight-125">© Touts les droits sont réservé aux entreprises asra inc.</p>
                     <a class="fonthover-04 lineheight-125" href="/avis-legale/">Avis légal</a></br>
                     <a class="fonthover-04 lineheight-125" href="/politique-de-confidentialite/">Politique de confidentialité</a></br>
                     <a class="fonthover-04 lineheight-125" href="/termes-conditions/">Cookies et conditions générales</a></br>
+                    <p class="fonthover-04 lineheight-125" style="display:flex;">Coffrages Phoenix accepte le Bitcoin comme moyent de payment pour ses produits et services. <img src="/assets/img/bitcoin.webp" alt="Bitcoin coffrages phenoix" width="65px"></p>
                 </div>
             </div>
         </div>
