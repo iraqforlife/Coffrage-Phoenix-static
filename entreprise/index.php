@@ -11,7 +11,7 @@ include_once(__DIR__ . "/../head.php");
 <body>
   <?php include(__DIR__ . "/../header.php") ?>
   <style>
-    @media only screen and (max-width:767px){.team{font-size:16px;max-width:550px;padding-left:33px!important;padding-right:33px!important}.team img{width:415px!important;height:696px!important;margin:0 auto!important}}.team img{border-radius:30px;border:1px solid #0c4c8e;height:100%;width:95%;margin-left:2.5%;margin-right:2.5%}@media only screen and (max-width:768px){.txt{text-align:center}}@media only screen and (min-width:768px){.prf{margin-right:15px;width:100%}.txt{margin-left:15px;margin-right:100px}.reviews-boxes{display:grid;grid-template-columns:33.333% 33.333% 33.333%}.team{display:grid;max-width:940px;grid-template-columns:auto auto}}.txt{font-size:16px}
+    @media only screen and (max-width:767px){.team{font-size:16px;max-width:550px;padding-left:33px!important;padding-right:33px!important}.team img{width:415px!important;height:696px!important;margin:0 auto!important}}.team img{border-radius:30px;border:1px solid #0c4c8e;height:100%;width:95%;margin-left:2.5%;margin-right:2.5%}@media only screen and (max-width:768px){.txt{text-align:center}}@media only screen and (min-width:768px){.prf{margin-right:15px;width:100%}.txt{margin-left:15px;margin-right:100px}.reviews-boxes{display:grid;grid-template-columns:33.333% 33.333% 33.333%}.team{display:grid;max-width:940px;grid-template-columns:auto auto}}.txt{font-size:16px} h5,p {color: var(--primaryColor)}
   </style>
   <div class="container">
     <div class="about">

@@ -11,7 +11,7 @@ include_once(__DIR__ . "/head.php");
 <body>
   <?php include(__DIR__ . "/header.php") ?>
   <style>
-    .service-item,.services-header{text-align:center}.borderBlue,.service-item{border:1px solid #0c4c8e}.slider-header{width:40%}.slider-header h2{margin-bottom:30px;color:#000!important}@media only screen and (max-width:360px){.slider-header h2{font-size:15px!important;line-height:14px!important;margin:0!important}}@media only screen and (min-width:361px) and (max-width:450px){.slider-header h2{font-size:20px!important;line-height:17px!important;margin:0!important;font-weight:400!important}}@media only screen and (min-width:451px) and (max-width:650px){.slider-header h2{font-size:22px!important;line-height:19px!important;margin-bottom:10px!important;font-weight:400!important}}@media only screen and (min-width:651px) and (max-width:725px){.slider-header h2{font-size:30px!important;line-height:30px!important;margin-bottom:15px!important;font-weight:450!important}}@media only screen and (min-width:726px) and (max-width:900px){.slider-header h2{font-size:30px!important;margin-bottom:15px;line-height:30px!important;font-weight:450!important}}@media only screen and (min-width:901px) and (max-width:1000px){.slider-header h2{font-size:40px!important;line-height:40px!important;font-weight:450!important;margin-bottom:20px}}@media only screen and (min-width:1001px) and (max-width:1100px){.slider-header h2{font-size:45px!important;line-height:45px!important;font-weight:450!important}}@media only screen and (min-width:1101px) and (max-width:1200px){.slider-header h2{font-size:45px!important;line-height:45px!important}}@media only screen and (min-width:1201px) and (max-width:1300px){.slider-header h2{font-size:50px!important;line-height:53px!important}}@media only screen and (max-width:550px){.slider-header .socials{display:none}}.service-item{margin:10px;max-width:650px;min-width:340px;box-shadow:0 4px 5px 0 rgba(12,76,142,.38)}.service-item p{margin:15px;font-size:20px;line-height:28px;font-weight:500;letter-spacing:0;color:#0c4c8e}.servicesSlider{display:grid;grid-template-columns:5% 90% 5%}.hide{display:none}.serviceItems{display:flex;flex-wrap:nowrap;white-space:nowrap}.verticleCenter{position:absolute;display:flex;align-items:center;justify-content:center;align-items:center}.carouselButtons{outline:0;background:0 0;border:none;cursor:pointer}#carousel{display:flex;align-items:center;overflow-x:auto;scroll-behavior:smooth}#left,#right{z-index:10}.sliderButton{background-color:#ced4da;width:3rem;height:.6rem;transition:background-color .2s,color .2s,box-shadow .2s;border-radius:0;border-width:0}
+    .service-item,.services-header{text-align:center}.borderBlue,.service-item{border:1px solid #0c4c8e}.slider-header{width:40%}.slider-header h2{margin-bottom:30px;color:#fff!important}@media only screen and (max-width:360px){.slider-header h2{font-size:15px!important;line-height:14px!important;margin:0!important}}@media only screen and (min-width:361px) and (max-width:450px){.slider-header h2{font-size:20px!important;line-height:17px!important;margin:0!important;font-weight:400!important}}@media only screen and (min-width:451px) and (max-width:650px){.slider-header h2{font-size:22px!important;line-height:19px!important;margin-bottom:10px!important;font-weight:400!important}}@media only screen and (min-width:651px) and (max-width:725px){.slider-header h2{font-size:30px!important;line-height:30px!important;margin-bottom:15px!important;font-weight:450!important}}@media only screen and (min-width:726px) and (max-width:900px){.slider-header h2{font-size:30px!important;margin-bottom:15px;line-height:30px!important;font-weight:450!important}}@media only screen and (min-width:901px) and (max-width:1000px){.slider-header h2{font-size:40px!important;line-height:40px!important;font-weight:450!important;margin-bottom:20px}}@media only screen and (min-width:1001px) and (max-width:1100px){.slider-header h2{font-size:45px!important;line-height:45px!important;font-weight:450!important}}@media only screen and (min-width:1101px) and (max-width:1200px){.slider-header h2{font-size:45px!important;line-height:45px!important}}@media only screen and (min-width:1201px) and (max-width:1300px){.slider-header h2{font-size:50px!important;line-height:53px!important}}@media only screen and (max-width:550px){.slider-header .socials{display:none}}.service-item{margin:10px;max-width:650px;min-width:340px;box-shadow:0 4px 5px 0 rgba(12,76,142,.38)}.service-item p{margin:15px;font-size:20px;line-height:28px;font-weight:500;letter-spacing:0;color:#0c4c8e}.servicesSlider{display:grid;grid-template-columns:5% 90% 5%}.hide{display:none}.serviceItems{display:flex;flex-wrap:nowrap;white-space:nowrap}.verticleCenter{position:absolute;display:flex;align-items:center;justify-content:center;align-items:center}.carouselButtons{outline:0;background:0 0;border:none;cursor:pointer}#carousel{display:flex;align-items:center;overflow-x:auto;scroll-behavior:smooth}#left,#right{z-index:10}.sliderButton{background-color:#ced4da;width:3rem;height:.6rem;transition:background-color .2s,color .2s,box-shadow .2s;border-radius:0;border-width:0}
   </style>
   <div class="container">
     <div style="position: relative;z-index: 2;">
@@ -48,6 +48,24 @@ include_once(__DIR__ . "/head.php");
               </a>
             </div>
             <div class="service-item">
+              <a href="/services/balcon-en-beton/">
+                <img src="/assets/img/balcon-de-beton.webp" alt="Balcons en béton">
+                <p>Balcons en béton</p>
+              </a>
+            </div>
+            <div class="service-item">
+              <a href="/services/dalle-de-beton/">
+                <img src="/assets/img/dalle.webp" alt="concrete-dalle">
+                <p>Dalles en béton</p>
+              </a>
+            </div>
+            <div class="service-item">
+              <a href="/services/marche-de-beton/">
+                <img src="/assets/img/escalier-de-beton.webp" alt="Marche en béton">
+                <p>Marche en béton</p>
+              </a>
+            </div>
+            <div class="service-item">
               <a href="/services/fondation-maison/">
                 <img src="/assets/img/fondation.webp" alt="concrete-foundation-house">
                 <p>Fondations de maison</p>
@@ -59,28 +77,10 @@ include_once(__DIR__ . "/head.php");
                 <p>Agrandissement de maison</p>
               </a>
             </div>
-            <div class="service-item">
-              <a href="/services/balcon-en-beton/">
-                <img src="/assets/img/balcon-de-beton.webp" alt="Balcons en béton">
-                <p>Balcons en béton</p>
-              </a>
-            </div>
             <div class="service-item ">
               <a href="/services/descente-sous-sol-beton/">
                 <img src="/assets/img/descente-de-sous-sol-en-beton-003.webp" alt="Descente de sous-sol en béton">
                 <p>Descente de sous-sol en béton</p>
-              </a>
-            </div>
-            <div class="service-item">
-              <a href="/services/marche-de-beton/">
-                <img src="/assets/img/escalier-de-beton.webp" alt="Marche en béton">
-                <p>Marche en béton</p>
-              </a>
-            </div>
-            <div class="service-item">
-              <a href="/services/dalle-de-beton/">
-                <img src="/assets/img/dalle.webp" alt="concrete-dalle">
-                <p>Dalles en béton</p>
               </a>
             </div>
           </div>

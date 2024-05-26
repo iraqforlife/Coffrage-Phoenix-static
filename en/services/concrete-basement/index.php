@@ -14,7 +14,7 @@ include_once(__DIR__ . "/../../head.php");
   <div class="container">
     <div style="display: grid;" class="about">
       <div style="text-align: center;">
-        <h2><strong>Formwork</strong> Services</h2>
+        <h2><strong>Formwork Services</strong></h2>
       </div>
       <div style="text-align: center;margin-left: auto;margin-right: auto; margin-top: 30px; margin-bottom: 30px;"><a href="#quote" class="blue-button">Request a quote</a></div>
 
@@ -25,7 +25,7 @@ include_once(__DIR__ . "/../../head.php");
         <div class="servces-desc-title">
           <h1 style="font-size: 37px !important;color:#545454;"><strong>Concrete basement entrance</strong></h1>
           <hr>
-          <p style="color: #1e1e1e;">Adding a concrete basement entrance can be a labor-intensive task, so it's important to work with professionals. Basement entrances are the perfect addition to a home with regular use of the basement entrance. Our team of experts will ensure a product that is both durable and aesthetically pleasing. Basement entrances require very little maintenance. Our team will ensure that we provide a product tailored to your needs and your home.</p>
+          <p style="color: var(--primaryColor);">Adding a concrete basement entrance can be a labor-intensive task, so it's important to work with professionals. Basement entrances are the perfect addition to a home with regular use of the basement entrance. Our team of experts will ensure a product that is both durable and aesthetically pleasing. Basement entrances require very little maintenance. Our team will ensure that we provide a product tailored to your needs and your home.</p>
         </div>
       </div>
 

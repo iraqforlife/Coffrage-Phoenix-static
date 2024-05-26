@@ -14,7 +14,7 @@ include_once(__DIR__ . "/../../head.php");
   <div class="container">
     <div style="display: grid;" class="about">
       <div style="text-align: center;">
-        <h2><strong>Formwork</strong> Services</h2>
+        <h2><strong>Formwork Services</strong></h2>
       </div>
       <div style="text-align: center;margin-left: auto;margin-right: auto; margin-top: 30px; margin-bottom: 30px;"><a href="#quote" class="blue-button">Request a quote</a></div>
 
@@ -25,8 +25,8 @@ include_once(__DIR__ . "/../../head.php");
         <div class="servces-desc-title">
           <h1 style="color:#545454;"><strong>Formwork</strong></h1>
           <hr>
-          <p style="color: #1e1e1e;">Coffrage Phoenix is the perfect company for all your construction projects requiring formwork, whether it is for:</p>
-          <ul class="browser-default">
+          <p style="color: var(--primaryColor);">Coffrage Phoenix is the perfect company for all your construction projects requiring formwork, whether it is for:</p>
+          <ul class="browser-default" style="color: var(--primaryColor)">
             <li>Concrete slabs</li>
             <li>Concrete balcony</li>
             <li>Concrete foundations</li>
@@ -35,7 +35,7 @@ include_once(__DIR__ . "/../../head.php");
             <li>Concrete structures</li>
             <li>Formwork of all kinds</li>
           </ul>
-          <p style="color: #1e1e1e;">Our team of experts is here to offer you a product that is both durable and aesthetic. We only use high-quality materials and tools to ensure the best possible result. Don't hesitate to contact us for any questions or to get an estimate.</p>
+          <p style="color: var(--primaryColor);">Our team of experts is here to offer you a product that is both durable and aesthetic. We only use high-quality materials and tools to ensure the best possible result. Don't hesitate to contact us for any questions or to get an estimate.</p>
         </div>
       </div>
 

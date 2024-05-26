@@ -14,6 +14,7 @@ include_once(__DIR__ . "/../head.php");
   <div class="container">
     <style>
       .services img {border: 1px solid var(--primaryColor);margin: 12px 0;}.services p {text-align: justify;font-size: 14px;}
+      p {color:var(--primaryColor)}
     </style>
     <div style="display: grid;margin-bottom: 30px;">
       <div style="text-align: center;">
@@ -38,6 +39,32 @@ include_once(__DIR__ . "/../head.php");
         </div>
         <div></div>
         <div class="services-item">
+          <a href="/services/balcon-en-beton/">
+            <h4>Balcons en béton</h4>
+            <img class="imagehover-02 border-01px" src="/assets/img/balcon-de-beton.webp" alt="Balcon-en-beton">
+          </a>
+          <p>
+            En raison de leur <strong>solidité</strong>, de leur <strong>résistance</strong> et de leur capacité à <strong>résister aux intempéries</strong>, les balcons en béton sont courants.
+            Le béton est une substance de construction <strong>fiable</strong> qui peut être façonnée et conçue de différentes manières pour s'adapter à tout type de maison.
+            Les balcons en béton sont utiles pour les résidents à <strong>long terme</strong> car ils nécessitent peu d'entretien et peu de réparations.
+          </p>
+        </div>
+        <div></div>
+        <div class="services-item">
+          <a href="/services/dalle-de-beton/">
+            <h4>Dalles en béton</h4>
+            <img class="imagehover-02 border-01px" src="/assets/img/dalle.webp" alt="Dalle-de-beton">
+          </a>
+          <p>
+            Les allées, les patios et les trottoirs ne sont que quelques-uns des projets de construction qui utilisent des blocs de béton.
+            Le béton est une substance courante pour les dalles car il est <strong>solide, durable et facile à entretenir</strong>.
+            Les blocs de béton peuvent être personnalisés pour correspondre à <strong>votre style</strong> et à <strong>vos goûts visuels</strong>
+            en utilisant une variété de finitions, de couleurs et de textures.
+          </p>
+        </div>
+      </div>
+      <div class="columnswithgap-03">
+        <div class="services-item">
           <a href="/services/fondation-maison/">
             <h4>Fondations de maison</h4>
             <img class="imagehover-02 border-01px" src="/assets/img/fondation.webp" alt="Fondation">
@@ -47,31 +74,6 @@ include_once(__DIR__ . "/../head.php");
             Le béton est une substance de construction <strong>solide et durable</strong> qui peut résister aux tremblements de terre et aux éléments.
             Les fondations en béton sont une option flexible pour les projets de construction car elles peuvent être construites dans une
             variété de formes et de tailles pour répondre aux besoins particuliers d'une structure.
-          </p>
-        </div>
-        <div></div>
-        <div class="services-item">
-          <a href="/services/agrandissement-maison/">
-            <h4>Agrandissement de maison</h4>
-            <img class="imagehover-02 border-01px" src="/assets/img/agrandissement.webp" alt="Agrandissement-fondation">
-          </a>
-          <p>
-            Lorsque vous construisez une nouvelle extension à votre maison, choisissez des composants qui <strong>dureront et seront solides</strong>.
-            En raison de sa <strong>durabilité</strong> et de son <strong>adaptabilité</strong>, le béton est un matériau préféré.
-            C'est une <strong>excellente option</strong> pour les extensions de maison car il peut être utilisé pour les dalles de sol, les supports et les murs porteurs.
-          </p>
-        </div>
-      </div>
-      <div class="columnswithgap-03">
-        <div class="services-item">
-          <a href="/services/balcon-en-beton/">
-            <h4>Balcons en béton</h4>
-            <img class="imagehover-02 border-01px" src="/assets/img/balcon-de-beton.webp" alt="Balcon-en-beton">
-          </a>
-          <p>
-            En raison de leur <strong>solidité</strong>, de leur <strong>résistance</strong> et de leur capacité à <strong>résister aux intempéries</strong>, les balcons en béton sont courants.
-            Le béton est une substance de construction <strong>fiable</strong> qui peut être façonnée et conçue de différentes manières pour s'adapter à tout type de maison.
-            Les balcons en béton sont utiles pour les résidents à <strong>long terme</strong> car ils nécessitent peu d'entretien et peu de réparations.
           </p>
         </div>
         <div></div>
@@ -100,15 +102,14 @@ include_once(__DIR__ . "/../head.php");
       </div>
       <div class="columnswithgap-03" style="padding-bottom: 60px;">
         <div class="services-item">
-          <a href="/services/dalle-de-beton/">
-            <h4>Dalles en béton</h4>
-            <img class="imagehover-02 border-01px" src="/assets/img/dalle.webp" alt="Dalle-de-beton">
+          <a href="/services/agrandissement-maison/">
+            <h4>Agrandissement de maison</h4>
+            <img class="imagehover-02 border-01px" src="/assets/img/agrandissement.webp" alt="Agrandissement-fondation">
           </a>
           <p>
-            Les allées, les patios et les trottoirs ne sont que quelques-uns des projets de construction qui utilisent des blocs de béton.
-            Le béton est une substance courante pour les dalles car il est <strong>solide, durable et facile à entretenir</strong>.
-            Les blocs de béton peuvent être personnalisés pour correspondre à <strong>votre style</strong> et à <strong>vos goûts visuels</strong>
-            en utilisant une variété de finitions, de couleurs et de textures.
+            Lorsque vous construisez une nouvelle extension à votre maison, choisissez des composants qui <strong>dureront et seront solides</strong>.
+            En raison de sa <strong>durabilité</strong> et de son <strong>adaptabilité</strong>, le béton est un matériau préféré.
+            C'est une <strong>excellente option</strong> pour les extensions de maison car il peut être utilisé pour les dalles de sol, les supports et les murs porteurs.
           </p>
         </div>
         <div></div>

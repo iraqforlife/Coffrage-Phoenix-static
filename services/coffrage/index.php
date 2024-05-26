@@ -13,7 +13,7 @@
   <div class="container">
     <div style="display: grid;" class="about">
       <div style="text-align: center;">
-          <h2>Services <strong>Coffrages</strong></h2>
+          <h2><strong>Services Coffrages</strong></h2>
       </div>
       <div style="text-align: center;margin-left: auto;margin-right: auto; margin-top: 30px; margin-bottom: 30px;"><a href="#soumission" class="blue-button">Demander une soumission</a></div>
   
@@ -24,8 +24,8 @@
           <div class="servces-desc-title">
               <h1 style="color:#545454;"><strong>Coffrage</strong></h1>
               <hr>
-              <p style="color: #1e1e1e;">Coffrage Phoenix est la compagnie parfaite pour tous vos projets de construction nécessitant du coffrage qu’il s'agit de: </p>
-              <ul class="browser-default">
+              <p style="color: var(--primaryColor);">Coffrage Phoenix est la compagnie parfaite pour tous vos projets de construction nécessitant du coffrage qu’il s'agit de: </p>
+              <ul class="browser-default" style="color: var(--primaryColor);">
                   <li>Dalles en béton</li>
                   <li>Balcons en béton</li>
                   <li>Fondations de béton</li>
@@ -34,7 +34,7 @@
                   <li>Structures de béton</li>
                   <li>Coffrages en tout genre</li>
               </ul>
-              <p style="color: #1e1e1e;">Notre équipe d'expert est là pour vous offrir un produit autant durable qu’esthétique. Nous n’utilisons que des matériaux et des outils de qualités pour vous assurer le meilleur résultat possible. N’hésitez pas à nous contacter pour toute question ou pour un estimer.</p>
+              <p style="color: var(--primaryColor);">Notre équipe d'expert est là pour vous offrir un produit autant durable qu’esthétique. Nous n’utilisons que des matériaux et des outils de qualités pour vous assurer le meilleur résultat possible. N’hésitez pas à nous contacter pour toute question ou pour un estimer.</p>
           </div>
       </div>
   

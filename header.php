@@ -7,19 +7,19 @@
             </div>
             <div class="alignright">
                 <div class="navfont-menu fonthover-03">
-                    <a href="/">Accueil</a>&nbsp;&nbsp;&nbsp;
+                    <a href="/" style="color: var(--primaryColor);">Accueil</a>&nbsp;&nbsp;&nbsp;
 
-                    <div class="dropdown">
-                        <a href="/services/">Services</a>
-                        <a class='dropdown-trigger' href='#' data-target='dropdown1'> <i class="fa-solid fa-chevron-down"></i></a>
+                    <div class="dropdown" style="color:var(--primaryColor)">
+                        <a style="color: var(--primaryColor) !important;" href="/services/">Services</a>
+                        <a class='dropdown-trigger' href='#' data-target='dropdown1' style="color: var(--primaryColor);"> <i class="fa-solid fa-chevron-down"></i></a>
                         <div id='dropdown1' class="dropdown-content" style="top:50px !important;">
-                            <a href="/services/coffrage/">Coffrage</a>
-                            <a href="/services/fondation-maison/">Fondations de maison</a>
-                            <a href="/services/agrandissement-maison/">Agrandissement de maison</a>
-                            <a href="/services/balcon-en-beton/">Balcons en béton</a>
-                            <a href="/services/descente-sous-sol-beton/">Descente de sous-sol en béton</a>
-                            <a href="/services/marche-de-beton/">Marche en béton</a>
-                            <a href="/services/dalle-de-beton/">Dalles en béton</a>
+                            <a href="/services/coffrage/" style="color: var(--primaryColor);">Coffrage</a>
+                            <a href="/services/fondation-maison/" style="color: var(--primaryColor);">Fondations de maison</a>
+                            <a href="/services/agrandissement-maison/" style="color:var(--primaryColor)">Agrandissement de maison</a>
+                            <a href="/services/balcon-en-beton/" style="color:var(--primaryColor)">Balcons en béton</a>
+                            <a href="/services/descente-sous-sol-beton/" style="color:var(--primaryColor)">Descente de sous-sol en béton</a>
+                            <a href="/services/marche-de-beton/"style="color: var(--primaryColor);">Marche en béton</a>
+                            <a href="/services/dalle-de-beton/"style="color: var(--primaryColor);">Dalles en béton</a>
                         </div>
                         <!-- Dropdown Structure -->
                         <script>
@@ -30,11 +30,11 @@
                             });
                         </script>
                     </div>&nbsp;&nbsp;&nbsp;
-                    <a href="/realisation/">Réalisations</a>&nbsp;&nbsp;&nbsp;
-                    <a href="/entreprise/">Entreprise</a>&nbsp;&nbsp;&nbsp;
-                    <a href="/soumission/">Soumission</a>&nbsp;&nbsp;&nbsp;
-                    <a href="/contact/">Contact</a>&nbsp;&nbsp;&nbsp;
-                    <a href="<?php echo  $englishUrl ?>" style="cursor: pointer;">English</a>
+                    <a href="/realisation/" style="color: var(--primaryColor);">Réalisations</a>&nbsp;&nbsp;&nbsp;
+                    <a href="/entreprise/" style="color: var(--primaryColor);">Entreprise</a>&nbsp;&nbsp;&nbsp;
+                    <a href="/soumission/" style="color: var(--primaryColor);">Soumission</a>&nbsp;&nbsp;&nbsp;
+                    <a href="/contact/" style="color: var(--primaryColor);">Contact</a>&nbsp;&nbsp;&nbsp;
+                    <a href="<?php echo  $englishUrl ?>" style="cursor: pointer; color: var(--primaryColor);">English</a>
                 </div>
             </div>
         </div>
