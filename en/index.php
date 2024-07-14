@@ -2,7 +2,7 @@
 <html>
 <?php
 $title = "Coffrages Phoenix - Welcome";
-$metaDesc = "Coffrage Phoenix is a company specializing in concrete foundation, formwork, and concrete slabs in Montreal, Laval, Terrebonne and the North Shore of Montreal.";
+$metaDesc = "Concrete balcony, side walk, slab and formwork specialist in Montreal, Laval, Terrebonne and the North Shore of Montreal.";
 $englishUrl = "/";
 $canonical = "en/";
 include_once(__DIR__ . "/head.php");
@@ -16,7 +16,7 @@ include_once(__DIR__ . "/head.php");
   <div class="container">
     <div style="position: relative;z-index: 2;">
       <div class="absolute container-91pct top-050px left-003pct slider-header">
-        <h1 style="color:white;">Concrete balcony, side walk, slab and formwork specialist in Montreal, Laval, Terrebonne and the North Shore of Montreal</h1>
+        <h1 style="color:white;">Concrete balcony, side walk, slab and formwork specialist in Montreal, Laval, Terrebonne and the North Shore of Montreal.</h1>
         <div class="spacer-001"></div>
         <a class="button-border" href="#quote">Quote&nbsp; &#10095;</a>
         <div class="socials fonthover-06" style="margin-top: 5px;">

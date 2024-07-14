@@ -3,7 +3,7 @@
 <?php
 $metaDesc = "Specialist in concrete formwork in Laval. Slabs, balconies, foundations, and more. Quality and aesthetics guaranteed. Contact Coffrages Phoenix for a quote.";
 $englishUrl = "/coffrage-beton-laval/";
-$title = "Coffrages Phoenix - Concrete Formwork in Laval";
+$title = "Concrete Formwork in Laval";
 $canonical = "en/coffrage-beton-laval/";
 include_once(__DIR__ . "/../head.php");
 ?>
