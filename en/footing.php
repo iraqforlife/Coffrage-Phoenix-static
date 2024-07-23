@@ -60,6 +60,7 @@
                 </div>
                 <div>
                     <p class="fonthover-04 lineheight-125">© All rights reserved Les entreprises asra inc.</p>
+                    <a href="https://datanextstep.com/" class="fonthover-04 lineheight-125">Supported by Data Next Step</a></br>
                     <a class="fonthover-04 lineheight-125" href="/en/legal-notice/">Legal Notice</a></br>
                     <a class="fonthover-04 lineheight-125" href="/en/privacy-policy/">Politique de confidentialité</a></br>
                     <a class="fonthover-04 lineheight-125" href="/en/terms-conditions/">Cookies and Terms & Conditions</a></br>
