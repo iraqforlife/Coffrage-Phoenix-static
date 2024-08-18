@@ -9,6 +9,10 @@
   <loc>https://coffragesphoenix.com/</loc>
   <lastmod>2023-09-30T14:01:26+00:00</lastmod>
   <priority>1</priority>
+</url><url>
+  <loc>https://coffragesphoenix.com/en</loc>
+  <lastmod>2023-09-30T14:01:26+00:00</lastmod>
+  <priority>1</priority>
 </url>
 <url>
   <loc>https://coffragesphoenix.com/realisation/</loc>
@@ -141,6 +145,11 @@
   <priority>0.62</priority>
 </url>
 <url>
+  <loc>https://coffragesphoenix.com/en/coffrage-saint-lin-laurentides/</loc>
+  <lastmod>2023-09-30T14:01:26+00:00</lastmod>
+  <priority>0.62</priority>
+</url>
+<url>
   <loc>https://coffragesphoenix.com/en/coffrage-beton-laval/</loc>
   <lastmod>2023-09-30T14:01:26+00:00</lastmod>
   <priority>0.62</priority>
@@ -166,7 +175,7 @@
   <priority>0.4</priority>
 </url>
 <url>
-  <loc>https://coffragesphoenix.comen/en/legal-notice/</loc>
+  <loc>https://coffragesphoenix.com/en/legal-notice/</loc>
   <lastmod>2024-03-17T14:01:26+00:00</lastmod>
   <priority>0.4</priority>
 </url>
