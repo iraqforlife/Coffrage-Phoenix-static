@@ -37,15 +37,15 @@
             <div class="alignleft">
                 <div>
                     <a href="/services/" class="fonthover-04 bold" style="font-size: 24px;">Services</a><br>
-                    <a href="/en/services/house-foundation/" class="fonthover-04 lineheight-125" style="font-size: 17px;">House foundations</a><br>
-                    <a href="/en/services/formwork/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete formworks</a><br>
-                    <a href="/en/services/formwork/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete structures</a><br>
-                    <a href="/en/services/formwork/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Formwork of all kinds</a><br>
                     <a href="/en/services/concrete-balcony/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete balcony</a><br>
                     <a href="/en/services/concrete-step/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete step</a><br>
+                    <a href="/en/services/formwork/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete formworks</a><br>
+                    <a href="/en/services/house-foundation/" class="fonthover-04 lineheight-125" style="font-size: 17px;">House foundations</a><br>
+                    <a href="/en/services/concrete-slab/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete slabs</a><br>
+                    <a href="/en/services/formwork/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete structures</a><br>
+                    <a href="/en/services/formwork/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Formwork of all kinds</a><br>
                     <a href="/en/services/concrete-basement/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete basement entrance</a><br>
                     <a href="/en/services/concrete-basement/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Garage floors</a><br>
-                    <a href="/en/services/concrete-slab/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete slabs</a><br>
                     <a href="/en/services/house-extension/" class="fonthover-04 lineheight-125" style="font-size: 17px;">House extension</a><br>
                     <div class="footer-spacer-001"></div>
                 </div>

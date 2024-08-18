@@ -42,15 +42,15 @@ include_once(__DIR__ . "/head.php");
         <div id="carousel">
           <div class="aligncenter serviceItems">
             <div class="service-item">
-              <a href="/en/services/formwork/">
-                <img src="/assets/img/coffrage-de-beton.webp" alt="coffrage">
-                <p>Formwork</p>
-              </a>
-            </div>
-            <div class="service-item">
               <a href="/en/services/concrete-balcony/">
                 <img src="/assets/img/balcon-de-beton.webp" alt="Balcons en béton">
                 <p>Concrete balcony</p>
+              </a>
+            </div>
+            <div class="service-item">
+              <a href="/en/services/formwork/">
+                <img src="/assets/img/coffrage-de-beton.webp" alt="coffrage">
+                <p>Formwork</p>
               </a>
             </div>
             <div class="service-item">

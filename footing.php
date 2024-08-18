@@ -38,26 +38,16 @@
                 <div>
                     <a href="/services/" class="fonthover-04 bold" style="font-size: 24px;">Services</a>
                     <br>
-                    <a href="/services/fondation-maison/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Fondations de maison</a>
-                    <br>
-                    <a href="/services/coffrage/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Coffrages de béton</a>
-                    <br>
-                    <a href="/services/coffrage/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Structures de béton</a>
-                    <br>
-                    <a href="/services/coffrage/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Coffrages en tout genre</a>
-                    <br>
-                    <a href="/services/balcon-en-beton/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Balcons en béton</a>
-                    <br>
-                    <a href="/services/marche-de-beton/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Marche en béton</a>
-                    <br>
-                    <a href="/services/descente-sous-sol-beton/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Descente de sous-sol en béton</a>
-                    <br>
-                    <a href="/services/dalle-de-beton/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Planchers de garage</a>
-                    <br>
-                    <a href="/services/dalle-de-beton/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Dalles en béton</a>
-                    <br>
-                    <a href="/services/agrandissement-maison/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Agrandissement de maison</a>
-                    <br>
+                    <a href="/services/balcon-en-beton/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Balcons en béton</a><br>
+                    <a href="/services/marche-de-beton/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Marche en béton</a><br>
+                    <a href="/services/coffrage/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Coffrages de béton</a><br>
+                    <a href="/services/coffrage/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Coffrages en tout genre</a><br>
+                    <a href="/services/agrandissement-maison/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Agrandissement de maison</a><br>
+                    <a href="/services/coffrage/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Structures de béton</a><br>
+                    <a href="/services/fondation-maison/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Fondations de maison</a><br>
+                    <a href="/services/descente-sous-sol-beton/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Descente de sous-sol en béton</a><br>
+                    <a href="/services/dalle-de-beton/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Planchers de garage</a><br>
+                    <a href="/services/dalle-de-beton/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Dalles en béton</a><br>
                     <div class="footer-spacer-001"></div>
                 </div>
             </div>

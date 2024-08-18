@@ -25,6 +25,18 @@ include_once(__DIR__ . "/../head.php");
     <div class="services container-1200px" style="padding-bottom: 0;">
       <div class="columnswithgap-03">
         <div class="services-item">
+          <a href="/services/balcon-en-beton/">
+            <h4>Balcons en béton</h4>
+            <img class="imagehover-02 border-01px" src="/assets/img/balcon-de-beton.webp" alt="Balcon-en-beton">
+          </a>
+          <p>
+            En raison de leur <strong>solidité</strong>, de leur <strong>résistance</strong> et de leur capacité à <strong>résister aux intempéries</strong>, les balcons en béton sont courants.
+            Le béton est une substance de construction <strong>fiable</strong> qui peut être façonnée et conçue de différentes manières pour s'adapter à tout type de maison.
+            Les balcons en béton sont utiles pour les résidents à <strong>long terme</strong> car ils nécessitent peu d'entretien et peu de réparations.
+          </p>
+        </div>
+        <div></div>
+        <div class="services-item">
           <a href="/services/coffrage/">
             <h4>Coffrage</h4>
             <img class="imagehover-02 border-01px" src="/assets/img/coffrage-de-beton.webp" alt="Coffrage-de-beton">
@@ -35,18 +47,6 @@ include_once(__DIR__ . "/../head.php");
             pour <strong>vous aider à choisir la meilleure solution pour votre projet</strong>. Notre expertise et
             notre équipement de pointe, vous pouvez être assuré que votre projet sera entre de bonnes mains et que vous obtiendrez
             <strong>des résultats durables et esthétiquement satisfaisants</strong>.
-          </p>
-        </div>
-        <div></div>
-        <div class="services-item">
-          <a href="/services/balcon-en-beton/">
-            <h4>Balcons en béton</h4>
-            <img class="imagehover-02 border-01px" src="/assets/img/balcon-de-beton.webp" alt="Balcon-en-beton">
-          </a>
-          <p>
-            En raison de leur <strong>solidité</strong>, de leur <strong>résistance</strong> et de leur capacité à <strong>résister aux intempéries</strong>, les balcons en béton sont courants.
-            Le béton est une substance de construction <strong>fiable</strong> qui peut être façonnée et conçue de différentes manières pour s'adapter à tout type de maison.
-            Les balcons en béton sont utiles pour les résidents à <strong>long terme</strong> car ils nécessitent peu d'entretien et peu de réparations.
           </p>
         </div>
         <div></div>

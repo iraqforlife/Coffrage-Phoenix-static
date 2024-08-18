@@ -3,7 +3,7 @@
 <?php
 $metaDesc = "We offer a wide range of services, including formwork, foundation work, house extension, concrete balconies, concrete steps and concrete slabs.";
 $englishUrl = "/services/";
-$title = "Coffrages Phoenix - Our Services";
+$title = "Our Services";
 $canonical = "en/services/";
 include_once(__DIR__ . "/../head.php");
 ?>
@@ -25,6 +25,18 @@ include_once(__DIR__ . "/../head.php");
     <div class="services container-1200px" style="padding-bottom: 0;">
       <div class="columnswithgap-03">
         <div class="services-item">
+          <a href="/en/services/concrete-balcony/">
+            <h4>Concrete balcony</h4>
+            <img class="imagehover-02 border-01px" src="/assets/img/balcon-de-beton.webp" alt="Balcon-en-beton">
+          </a>
+          <p>
+            Because of their <strong>sturdiness, power, and weather resilience</strong>, concrete balconies are common.
+            Concrete is a <strong>reliable</strong> construction substance that can be shaped and designed in a wide range of ways to fit any type of house.
+            Concrete balconies are useful for <strong>long-term</strong> residents because they require little maintenance and few repairs.
+          </p>
+        </div>
+        <div></div>
+        <div class="services-item">
           <a href="/en/services/formwork/">
             <h4>Formwork</h4>
             <img class="imagehover-02 border-01px" src="/assets/img/coffrage-de-beton.webp" alt="Coffrage-de-beton">
@@ -39,6 +51,16 @@ include_once(__DIR__ . "/../head.php");
         </div>
         <div></div>
         <div class="services-item">
+          <a href="/en/services/concrete-step/">
+            <h4>Concrete step</h4>
+            <img class="imagehover-02 border-01px" src="/assets/img/escalier-de-beton.webp" alt="Marche-de-beton-laval">
+          </a>
+          <p>One of the most important things when making a <strong>concrete staircase</strong>
+            is the <strong>formwork</strong>. A well-made <strong>formwork</strong> and the use of good quality concrete will ensure solid durability.</p>
+        </div>
+      </div>
+      <div class="columnswithgap-03">
+        <div class="services-item">
           <a href="/en/services/house-foundation/">
             <h4>House foundations</h4>
             <img class="imagehover-02 border-01px" src="/assets/img/fondation.webp" alt="Fondation">
@@ -48,31 +70,6 @@ include_once(__DIR__ . "/../head.php");
             A <strong>strong and long-lasting</strong> construction substance that can endure earthquakes and the elements is concrete.
             Concrete foundations are a flexible option for building projects because they can be constructed in a variety of forms and sizes to suit
             the particular requirements of a structure.
-          </p>
-        </div>
-        <div></div>
-        <div class="services-item">
-          <a href="/en/services/house-extension/">
-            <h4>House extension</h4>
-            <img class="imagehover-02 border-01px" src="/assets/img/agrandissement.webp" alt="Agrandissement-fondation">
-          </a>
-          <p>
-            When constructing a new addition to your house, pick components that will <strong>last and be sturdy</strong>.
-            Because of its <strong>durability and adaptability</strong>, concrete is a preferred material.
-            It is a <strong>great option</strong> for house additions because it can be used for floor slabs, supports, and load-bearing walls.
-          </p>
-        </div>
-      </div>
-      <div class="columnswithgap-03">
-        <div class="services-item">
-          <a href="/en/services/concrete-balcony/">
-            <h4>Concrete balcony</h4>
-            <img class="imagehover-02 border-01px" src="/assets/img/balcon-de-beton.webp" alt="Balcon-en-beton">
-          </a>
-          <p>
-            Because of their <strong>sturdiness, power, and weather resilience</strong>, concrete balconies are common.
-            Concrete is a <strong>reliable</strong> construction substance that can be shaped and designed in a wide range of ways to fit any type of house.
-            Concrete balconies are useful for <strong>long-term</strong> residents because they require little maintenance and few repairs.
           </p>
         </div>
         <div></div>
@@ -89,12 +86,15 @@ include_once(__DIR__ . "/../head.php");
         </div>
         <div></div>
         <div class="services-item">
-          <a href="/en/services/concrete-step/">
-            <h4>Concrete step</h4>
-            <img class="imagehover-02 border-01px" src="/assets/img/escalier-de-beton.webp" alt="Marche-de-beton-laval">
+          <a href="/en/services/house-extension/">
+            <h4>House extension</h4>
+            <img class="imagehover-02 border-01px" src="/assets/img/agrandissement.webp" alt="Agrandissement-fondation">
           </a>
-          <p>One of the most important things when making a <strong>concrete staircase</strong>
-            is the <strong>formwork</strong>. A well-made <strong>formwork</strong> and the use of good quality concrete will ensure solid durability.</p>
+          <p>
+            When constructing a new addition to your house, pick components that will <strong>last and be sturdy</strong>.
+            Because of its <strong>durability and adaptability</strong>, concrete is a preferred material.
+            It is a <strong>great option</strong> for house additions because it can be used for floor slabs, supports, and load-bearing walls.
+          </p>
         </div>
       </div>
       <div class="columnswithgap-03" style="padding-bottom: 60px;">

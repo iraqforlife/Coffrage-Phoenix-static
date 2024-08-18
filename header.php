@@ -13,13 +13,13 @@
                         <a style="color: var(--primaryColor) !important;" href="/services/">Services</a>
                         <a class='dropdown-trigger' href='#' data-target='dropdown1' style="color: var(--primaryColor);"> <i class="fa-solid fa-chevron-down"></i></a>
                         <div id='dropdown1' class="dropdown-content" style="top:50px !important;">
-                            <a href="/services/coffrage/" style="color: var(--primaryColor);">Coffrage</a>
-                            <a href="/services/fondation-maison/" style="color: var(--primaryColor);">Fondations de maison</a>
-                            <a href="/services/agrandissement-maison/" style="color:var(--primaryColor)">Agrandissement de maison</a>
                             <a href="/services/balcon-en-beton/" style="color:var(--primaryColor)">Balcons en béton</a>
-                            <a href="/services/descente-sous-sol-beton/" style="color:var(--primaryColor)">Descente de sous-sol en béton</a>
+                            <a href="/services/coffrage/" style="color: var(--primaryColor);">Coffrage</a>
                             <a href="/services/marche-de-beton/"style="color: var(--primaryColor);">Marche en béton</a>
                             <a href="/services/dalle-de-beton/"style="color: var(--primaryColor);">Dalles en béton</a>
+                            <a href="/services/fondation-maison/" style="color: var(--primaryColor);">Fondations de maison</a>
+                            <a href="/services/agrandissement-maison/" style="color:var(--primaryColor)">Agrandissement de maison</a>
+                            <a href="/services/descente-sous-sol-beton/" style="color:var(--primaryColor)">Descente de sous-sol en béton</a>
                         </div>
                         <!-- Dropdown Structure -->
                         <script>
