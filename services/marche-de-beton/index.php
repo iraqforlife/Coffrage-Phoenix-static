@@ -1,5 +1,5 @@
 <!DOCTYPE html lang="fr">
-<html>
+<html lang="fr-CA">
 <?php 
     $metaDesc ="Les marches de bétons sont une excellente option pour un résultat durable, mais toute fois esthétique.";
     $englishUrl = "/en/services/concrete-step/";

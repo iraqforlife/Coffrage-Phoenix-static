@@ -1,5 +1,5 @@
 <!DOCTYPE html  lang="fr">
-<html>
+<html lang="fr-CA">
 <?php 
     $metaDesc ="Les mentions légales du site Internet de Coffrages Phoenix";
     $englishUrl = "/en/legal-notice/";

@@ -1,5 +1,5 @@
 <!DOCTYPE html lang="en">
-<html>
+<html lang="en-CA">
 <?php 
     $metaDesc ="Please provide a quote for your concrete projects, formwork needs, or concrete slab requirements and we will get back to you.";
     $englishUrl = "/soumission/";

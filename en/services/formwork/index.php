@@ -1,9 +1,9 @@
 <!DOCTYPE html lang="en">
-<html>
+<html lang="en-CA">
 <?php
 $metaDesc = "Coffrage Phoenix is a company specializing in concrete foundation, formwork, and concrete slab in Montreal, Laval, Terrebonne and North Shore of Montreal.";
 $englishUrl = "/services/coffrage/";
-$title = "Coffrages Phoenix - Formwork";
+$title = "Formwork";
 $canonical = "en/services/formwork/";
 include_once(__DIR__ . "/../../head.php");
 ?>

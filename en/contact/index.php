@@ -1,5 +1,5 @@
 <!DOCTYPE html lang="en">
-<html>
+<html lang="en-CA">
 <?php
 $metaDesc = "If you have nay questions for Coffrage Phoenix or inquiries about your projects, please don’t hesitate to reach out to us.";
 $englishUrl = "/contact/";

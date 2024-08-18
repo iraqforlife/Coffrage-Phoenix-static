@@ -1,5 +1,5 @@
 <!DOCTYPE html  lang="fr">
-<html>
+<html lang="fr-CA">
 <?php 
     $metaDesc ="Faite une soumission pour vos projets de bétons, vos besoins en coffrages ou vos besoins en excavation";
     $englishUrl = "/en/quote/";

@@ -1,5 +1,5 @@
 <!DOCTYPE html lang="en">
-<html>
+<html lang="en-CA">
 <?php
 $metaDesc = "Our team of experts will provide you with the highest quality product, whether it's for your home or basement entrance.";
 $englishUrl = "/services/descente-sous-sol-beton/";

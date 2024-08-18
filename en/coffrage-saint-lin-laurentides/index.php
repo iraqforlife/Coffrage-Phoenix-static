@@ -1,5 +1,5 @@
 <!DOCTYPE html lang="en">
-<html>
+<html lang="en-CA">
 <?php
 $metaDesc = "Expert in concrete formwork in Saint-Lin-Laurentides. Services for slabs, balconies, foundations, and more. Quality and durability with Coffrages Phoenix.";
 $englishUrl = "/coffrage-saint-lin-laurentides/";

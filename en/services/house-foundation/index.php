@@ -1,5 +1,5 @@
 <!DOCTYPE html lang="en">
-<html>
+<html lang="en-CA">
 <?php
 $metaDesc = "Our team of experts will ensure the highest quality for the foundation of your house, guaranteeing a durable and earthquake-resistant product.";
 $englishUrl = "/services/fondation-maison/";

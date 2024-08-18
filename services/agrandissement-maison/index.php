@@ -1,5 +1,5 @@
 <!DOCTYPE html lang="fr">
-<html>
+<html lang="fr-CA">
 <?php 
     $metaDesc ="Notre équipe d’experts assurera un produit de la meilleure qualité pour vous assurer un produit durable pour l’agrandissement de votre maison.";
     $englishUrl = "/en/services/house-extension/";
@@ -7,7 +7,7 @@
     $canonical = "services/agrandissement-maison/";
     include_once(__DIR__."/../../head.php");
 ?>
-<body >
+<body>
   <?php include(__DIR__."/../../header.php")?>
 
   <div class="container">

@@ -1,5 +1,5 @@
 <!DOCTYPE html  lang="fr">
-<html>
+<html lang="fr-CA">
 <?php
 $metaDesc = "Spécialiste en balcon, trottoir et dalle de béton et coffrages à Montréal, Laval, Terrebonne et la Rive-Nord";
 $englishUrl = "/en";

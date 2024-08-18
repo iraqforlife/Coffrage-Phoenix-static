@@ -1,5 +1,5 @@
 <!DOCTYPE html lang="fr">
-<html>
+<html lang="en-CA">
 <?php
 $metaDesc = "Coffrages Phoenix's terms and conditions";
 $englishUrl = "/termes-conditions/";

@@ -1,5 +1,5 @@
 <!DOCTYPE html lang="fr">
-<html>
+<html lang="en-CA">
 <?php
 $metaDesc = "The legal notice for the website of Coffrages Phoenix";
 $englishUrl = "/avis-legale";

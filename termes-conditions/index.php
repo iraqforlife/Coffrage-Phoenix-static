@@ -1,5 +1,5 @@
 <!DOCTYPE html  lang="fr">
-<html>
+<html lang="fr-CA">
 <?php 
     $metaDesc ="La Politique de confidentialité de coffrages phoenix";
     $englishUrl = "/en/terms-conditions/";

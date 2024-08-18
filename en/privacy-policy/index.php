@@ -1,5 +1,5 @@
 <!DOCTYPE html lang="fr">
-<html>
+<html lang="en-CA">
 <?php
 $metaDesc = "Coffrages Phoenix's privacy policy";
 $englishUrl = "/politique-de-confidentialite/";

@@ -1,5 +1,5 @@
 <!DOCTYPE html lang="fr">
-<html>
+<html lang="fr-CA">
 <?php 
     $metaDesc ="Coffrage Phoenix est une entreprise se spécialisant en coffrages de béton, en balcons de béton et en dalle de béton à Montréal, Laval, Terrebonne et la Rive Nord de Montréal.";
     $englishUrl = "/en/services/formwork/";

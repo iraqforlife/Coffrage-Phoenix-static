@@ -1,9 +1,9 @@
 <!DOCTYPE html lang="fr">
-<html>
+<html lang="fr-CA">
 <?php
 $metaDesc = "Voici les résultats de notre équipe d’experts, en passant par les dalles de béton, les balcons en béton, les fondations de maison jusqu’aux travaux de béton!";
 $englishUrl = "/en/realizations/";
-$title = "Réalisations de Coffrages Phoenix";
+$title = "Réalisations";
 $canonical = "realisation/";
 include_once(__DIR__ . "/../head.php");
 ?>
