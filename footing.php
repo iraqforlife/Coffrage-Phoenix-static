@@ -5,9 +5,9 @@
             <div class="alignleft">
                 <div class="contact-footer">
                     <p class="fonthover-04 bold" style="font-size: 24px;">Contact</p>
-                    <a class="fonthover-02" href="https://goo.gl/maps/1Rt7NsX5vdQyU5Px9" target="_blank" style="margin-bottom: 15px;">
+                    <a class="fonthover-02" href="https://maps.app.goo.gl/H33giQ8yDDVQSPpx6" target="_blank" style="margin-bottom: 15px;">
                         <i class="fa-solid fa-location-dot"></i>
-                        <span>4635 Boulevard Laurier, Terrebonne, QC J6X 0B3</span>
+                        <span>1660 Av. d'Iéna, Laval, QC H7V 3H7</span>
                     </a>
                     <br>
                     <a class="fonthover-02" href="tel:5144442822" target="_blank">
