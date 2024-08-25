@@ -40,10 +40,11 @@ include_once(__DIR__ . "/../head.php");
         <img src="/assets/img/trottoirs-de-beton.webp" width="800" height="575" alt="Concrete sidewalk" fetchPriority="high" loading="lazy">
         <img src="/assets/img/piscine.webp" width="800" height="575" alt="Concrtete Pool" fetchPriority="high" loading="lazy">
         <img src="/assets/img/dalle-de-beton2.webp" width="800" height="575" alt="Concrete slab" fetchPriority="high" loading="lazy">
-        <img src="/assets/img/trottoirs-de-beton.webp" width="800" height="575" alt="Concrete sidewalk" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/balcon11.webp" width="800" height="575" alt="Concrete sidewalk" fetchPriority="high" loading="lazy">
         <img src="/assets/img/trottoirs-de-beton2.webp" width="800" height="575" alt="Concrete sidewalk" fetchPriority="high" loading="lazy">
         <img src="/assets/img/balcon-de-beton-003.webp" width="800" height="575" alt="Conrete Balcony" fetchPriority="high" loading="lazy">
         <img src="/assets/img/balcon-de-beton-004.webp" width="800" height="575" alt="Conrete Balcony" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/balcon12.webp" width="800" height="575" alt="Concrete sidewalk" fetchPriority="high" loading="lazy">
       </div>
       <div class="alignleft" style="margin: 25px 0;">
         <h2>Concrete basement entrance</h2>

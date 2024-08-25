@@ -30,20 +30,21 @@ include_once(__DIR__ . "/../head.php");
         <h2 class="header-1">Marche de béton, dalle de béton et balcon en béton</h2>
       </div>
       <div class="columns-03-333333">
-        <img src="/assets/img/balcon-de-beton2.webp" width="800" height="575" alt="Balcon en beton laval" fetchPriority="high" loading="lazy">  
-        <img src="/assets/img/marche-en-beton-001.webp" width="800" height="575" alt="Marche en beton" fetchPriority="high" loading="lazy">
-        <img src="/assets/img/escalier-de-beton-001.webp" width="800" height="575" alt="Trottoirs de beton laval" fetchPriority="high" loading="lazy">
-        <img src="/assets/img/dalle-de-beton.webp" width="800" height="575" alt="Dalle en beton" fetchPriority="high" loading="lazy">
-        <img src="/assets/img/escalier-de-beton-002.webp" width="800" height="575" alt="Marche de beton terrebonne" fetchPriority="high" loading="lazy">
-        <img src="/assets/img/escalier-trottoir-de-beton-001.webp" width="800" height="575" alt="Escalier en beton" fetchPriority="high" loading="lazy">
-        <img src="/assets/img/escalier-trottoir-de-beton-002.webp" width="800" height="575" alt="Escalier de beton" fetchPriority="high" loading="lazy">
-        <img src="/assets/img/trottoirs-de-beton.webp" width="800" height="575" alt="Trottoirs en beton" fetchPriority="high" loading="lazy">
-        <img src="/assets/img/piscine.webp" width="800" height="575" alt="Piscine" fetchPriority="high" loading="lazy">
-        <img src="/assets/img/dalle-de-beton2.webp" width="800" height="575" alt="Dalle en beton" fetchPriority="high" loading="lazy">
-        <img src="/assets/img/trottoirs-de-beton.webp" width="800" height="575" alt="Trottoirs en beton" fetchPriority="high" loading="lazy">
-        <img src="/assets/img/trottoirs-de-beton2.webp" width="800" height="575" alt="Trottoirs en beton" fetchPriority="high" loading="lazy">
-        <img src="/assets/img/balcon-de-beton-003.webp" width="800" height="575" alt="Balcon en beton" fetchPriority="high" loading="lazy">
-        <img src="/assets/img/balcon-de-beton-004.webp" width="800" height="575" alt="Balcon en beton" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/balcon-de-beton2.webp" width="800" height="575" alt="Concrete Balcony laval" fetchPriority="high" loading="lazy">  
+        <img src="/assets/img/marche-en-beton-001.webp" width="800" height="575" alt="Concrete steps" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/escalier-de-beton-001.webp" width="800" height="575" alt="Concrete steps laval" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/dalle-de-beton.webp" width="800" height="575" alt="Concrete slab" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/escalier-de-beton-002.webp" width="800" height="575" alt="Concrete steps terrebonne" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/escalier-trottoir-de-beton-001.webp" width="800" height="575" alt="Concrete steps sidewalk" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/escalier-trottoir-de-beton-002.webp" width="800" height="575" alt="Concrete steps sidewalk" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/trottoirs-de-beton.webp" width="800" height="575" alt="Concrete sidewalk" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/piscine.webp" width="800" height="575" alt="Concrtete Pool" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/dalle-de-beton2.webp" width="800" height="575" alt="Concrete slab" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/balcon11.webp" width="800" height="575" alt="Concrete sidewalk" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/trottoirs-de-beton2.webp" width="800" height="575" alt="Concrete sidewalk" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/balcon-de-beton-003.webp" width="800" height="575" alt="Conrete Balcony" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/balcon-de-beton-004.webp" width="800" height="575" alt="Conrete Balcony" fetchPriority="high" loading="lazy">
+        <img src="/assets/img/balcon12.webp" width="800" height="575" alt="Concrete sidewalk" fetchPriority="high" loading="lazy">
       </div>
       <div class="alignleft" style="margin: 25px 0;">
         <h2>Descente de sous-sol en béton</h2>
