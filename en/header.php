@@ -67,7 +67,7 @@
         <div style="border-top-color:lightgray;border-top-color: lightgray;margin: 0;border-top-style: solid;border-width: thin;">
             <a href="<?php echo  $englishUrl ?>" style="cursor: pointer;">Français</a>
         </div>
-        <a class="sidenav-close" href="#!" style="color: black; background-color: white;font-size: 45px;margin-top: 300px;"><i class="fa-solid fa-x"></i></a>
+        <a class="sidenav-close" style="color: black; background-color: white;font-size: 45px;margin-top: 300px;"><i class="fa-solid fa-x"></i></a>
     </div>
 </ul>
 
