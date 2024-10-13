@@ -23,6 +23,7 @@ include_once(__DIR__ . "/head.php");
           <a class="reseau-button" href="https://www.facebook.com/coffragesphoenix/" target="_blank"><i class="fa-brands fa-facebook"></i></a>
           <a class="reseau-button" href="https://www.instagram.com/coffragesphoenix/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
           <a class="reseau-button" href="https://twitter.com/CoffragePhoenix/" title="Twitter" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+          <a class="reseau-button" href="https://g.co/kgs/7ZqjpLo" title="Google" target="_blank"><i class="fa-brands fa-google"></i></a>
         </div>
       </div>
       <div style="overflow: hidden;">
