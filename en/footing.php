@@ -30,13 +30,14 @@
                     <a class="fonthover-02 reseau-button" href="https://www.facebook.com/coffragesphoenix/" title="Facebook" target="_blank"><i class="fa-brands fa-facebook"></i></a>
                     <a class="fonthover-02 reseau-button" href="https://www.instagram.com/coffragesphoenix/" title="Instagram" target="_blank" ><i class="fa-brands fa-instagram"></i></a>
                     <a class="fonthover-02 reseau-button" href="https://twitter.com/CoffragePhoenix/" title="Twitter" target="_blank" ><i class="fa-brands fa-twitter"></i></a>
+                    <a class="fonthover-02 reseau-button" href="https://g.co/kgs/7ZqjpLo" title="Google" target="_blank" ><i class="fa-brands fa-google"></i></a>
                 </div>
                 <div class="footer-spacer-001"></div>
             </div>
             
             <div class="alignleft">
                 <div>
-                    <a href="/services/" class="fonthover-04 bold" style="font-size: 24px;">Services</a><br>
+                    <a href="/en/services/" class="fonthover-04 bold" style="font-size: 24px;">Services</a><br>
                     <a href="/en/services/concrete-balcony/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete balcony</a><br>
                     <a href="/en/services/concrete-step/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete step</a><br>
                     <a href="/en/services/formwork/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete formworks</a><br>
