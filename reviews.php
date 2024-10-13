@@ -6,11 +6,11 @@
         <h2><span>Que disent les clients</span> <br> <span>de notre travail ?</span></h2>
     </div>
     <div class="reviews-boxes">
-        <a class="reviews-box" href="https://soumissionrenovation.ca/entrepreneur/coffrages_phoenix" target="_blank" class="reviews-box">
+        <a class="reviews-box" href="https://maps.app.goo.gl/p6bg6gAAn9TQKsro9" target="_blank" class="reviews-box">
             <div class="reviews-box-img">
                 <div class="reviews-img-wrapper"><img style="max-width: 100%; height: auto;" width="100px" height="100px" src="/assets/img/j.webp" alt="about" /></div>
                 <div>
-                    <p>Bon travaux bon prix</p>
+                    <p>Excellent all the way through from providing the quote to completion of the job. I would definitely recommend Phoenix. Everyone remarks on how good our entrance walkway looks now it has been excavated ad re-concreted</p>
                 </div>
             </div>
             <div>
@@ -20,13 +20,14 @@
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
             </div>
-            <div><p><strong>Jean-Guy</strong></p></div>
+            <div><p><strong>David Brentnall</strong></p></div>
         </a>
-        <a class="reviews-box" href="https://soumissionrenovation.ca/entrepreneur/coffrages_phoenix" target="_blank">
+        <a class="reviews-box" href="https://maps.app.goo.gl/5kRURfQTwWcqyCf26" target="_blank">
             <div class="reviews-box-img">
                 <div class="reviews-img-wrapper"><img style="max-width: 100%; height: auto;" width="100px" height="100px" src="/assets/img/a.webp" alt="about" /></div>
                 <div>
-                    <p>Excellent entrepreneur expérimenté Respecte pleinement ses engagements Je le recommande</p>
+                    <p>We called the team, for removing the trees, repair my broken stairs and land scapping work using concrete. The team did a really nice job and beautiful job and also completed it in record time. 
+                        I would recommend this company if they are looking for land scapping or concrete work around the house.</p>
                 </div>
             </div>
             <div>
@@ -36,13 +37,13 @@
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
             </div>
-            <div><p><strong>Gilles</strong></p></div>
+            <div><p><strong>Jayant Singh</strong></p></div>
         </a>
-        <a href="https://g.co/kgs/49Fy9r" target="_blank" class="reviews-box">
+        <a href="https://maps.app.goo.gl/84tJYViU9NzzrByf8" target="_blank" class="reviews-box">
             <div class="reviews-box-img">
                 <div class="reviews-img-wrapper"><img style="max-width: 100%; height: auto;" width="100px" height="100px" src="/assets/img/p.webp" alt="about" /></div>
                 <div>
-                    <p>Excellent service!</p>
+                    <p>Très bon travail. Malgré les conditions climatiques qui n'ont pas aider à la rapidité du projet. Pus avons quand même obtenu un superbe résultat. L'équipe est sympathique, propre et minutieux.</p>
                 </div>
             </div>
             <div>
@@ -52,7 +53,10 @@
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
             </div>
-            <div><p><strong>Pierre-Olivier Caron Périgny</strong></p></div>
+            <div><p><strong>Juan Carlos Perez Cisneros</strong></p></div>
         </a>
     </div>
+      <div style="text-align: center;margin-bottom: 35px;margin-top: 25px;">
+        <a href="https://g.page/r/Cd4SzOcposmSEBM/review" class="blue-button">Lire plus d'avis Google</a>
+      </div>
 </div>
