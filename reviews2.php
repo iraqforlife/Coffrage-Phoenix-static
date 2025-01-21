@@ -27,10 +27,10 @@
         <h2><span>Ce que nos clients disent de nous</span></h2>
     </div>
       <div class="servicesSlider">
-        <button id="left" class="carouselButtons">
+        <button id="leftReview" class="carouselButtons">
           <i class="fa-solid fa-arrow-left" style="font-size: x-large;"></i>
         </button>
-        <div id="carousel">
+        <div id="reviewCarousel">
           <div class="aligncenter serviceItems">
             <?php foreach($reviews as $review): ?>
               <a class="review-item" href="<?= $review->url; ?>" style="border:1px solid #0c4c8e;margin:10px;max-width:650px;min-width:340px;box-shadow:0 4px 5px 0 rgba(12,76,142,.38)">
@@ -54,7 +54,7 @@
 
           </div>
         </div>
-        <button id="right" class="carouselButtons">
+        <button id="rightReview" class="carouselButtons">
           <i class="fa-solid fa-arrow-right" style="font-size: x-large;"></i>
         </button>
       </div>
