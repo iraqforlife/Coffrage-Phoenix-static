@@ -107,7 +107,7 @@ include_once(__DIR__ . "/head.php");
       
       <div id="soumission" data-paperform-id="lesentrerpisesasraca"></div>
       
-      <?php include(__DIR__ . "/reviews.php") ?>
+      <?php include(__DIR__ . "/reviews2.php") ?>
     </div>
 
   </div>
