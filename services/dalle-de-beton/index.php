@@ -26,7 +26,7 @@
             <hr>
             <p style="color: var(--primaryColor);">Les dalles de béton peuvent être personnalisées de plusieurs façons en utilisant une variété de finitions, couleurs et textures. Chez Coffrage Phoenix nous utilisons plusieurs techniques qui nous permettront de vous offrir un produit durable qui résistera aux intempéries et qui nécessite peu d'entretiens. Notre équipe va s'assurer de bien lisser la surface pour vous apporter un résultat uniforme et nous allons apporter une attention particuliaire sur le séchage et la cure de béton pour vous assurer une durabilité optimale.</p>
             <p style="color: var(--primaryColor);">Dalle de béton sont souvent utilisé pour:</p>
-            <ul class="browser-default">
+            <ul class="browser-default" style="color: var(--primaryColor)">
                   <li>Fondations de maison</li>
                   <li>Dalle de béton pour garage</li>
                   <li>Dalle de béton pour terrasse</li>

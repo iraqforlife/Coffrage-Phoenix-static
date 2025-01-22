@@ -44,13 +44,13 @@ include_once(__DIR__ . "/head.php");
           <div class="aligncenter serviceItems">
             <div class="service-item">
               <a href="/en/services/concrete-balcony/">
-                <img src="/assets/img/balcon-de-beton.webp" alt="Balcons en béton">
+                <img src="/assets/img/balcon-de-beton.webp" alt="Concrete balcony">
                 <p>Concrete balcony</p>
               </a>
             </div>
             <div class="service-item">
               <a href="/en/services/formwork/">
-                <img src="/assets/img/coffrage-de-beton.webp" alt="coffrage">
+                <img src="/assets/img/coffrage-de-beton.webp" alt="formwork">
                 <p>Formwork</p>
               </a>
             </div>
@@ -62,7 +62,7 @@ include_once(__DIR__ . "/head.php");
             </div>
             <div class="service-item">
               <a href="/en/services/concrete-step/">
-                <img src="/assets/img/escalier-de-beton.webp" alt="Marche en béton">
+                <img src="/assets/img/escalier-de-beton.webp" alt="Concrete step">
                 <p>Concrete step</p>
               </a>
             </div>
@@ -74,14 +74,20 @@ include_once(__DIR__ . "/head.php");
             </div>
             <div class="service-item">
               <a href="/en/services/house-extension/">
-                <img src="/assets/img/agrandissement.webp" alt="Agrandissement de maison">
+                <img src="/assets/img/agrandissement.webp" alt="House extension">
                 <p>House extension</p>
               </a>
             </div>
             <div class="service-item ">
               <a href="/en/services/concrete-basement/">
-                <img src="/assets/img/descente-de-sous-sol-en-beton-003.webp" alt="Descente de sous-sol en béton">
+                <img src="/assets/img/descente-de-sous-sol-en-beton-003.webp" alt="Concrete basement descent">
                 <p>Concrete basement descent</p>
+              </a>
+            </div>
+            <div class="service-item ">
+              <a href="/en/services/concrete-retaining-walls/">
+                <img src="/assets/img/soutenement.webp" alt="Concrete retaining walls">
+                <p>Concrete retaining walls</p>
               </a>
             </div>
           </div>

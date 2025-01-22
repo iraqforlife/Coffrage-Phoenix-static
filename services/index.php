@@ -1,4 +1,4 @@
-<!DOCTYPE html  lang="fr">
+<!DOCTYPE html lang="fr">
 <html lang="fr-CA">
 <?php
 $title = "Coffrages Phoenix - Nos Services";
@@ -13,8 +13,29 @@ include_once(__DIR__ . "/../head.php");
 
   <div class="container">
     <style>
-      .services img {border: 1px solid var(--primaryColor);margin: 12px 0;}.services p {text-align: justify;font-size: 14px;}
-      p {color:var(--primaryColor)}
+      .services img {
+        border: 1px solid var(--primaryColor);
+        margin: 12px 0;
+      }
+
+      .services p {
+        text-align: justify;
+        font-size: 14px;
+      }
+
+      p {
+        color: var(--primaryColor)
+      }
+
+      .services h4 {
+        max-height: 30px;
+      }
+
+      .services-item a {
+
+        display: grid;
+        grid-template-rows: 30% 60%;
+      }      
     </style>
     <div style="display: grid;margin-bottom: 30px;">
       <div style="text-align: center;">
@@ -103,7 +124,7 @@ include_once(__DIR__ . "/../head.php");
       <div class="columnswithgap-03" style="padding-bottom: 60px;">
         <div class="services-item">
           <a href="/services/agrandissement-maison/">
-            <h4>Agrandissement de maison</h4>
+            <h4 style="font-size: 26px !important">Agrandissement de maison</h4>
             <img class="imagehover-02 border-01px" src="/assets/img/agrandissement.webp" alt="Agrandissement-fondation">
           </a>
           <p>
@@ -113,9 +134,20 @@ include_once(__DIR__ . "/../head.php");
           </p>
         </div>
         <div></div>
+        <div class="services-item">
+          <a href="/services/mur-de-soutenement/">
+            <h4 style="font-size: 27px !important">Mur de soutènement</h4>
+            <img class="imagehover-02 border-01px" src="/assets/img/soutenement.webp" alt="Mur de soutènement" >
+          </a>
+          <p>
+          Chez <strong>Coffrages Phoenix</strong>, nous sommes ravis d'élargir notre gamme de services avec l'introduction de <strong>murs de soutènement en béton</strong> de haute qualité.
+          Nos murs de soutènement sont conçus pour offrir une <strong>solidité inégalée, une durabilité exceptionnelle et une esthétique élégante</strong> qui complètent parfaitement
+          tout projet d'aménagement paysager ou de construction.
+          </p>
+        </div>
         <div></div>
-        <div></div>
-        <div></div>
+        <div class="">
+        </div>
       </div>
       <div data-paperform-id="lesentrerpisesasraca"></div>
     </div>

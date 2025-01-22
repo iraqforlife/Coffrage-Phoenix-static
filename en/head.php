@@ -6,7 +6,7 @@
   <meta name="language" content="English">
   <meta name="description" content="<?php echo  $metaDesc?>">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="keywords" content="concrete,béton,fondation,foundation,balcon,balcony,stairscase,escaliers,escalier,coffrages,formwork,structure,dalles,stabs">
+  <meta name="keywords" content="concrete,béton,fondation,foundation,balcon,balcony,stairscase,escaliers,escalier,coffrages,formwork,structure,dalles,stabs, retaining walls">
   <link type="text/css" rel="stylesheet" href="/css/materialize.min.css"  media="screen,projection" async/>
   <link rel="canonical" href="https://coffragesphoenix.com/<?php echo  $canonical?>" />
   <!-- to modify -->

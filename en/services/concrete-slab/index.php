@@ -27,7 +27,7 @@ include_once(__DIR__ . "/../../head.php");
           <hr>
           <p style="color: var(--primaryColor);">Concrete slabs can be customized in many ways using a variety of finishes, colors, and textures. At Coffrage Phoenix, we use several techniques that will allow us to offer you a durable product that will withstand the weather and require little maintenance. Our team will ensure that the surface is well smoothed to provide you with a uniform result, and we will pay special attention to the drying and concrete curing to ensure optimal durability.</p>
           <p style="color: var(--primaryColor);">Concrete slabs are also used for:</p>
-          <ul class="browser-default">
+          <ul class="browser-default" style="color: var(--primaryColor)">
             <li>House foundations</li>
             <li>Garage concrete slab</li>
             <li>Concrete terrace slab</li>
