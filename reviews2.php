@@ -27,7 +27,7 @@
         <h2><span>Ce que nos clients disent de nous</span></h2>
     </div>
       <div class="servicesSlider">
-        <button id="leftReview" class="carouselButtons">
+        <button id="leftReview" class="carouselButtons" style="margin-left: -40px;">
           <i class="fa-solid fa-arrow-left" style="font-size: x-large;"></i>
         </button>
         <div id="reviewCarousel">
@@ -54,7 +54,7 @@
 
           </div>
         </div>
-        <button id="rightReview" class="carouselButtons">
+        <button id="rightReview" class="carouselButtons" style="margin-right: -40px;">
           <i class="fa-solid fa-arrow-right" style="font-size: x-large;"></i>
         </button>
       </div>

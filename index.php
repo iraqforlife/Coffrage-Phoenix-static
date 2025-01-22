@@ -37,7 +37,7 @@ include_once(__DIR__ . "/head.php");
         <h3>Nos services</h3>
       </div>
       <div class="servicesSlider">
-        <button id="left" class="carouselButtons">
+        <button id="left" class="carouselButtons" style="margin-left: -10px;">
           <i class="fa-solid fa-arrow-left" style="font-size: x-large;"></i>
         </button>
         <div id="carousel">
