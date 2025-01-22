@@ -11,7 +11,7 @@ include_once(__DIR__ . "/head.php");
 <body>
   <?php include(__DIR__ . "/header.php") ?>
   <style>
-    .service-item,.services-header{text-align:center}.borderBlue,.service-item{border:1px solid #0c4c8e}.slider-header{width:40%}.slider-header h1{margin-bottom:30px;color:#fff!important}@media only screen and (max-width:360px){.slider-header h1{font-size:10px!important;line-height:14px!important;margin:0!important}}@media only screen and (min-width:361px) and (max-width:450px){.slider-header h1{font-size:15px!important;line-height:17px!important;margin:0!important;font-weight:400!important}}@media only screen and (min-width:451px) and (max-width:650px){.slider-header h1{font-size:26px!important;line-height:19px!important;margin-bottom:10px!important;font-weight:400!important}}@media only screen and (min-width:651px) and (max-width:725px){.slider-header h1{font-size:17px!important;line-height:30px!important;margin-bottom:15px!important;font-weight:450!important}}@media only screen and (min-width:726px) and (max-width:900px){.slider-header h1{font-size:24px!important;margin-bottom:15px;line-height:30px!important;font-weight:450!important}}@media only screen and (min-width:901px) and (max-width:1000px){.slider-header h1{font-size:35px!important;line-height:40px!important;font-weight:450!important;margin-bottom:20px}}@media only screen and (min-width:1001px) and (max-width:1100px){.slider-header h1{font-size:36px!important;line-height:45px!important;font-weight:450!important}}@media only screen and (min-width:1101px) and (max-width:1200px){.slider-header h1{font-size:44px!important;line-height:45px!important}}@media only screen and (min-width:1201px) and (max-width:1300px){.slider-header h1{font-size:42px!important;line-height:53px!important}}@media only screen and (max-width:550px){.slider-header .socials{display:none}}.service-item{margin:10px;max-width:650px;min-width:340px;box-shadow:0 4px 5px 0 rgba(12,76,142,.38)}.service-item p{margin:15px;font-size:20px;line-height:28px;font-weight:500;letter-spacing:0;color:#0c4c8e}.servicesSlider{display:grid;grid-template-columns:5% 90% 5%}.hide{display:none}.serviceItems{display:flex;flex-wrap:nowrap;white-space:nowrap}.verticleCenter{position:absolute;display:flex;align-items:center;justify-content:center;align-items:center}.carouselButtons{outline:0;background:0 0;border:none;cursor:pointer}#carousel,#reviewCarousel{display:flex;align-items:center;overflow-x:auto;scroll-behavior:smooth}#left,#right{z-index:10}.sliderButton{background-color:#ced4da;width:3rem;height:.6rem;transition:background-color .2s,color .2s,box-shadow .2s;border-radius:0;border-width:0}
+    .slider-header{width:40%}.slider-header h1{margin-bottom:30px;color:#fff!important}@media only screen and (max-width:360px){.slider-header h1{font-size:10px!important;line-height:14px!important;margin:0!important}}@media only screen and (min-width:361px) and (max-width:450px){.slider-header h1{font-size:15px!important;line-height:17px!important;margin:0!important;font-weight:400!important}}@media only screen and (min-width:451px) and (max-width:650px){.slider-header h1{font-size:26px!important;line-height:19px!important;margin-bottom:10px!important;font-weight:400!important}}@media only screen and (min-width:651px) and (max-width:725px){.slider-header h1{font-size:17px!important;line-height:30px!important;margin-bottom:15px!important;font-weight:450!important}}@media only screen and (min-width:726px) and (max-width:900px){.slider-header h1{font-size:24px!important;margin-bottom:15px;line-height:30px!important;font-weight:450!important}}@media only screen and (min-width:901px) and (max-width:1000px){.slider-header h1{font-size:35px!important;line-height:40px!important;font-weight:450!important;margin-bottom:20px}}@media only screen and (min-width:1001px) and (max-width:1100px){.slider-header h1{font-size:36px!important;line-height:45px!important;font-weight:450!important}}@media only screen and (min-width:1101px) and (max-width:1200px){.slider-header h1{font-size:44px!important;line-height:45px!important}}@media only screen and (min-width:1201px) and (max-width:1300px){.slider-header h1{font-size:42px!important;line-height:53px!important}}@media only screen and (max-width:550px){.slider-header .socials{display:none}}.hide{display:none}.verticleCenter{position:absolute;display:flex;align-items:center;justify-content:center;align-items:center}#carousel{display:flex;align-items:center;overflow-x:auto;scroll-behavior:smooth}#left,#right{z-index:10}.sliderButton{background-color:#ced4da;width:3rem;height:.6rem;transition:background-color .2s,color .2s,box-shadow .2s;border-radius:0;border-width:0}
   </style>
   <div class="container">
     <div style="position: relative;z-index: 2;">
@@ -107,7 +107,7 @@ include_once(__DIR__ . "/head.php");
       
       <div id="soumission" data-paperform-id="lesentrerpisesasraca"></div>
       
-      <?php include(__DIR__ . "/reviews2.php") ?>
+      <?php include(__DIR__ . "/reviews.php") ?>
     </div>
 
   </div>
@@ -116,7 +116,6 @@ include_once(__DIR__ . "/head.php");
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     const container = document.getElementById('carousel');
-    const reviewCarousel = document.getElementById('reviewCarousel');
     const sliderButtons = document.getElementsByClassName('sliderButton');
 
     for (var i = 0; i < sliderButtons.length; i++) {
@@ -135,13 +134,6 @@ include_once(__DIR__ . "/head.php");
       container.scrollLeft += 500
     })
 
-
-    document.getElementById('leftReview').addEventListener('click', function() {
-      reviewCarousel.scrollLeft -= 500
-    })
-    document.getElementById('rightReview').addEventListener('click', function() {
-      reviewCarousel.scrollLeft += 500
-    })
   });
 </script>
 
