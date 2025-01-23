@@ -28,16 +28,19 @@ include_once(__DIR__ . "/head.php");
         margin: 0 !important;
       }
     }
+
     @media only screen and (max-width:550px) {
       .slider-header .socials {
         font-size: 10px !important;
         margin-top: 10px !important;
       }
+
       .button-border {
         font-size: 18px !important;
         border: 2px solid #FFF !important;
         padding: 8px 13px !important;
       }
+
       .services-header h2 {
         display: none !important;
       }
@@ -102,10 +105,22 @@ include_once(__DIR__ . "/head.php");
         line-height: 53px !important
       }
     }
-
+    /* pour les services */
+    @media screen and (min-width: 1100px) {
+      #mobileServices {
+        display: none !important;
+      }
+      
+    }
+    @media screen and (max-width: 1100px) {
+      #desktopServices {
+        display: none !important;
+      }
+      
+    }
 
     .hide {
-      display: none
+      display: none;
     }
 
     .verticleCenter {
@@ -160,70 +175,55 @@ include_once(__DIR__ . "/head.php");
         <h2>Coffrages Phoenix</h2>
         <h3>Nos services</h3>
       </div>
-      <div class="servicesSlider">
-        <button id="left" class="carouselButtons" style="margin-left: -10px;">
-          <i class="fa-solid fa-arrow-left" style="font-size: x-large;"></i>
-        </button>
-        <div id="carousel">
-          <div class="aligncenter serviceItems">
-            <div class="service-item">
-              <a href="/services/balcon-en-beton/">
-                <img src="/assets/img/balcon-de-beton.webp" alt="Balcons en béton">
-                <p>Balcons en béton</p>
-              </a>
-            </div>
-            <div class="service-item">
-              <a href="/services/coffrage/">
-                <img src="/assets/img/coffrage-de-beton.webp" alt="coffrage">
-                <p>Coffrage</p>
-              </a>
-            </div>
-            <div class="service-item">
-              <a href="/services/dalle-de-beton/">
-                <img src="/assets/img/dalle.webp" alt="concrete-dalle">
-                <p>Dalles en béton</p>
-              </a>
-            </div>
-            <div class="service-item">
-              <a href="/services/marche-de-beton/">
-                <img src="/assets/img/escalier-de-beton.webp" alt="Marche en béton">
-                <p>Marche en béton</p>
-              </a>
-            </div>
-            <div class="service-item">
-              <a href="/services/fondation-maison/">
-                <img src="/assets/img/fondation.webp" alt="concrete-foundation-house">
-                <p>Fondations de maison</p>
-              </a>
-            </div>
-            <div class="service-item">
-              <a href="/services/agrandissement-maison/">
-                <img src="/assets/img/agrandissement.webp" alt="Agrandissement de maison">
-                <p>Agrandissement de maison</p>
-              </a>
-            </div>
-            <div class="service-item ">
-              <a href="/services/descente-sous-sol-beton/">
-                <img src="/assets/img/descente-de-sous-sol-en-beton-003.webp" alt="Descente de sous-sol en béton">
-                <p>Descente de sous-sol en béton</p>
-              </a>
-            </div>
-            <div class="service-item ">
-              <a href="/services/mur-de-soutenement/">
-                <img src="/assets/img/soutenement.webp" alt="Mur de soutènement en béton">
-                <p>Mur de soutènement</p>
-              </a>
+
+      <?php
+      $services = array(
+        (object) ['href' => '/services/balcon-en-beton/', 'src' => '/assets/img/balcon-de-beton.webp', 'alt' => 'Balcons en béton', 'text' => "Balcons en béton"],
+        (object) ['href' => '/services/coffrage/', 'src' => '/assets/img/coffrage-de-beton.webp', 'alt' => 'coffrage', 'text' => "Coffrage"],
+        (object) ['href' => '/services/dalle-de-beton/', 'src' => '/assets/img/dalle.webp', 'alt' => 'concrete-dalle', 'text' => "Dalles en béton"],
+        (object) ['href' => '/services/marche-de-beton/', 'src' => '/assets/img/escalier-de-beton.webp', 'alt' => 'Marche en béton', 'text' => "Marche en béton"],
+        (object) ['href' => '/services/fondation-maison/', 'src' => '/assets/img/fondation.webp', 'alt' => 'concrete-foundation-house', 'text' => "Fondations de maison"],
+        (object) ['href' => '/services/agrandissement-maison/', 'src' => '/assets/img/agrandissement.webp', 'alt' => 'Agrandissement de maison', 'text' => "Agrandissement de maison"],
+        (object) ['href' => '/services/descente-sous-sol-beton/', 'src' => '/assets/img/descente-de-sous-sol-en-beton-003.webp', 'alt' => 'Descente de sous-sol en béton', 'text' => "Descente de sous-sol en béton"],
+        (object) ['href' => '/services/mur-de-soutenement/', 'src' => '/assets/img/soutenement.webp', 'alt' => 'Mur de soutènement en béton', 'text' => "Mur de soutènement"],
+      );
+      ?>
+      <div id="mobileServices">
+        <div class="servicesSlider">
+          <button id="left" class="carouselButtons" style="margin-left: -10px;">
+            <i class="fa-solid fa-arrow-left" style="font-size: x-large;"></i>
+          </button>
+          <div id="carousel">
+            <div class="aligncenter serviceItems">
+              <?php foreach ($services as $service): ?>
+                <div class="service-item">
+                  <a href="<?= $service->href; ?>">
+                    <img src="<?= $service->src; ?>" alt="<?= $service->alt; ?>">
+                    <p><?= $service->text; ?></p>
+                  </a>
+                </div>
+              <?php endforeach; ?>
             </div>
           </div>
+          <button id="right" class="carouselButtons">
+            <i class="fa-solid fa-arrow-right" style="font-size: x-large;"></i>
+          </button>
         </div>
-        <button id="right" class="carouselButtons">
-          <i class="fa-solid fa-arrow-right" style="font-size: x-large;"></i>
-        </button>
+        <div class="aligncenter" style="margin: 15px">
+          <button class="sliderButton"></button>
+          <button class="sliderButton"></button>
+          <button class="sliderButton"></button>
+        </div>
       </div>
-      <div class="aligncenter" style="margin: 15px">
-        <button class="sliderButton"></button>
-        <button class="sliderButton"></button>
-        <button class="sliderButton"></button>
+      <div id="desktopServices" class="aligncenter serviceItems" style="display: grid;grid-template-columns: 33% 33% 33%;">
+        <?php foreach ($services as $service): ?>
+          <div class="service-item">
+            <a href="<?= $service->href; ?>">
+              <img src="<?= $service->src; ?>" alt="<?= $service->alt; ?>">
+              <p><?= $service->text; ?></p>
+            </a>
+          </div>
+        <?php endforeach; ?>
       </div>
       <div style="text-align: center;margin-bottom: 35px;margin-top: 35px;">
         <a href="/services/" class="blue-button">Plus de détails sur les services</a>
