@@ -28,13 +28,13 @@
                 <div class="reseaux-footer">
                     <p class="fonthover-04 bold" style="font-size: 24px;">Réseaux sociaux</p>
                     <a class="fonthover-02 reseau-button" href="https://www.facebook.com/coffragesphoenix/" title="Facebook" target="_blank"><i class="fa-brands fa-facebook"></i></a>
-                    <a class="fonthover-02 reseau-button" href="https://www.instagram.com/coffragesphoenix/" title="Instagram" target="_blank" ><i class="fa-brands fa-instagram"></i></a>
-                    <a class="fonthover-02 reseau-button" href="https://twitter.com/CoffragePhoenix/" title="Twitter" target="_blank" ><i class="fa-brands fa-twitter"></i></a>
-                    <a class="fonthover-02 reseau-button" href="https://g.co/kgs/7ZqjpLo" title="Google" target="_blank" ><i class="fa-brands fa-google"></i></a>
+                    <a class="fonthover-02 reseau-button" href="https://www.instagram.com/coffragesphoenix/" title="Instagram" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                    <a class="fonthover-02 reseau-button" href="https://twitter.com/CoffragePhoenix/" title="Twitter" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+                    <a class="fonthover-02 reseau-button" href="https://g.co/kgs/7ZqjpLo" title="Google" target="_blank"><i class="fa-brands fa-google"></i></a>
                 </div>
                 <div class="footer-spacer-001"></div>
             </div>
-            
+
             <div class="alignleft">
                 <div>
                     <a href="/services/" class="fonthover-04 bold" style="font-size: 24px;">Services</a>
@@ -57,7 +57,7 @@
                 <div>
                     <p style="font-size: 24px;" class="fonthover-04 bold">Villes et régions desservies</p>
                     <p style="font-size: 16px;" class="fonthover-04 lineheight-125">
-                        Blainville, Bois-des-Filion, Deux-Montagnes, Joliette, L'Assomption, 
+                        Blainville, Bois-des-Filion, Deux-Montagnes, Joliette, L'Assomption,
                         Laurentides, <a href="/coffrage-beton-laval/">Laval</a>, Lorraine, Mascouche, Mirabel, Montréal, Repentigny, Rive-Nord, Rosemère, Saint-Esprit, Saint-Eustache, Saint-Hippolyte, Saint-Jérôme, <a href="/coffrage-saint-lin-laurentides/">Saint-Lin</a>, Sainte-Marthe-sur-le-Lac, Sainte-Anne-des-Plaines, Sainte-Julienne, Sainte-Sophie, Sainte-Thérèse, Terrebonne, West-island
                     </p>
                 </div>
@@ -72,36 +72,95 @@
             </div>
         </div>
     </div>
+    <div id="law25">
+        <style>
+            #law25 {
+                position: fixed;
+                bottom: 20;
+                left: 20;
+                display: none;
+                width: 400;
+                border-radius: 24px;
+                border: 1px solid #0c4c8e;
+                z-index: 100;
+                height: 225;
+                padding: 20px;
+                background-color: white;
+                color: var(--primaryColor);
+            }
+
+            #law25 button {
+                flex: auto;
+                max-width: 100%;
+                font-size: 14px;
+                font-family: inherit;
+                line-height: 24px;
+                padding: 8px;
+                font-weight: 500;
+                border-radius: 2px;
+                cursor: pointer;
+                text-align: center;
+                text-transform: none;
+                min-height: 0;
+                border: 2px solid var(--primaryColor);
+                overflow-wrap: break-word;
+            }
+        </style>
+        <div >
+            <strong>Nous respectons votre vie privée.</strong>
+            <p>Nous utilisons des cookies pour améliorer votre expérience de navigation, diffuser des publicités ou des contenus personnalisés et analyser notre trafic. En cliquant sur « Tout accepter », vous consentez à notre utilisation des cookies.</p>
+            <a href="/politique-de-confidentialite/">Politique de confidentialité</a>
+            <div style="display: flex;justify-content: flex-start;align-items: center;flex-wrap: wrap;gap: 8px;margin-top: 16px;">
+                <button id="" style="color: var(--primaryColor);background-color: white;" onclick="saveCookie()">Refuser</button>
+                <button style="color: white;background-color: var(--primaryColor);" onclick="saveCookie()">Accepter</button>
+            </div>
+        </div>
+        <script>
+            function saveCookie() {
+                document.cookie = "law25";
+                document.getElementById('law25').style.display = 'none';
+            }
+            document.addEventListener('DOMContentLoaded', function() {
+                const container = document.getElementById('law25');
+                if (!document.cookie.includes('law25')) {
+                    container.style.display = 'inline-block';
+                }
+
+            });
+        </script>
+    </div>
 </footer>
 <div style="position: fixed;bottom: 15px;right: 15px;opacity: 1;transition: all .2s ease-in-out;line-height: 42px!important;font-size: 20px!important;margin: 0;text-align: center;">
-<!--todo-->
-<button onclick="smoothscroll()" id="scrollToTop"
-    style="border-radius: 6px;cursor: pointer;width: 42px;height: 42px;border-width: 1px;">
-    <i class="fa fa-chevron-up"></i>
-</button>
-<script>
-    
-    // Get the button
-    let mybutton = document.getElementById("scrollToTop");
+    <!--todo-->
+    <button onclick="smoothscroll()" id="scrollToTop"
+        style="border-radius: 6px;cursor: pointer;width: 42px;height: 42px;border-width: 1px;">
+        <i class="fa fa-chevron-up"></i>
+    </button>
+    <script>
+        // Get the button
+        let mybutton = document.getElementById("scrollToTop");
 
-    // When the user scrolls down 20px from the top of the document, show the button
-    window.onscroll = function() {scrollFunction()};
+        // When the user scrolls down 20px from the top of the document, show the button
+        window.onscroll = function() {
+            scrollFunction()
+        };
 
-    function scrollFunction() {
-        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-            mybutton.style.opacity = 1;
-        } else {
-            mybutton.style.opacity = 0;
+        function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                mybutton.style.opacity = 1;
+            } else {
+                mybutton.style.opacity = 0;
+            }
         }
-    }
-    function smoothscroll() {
-        var currentScroll = document.documentElement.scrollTop || document.body.scrollTop;
-        if (currentScroll > 0) {
-            window.requestAnimationFrame(smoothscroll);
-            window.scrollTo(0, currentScroll - (currentScroll / 8));
+
+        function smoothscroll() {
+            var currentScroll = document.documentElement.scrollTop || document.body.scrollTop;
+            if (currentScroll > 0) {
+                window.requestAnimationFrame(smoothscroll);
+                window.scrollTo(0, currentScroll - (currentScroll / 8));
+            }
         }
-    }
-</script>
+    </script>
 </div>
 <!--JavaScript at end of body for optimized loading-->
 <script type="text/javascript" src="https://coffragesphoenix.com/js/materialize.min.js"></script>

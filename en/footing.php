@@ -64,12 +64,69 @@
                     <p class="fonthover-04 lineheight-125">© All rights reserved Les entreprises asra inc.</p>
                     <a href="https://datanextstep.com/" class="fonthover-04 lineheight-125">Supported by Data Next Step</a></br>
                     <a class="fonthover-04 lineheight-125" href="/en/legal-notice/">Legal Notice</a></br>
-                    <a class="fonthover-04 lineheight-125" href="/en/privacy-policy/">Politique de confidentialité</a></br>
+                    <a class="fonthover-04 lineheight-125" href="/en/privacy-policy/">Privacy Policy</a></br>
                     <a class="fonthover-04 lineheight-125" href="/en/terms-conditions/">Cookies and Terms & Conditions</a></br>
                     <p class="fonthover-04 lineheight-125" style="display:flex;">Coffrages Phoenix acceptes Bitcoin as payment mothode for its products and services. <img src="/assets/img/bitcoin.webp" alt="Bitcoin coffrages phenoix" width="65px"></p>
                 </div>
             </div>
         </div>
+    </div>
+    <div id="law25">
+        <style>
+            #law25 {
+                position: fixed;
+                bottom: 20;
+                left: 20;
+                display: none;
+                width: 400;
+                border-radius: 24px;
+                border: 1px solid #0c4c8e;
+                z-index: 100;
+                height: 225;
+                padding: 20px;
+                background-color: white;
+                color: var(--primaryColor);
+            }
+
+            #law25 button {
+                flex: auto;
+                max-width: 100%;
+                font-size: 14px;
+                font-family: inherit;
+                line-height: 24px;
+                padding: 8px;
+                font-weight: 500;
+                border-radius: 2px;
+                cursor: pointer;
+                text-align: center;
+                text-transform: none;
+                min-height: 0;
+                border: 2px solid var(--primaryColor);
+                overflow-wrap: break-word;
+            }
+        </style>
+        <div >
+            <strong>We value your privacy</strong>
+            <p>We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking "Accept", you consent to our use of cookies.</p>
+            <a href="/en/privacy-policy/">Privacy Policy</a>
+            <div style="display: flex;justify-content: flex-start;align-items: center;flex-wrap: wrap;gap: 8px;margin-top: 16px;">
+                <button id="" style="color: var(--primaryColor);background-color: white;" onclick="saveCookie()">Reject</button>
+                <button style="color: white;background-color: var(--primaryColor);" onclick="saveCookie()">Accept</button>
+            </div>
+        </div>
+        <script>
+            function saveCookie() {
+                document.cookie = "law25";
+                document.getElementById('law25').style.display = 'none';
+            }
+            document.addEventListener('DOMContentLoaded', function() {
+                const container = document.getElementById('law25');
+                if (!document.cookie.includes('law25')) {
+                    container.style.display = 'inline-block';
+                }
+
+            });
+        </script>
     </div>
 </footer>
 <div style="position: fixed;bottom: 15px;right: 15px;opacity: 1;transition: all .2s ease-in-out;line-height: 42px!important;font-size: 20px!important;margin: 0;text-align: center;">
