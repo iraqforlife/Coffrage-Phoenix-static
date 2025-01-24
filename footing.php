@@ -79,7 +79,7 @@
                 bottom: 20;
                 left: 20;
                 display: none;
-                width: 400;
+                width: 350px;
                 border-radius: 24px;
                 border: 1px solid #0c4c8e;
                 z-index: 100;
