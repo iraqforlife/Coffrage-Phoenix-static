@@ -105,18 +105,20 @@ include_once(__DIR__ . "/head.php");
         line-height: 53px !important
       }
     }
+
     /* pour les services */
     @media screen and (min-width: 1100px) {
       #mobileServices {
         display: none !important;
       }
-      
+
     }
+
     @media screen and (max-width: 1100px) {
       #desktopServices {
         display: none !important;
       }
-      
+
     }
 
     .hide {
@@ -153,16 +155,33 @@ include_once(__DIR__ . "/head.php");
     }
   </style>
   <div class="container">
+    <script src="https://kit.fontawesome.com/22ddb733eb.js" crossorigin="anonymous"></script>
     <div style="position: relative;z-index: 2;">
       <div class="absolute container-91pct left-003pct slider-header">
         <h1 style="color:white;">Concrete balcony, side walk, slab and formwork specialist in Montreal, Laval, Terrebonne and the North Shore of Montreal.</h1>
         <div class="spacer-001"></div>
         <a class="button-border" href="#quote">Quote&nbsp; &#10095;</a>
         <div class="socials fonthover-06" style="margin-top: 15px;">
-          <a class="reseau-button" href="https://www.facebook.com/coffragesphoenix/" target="_blank"><i class="fa-brands fa-facebook"></i></a>
-          <a class="reseau-button" href="https://www.instagram.com/coffragesphoenix/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-          <a class="reseau-button" href="https://twitter.com/CoffragePhoenix/" title="Twitter" target="_blank"><i class="fa-brands fa-twitter"></i></a>
-          <a class="reseau-button" href="https://g.co/kgs/7ZqjpLo" title="Google" target="_blank"><i class="fa-brands fa-google"></i></a>
+          <a class="reseau-button" href="https://www.facebook.com/coffragesphoenix/" target="_blank">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="#fff" width="30px" height="30px"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. -->
+              <path d="M512 256C512 114.6 397.4 0 256 0S0 114.6 0 256C0 376 82.7 476.8 194.2 504.5V334.2H141.4V256h52.8V222.3c0-87.1 39.4-127.5 125-127.5c16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1c-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H287V510.1C413.8 494.8 512 386.9 512 256h0z" />
+            </svg>
+          </a>
+          <a class="reseau-button" href="https://www.instagram.com/coffragesphoenix/" target="_blank">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="#fff" width="30px" height="30px"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. -->
+              <path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z" />
+            </svg>
+          </a>
+          <a class="reseau-button" href="https://twitter.com/CoffragePhoenix/" title="Twitter" target="_blank">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="#fff" width="30px" height="30px"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. -->
+              <path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z" />
+            </svg>
+          </a>
+          <a class="reseau-button" href="https://g.co/kgs/7ZqjpLo" title="Google" target="_blank">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="#fff" viewBox="0 0 488 512" width="30px" height="30px"> <!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. -->
+              <path d="M488 261.8C488 403.3 391.1 504 248 504 110.8 504 0 393.2 0 256S110.8 8 248 8c66.8 0 123 24.5 166.3 64.9l-67.5 64.9C258.5 52.6 94.3 116.6 94.3 256c0 86.5 69.1 156.6 153.7 156.6 98.2 0 135-70.4 140.8-106.9H248v-85.3h236.1c2.3 12.7 3.9 24.9 3.9 41.4z" />
+            </svg>
+          </a>
         </div>
       </div>
       <div style="overflow: hidden;">
@@ -190,7 +209,9 @@ include_once(__DIR__ . "/head.php");
       <div id="mobileServices">
         <div class="servicesSlider">
           <button id="left" class="carouselButtons" style="margin-left: -10px;">
-            <i class="fa-solid fa-arrow-left" style="font-size: x-large;"></i>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="var(--primaryColor)" width="21px" height="24px"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. -->
+              <path d="M9.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.2 288 416 288c17.7 0 32-14.3 32-32s-14.3-32-32-32l-306.7 0L214.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z" />
+            </svg>
           </button>
           <div id="carousel">
             <div class="aligncenter serviceItems">
@@ -205,7 +226,9 @@ include_once(__DIR__ . "/head.php");
             </div>
           </div>
           <button id="right" class="carouselButtons">
-            <i class="fa-solid fa-arrow-right" style="font-size: x-large;"></i>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="var(--primaryColor)" width="21px" height="24px"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. -->
+              <path d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z" />
+            </svg>
           </button>
         </div>
         <div class="aligncenter" style="margin: 15px">

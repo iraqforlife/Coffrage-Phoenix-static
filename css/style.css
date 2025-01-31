@@ -116,7 +116,8 @@ img {
 }
 
 .desc-img img {
-    border: 1px solid var(--primaryColor)
+    border: 1px solid var(--primaryColor);
+    margin-top: 55px;
 }
 
 @media only screen and (max-width:959px) {
@@ -126,7 +127,11 @@ img {
     }
 
     .desc-img {
-        margin: 30px
+        margin: 30px !important;
+    }
+
+    .desc-img img {
+        margin-top: 30px;
     }
 
     .desc h2 {

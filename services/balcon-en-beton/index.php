@@ -24,7 +24,12 @@
           <div class="servces-desc-title">
               <h1 style="color:#545454;"><strong>Balcons en béton</strong></h1>
               <hr>
-              <p style="color: var(--primaryColor);">Vous rêvez d'un espace extérieur qui est facile d'entretien, durable et esthétique? Notre balcon en béton est la structure idéale pour répondre à vos besoins. Les balcons en béton sont construits d'une façon durable, faite pour résister aux intempéries et aux fluctuations de température pour vous permettre de profiter de votre investissement durant plusieurs années. Le béton est un matériau de construction fiable et est maniable donc peut s'adapter à tout type de maison. Les galeries en béton nécessitent très peu d'entretien, ce qui veut dire adieux le vernissage du balcon , bye bye l'entretien du bois pour empêcher la moisissure. Les balcons en béton ont une durée de vie de plus de 50 ans contrairement aux balcons en bois qui ont une durée de vie de seulement 15-25 ans. Notre équipe d'experts assurera un travail impeccable et vous assura un produit final digne de votre vision.</p>
+              <p style="color: var(--primaryColor);">Vous rêvez d'un espace extérieur qui est facile d'entretien, durable et esthétique? Notre balcon en béton est la structure idéale pour répondre à vos besoins.</br>
+                 Les balcons en béton sont construits d'une façon durable, faite pour résister aux intempéries et aux fluctuations de température pour vous permettre de profiter de votre investissement
+                 durant plusieurs années. Le béton est un matériau de construction fiable et est maniable donc peut s'adapter à tout type de maison.</br>
+                 Les galeries en béton nécessitent très peu d'entretien, ce qui veut dire adieux le vernissage du balcon , bye bye l'entretien du bois pour empêcher la moisissure.
+                 Les balcons en béton ont une durée de vie de plus de 50 ans contrairement aux balcons en bois qui ont une durée de vie de seulement 15-25 ans.</br>
+                 Notre équipe d'experts assurera un travail impeccable et vous assura un produit final digne de votre vision.</p>
           </div>
       </div>
   

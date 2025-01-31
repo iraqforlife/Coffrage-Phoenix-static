@@ -24,8 +24,10 @@ include_once(__DIR__ . "/../head.php");
       <div class="desc">
         <div class="desc-text">
           <h2 style="text-align: center;">Coffrages Phoenix</h2>
-          <h5>Spécialiste en balcon, trottoir et dalle de béton et coffrages à Montréal, Laval, Terrebonne et la Rive-Nord de Montréal.</h5>
-          <p>Coffrages Phoenix se spécialise dans les coffrages de béton, les balcons en béton, trottoirs en béton ainsi que des dalles de béton. Avec notre équipe d'experts, nous assurons un service de la meilleure qualité pour répondre au exigences de notre clientèle et dépasser leurs attentes. Nous offrons des services de coffrage, de marches de béton, de balcons en béton et bien plus.</p>
+          <h5>Spécialiste en balcons, trottoirs, dalles de béton et coffrages à Montréal, Laval, Terrebonne et sur la Rive-Nord de Montréal.</h5>
+          <p>Coffrages Phoenix se spécialise dans les coffrages de béton, les balcons en béton, les trottoirs en béton ainsi que les dalles de béton.
+            Avec notre équipe d'experts, nous assurons un service de la meilleure qualité pour répondre aux exigences de notre clientèle et dépasser leurs attentes.
+            Nous offrons des services de coffrage, de marches en béton, de balcons en béton et bien plus.</p>
           <div style="text-align: center;margin-bottom: 35px;margin-top: 40px;">
             <a href="/services/" class="blue-button">Plus de détails sur les services</a>
           </div>
