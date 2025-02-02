@@ -1,7 +1,7 @@
 <!DOCTYPE html lang="en">
 <html lang="en-CA">
 <?php
-$metaDesc = "If you have nay questions for Coffrage Phoenix or inquiries about your projects, please don’t hesitate to reach out to us.";
+$metaDesc = "If you have any questions for Coffrage Phoenix or inquiries about your projects, please don’t hesitate to reach out to us.";
 $englishUrl = "/contact/";
 $title = "Coffrages Phoenix - Contact Us";
 $canonical = "en/contact/";
