@@ -3,7 +3,7 @@
 <?php 
     $metaDesc ="La Politique de confidentialité de coffrages phoenix";
     $englishUrl = "/en/terms-conditions/";
-    $title = "Coffrages Phoenix - Politique de confidentialité";
+    $title = "Coffrages Phoenix - Termes et conditions";
     $canonical = "termes-conditions/";
     include_once(__DIR__."/../head.php");
 ?>
@@ -11,7 +11,7 @@
   <?php include(__DIR__."/../header.php")?>
   <div class="section_wrapper">
     <div style="text-align: center;">
-      <h1>Politique de confidentialité</h1>
+      <h1>Termes et conditions</h1>
     </div>
     <div>
       <p>Bienvenue chez Coffrages Phoenix. Ce document décrit les conditions d'utilisation, les responsabilités et les obligations lors de l'utilisation de notre siteweb et de nos services. En accédant ou en utilisant notre plateforme, vous acceptez de vous conformer à ces termes. Veuillez prendre un moment pour examiner attentivement nos conditions d'utilisation :</p>
