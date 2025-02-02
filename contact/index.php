@@ -1,7 +1,8 @@
 <!DOCTYPE html lang="fr">
 <html lang="fr-CA">
 <?php
-$metaDesc = "Apprenez en plus sur qui est Coffrages Phoenix, quels sont nos valeurs et quel-est notre vision dans le domaine.";
+$metaDesc = "Contactez Coffrages Phoenix pour des services de coffrages de béton, balcons, trottoirs et dalles à Laval, Québec. Notre équipe d'experts est prête à répondre à vos questions et à vous fournir des devis détaillés. Téléphone : (514) 444-2822 - Email : soumission@coffragesphoenix.com";
+
 $englishUrl = "/en/contact/";
 $title = "Coffrages Phoenix - Contact";
 $canonical = "contact/";
