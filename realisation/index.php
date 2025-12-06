@@ -102,6 +102,7 @@ include_once(__DIR__ . "/../head.php");
         <img src="/assets/img/descente-de-sous-sol-en-beton-001.webp" width="800" height="575" alt="Descente de sous sol en beton" loading="lazy">
         <img src="/assets/img/descente-de-sous-sol-en-beton-002.webp" width="800" height="575" alt="Descente de sous sol laval" loading="lazy">
         <img src="/assets/img/descente-de-sous-sol-en-beton-004.webp" width="800" height="575" alt="Descente de sous sol rive-nord" loading="lazy">
+        <img src="/assets/img/descente-de-sous-sol-en-beton-005.webp" width="800" height="575" alt="Descente de sous sol montreal" loading="lazy">
       </div>
       <div class="alignleft" style="margin: 25px 0;">
         <h2>Fondations pour agrandissement de maison</h2>

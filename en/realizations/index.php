@@ -100,9 +100,10 @@ include_once(__DIR__ . "/../head.php");
         <h2>Concrete basement entrance</h2>
       </div>
       <div class="columns-02-5050">
-        <img src="/assets/img/descente-de-sous-sol-en-beton-001.webp" width="800" height="575" alt="Descente de sous sol en beton" loading="lazy">
-        <img src="/assets/img/descente-de-sous-sol-en-beton-002.webp" width="800" height="575" alt="Descente de sous sol laval" loading="lazy">
-        <img src="/assets/img/descente-de-sous-sol-en-beton-004.webp" width="800" height="575" alt="Descente de sous sol rive-nord" loading="lazy">
+        <img src="/assets/img/descente-de-sous-sol-en-beton-001.webp" width="800" height="575" alt="Concrete basement entrance" loading="lazy">
+        <img src="/assets/img/descente-de-sous-sol-en-beton-002.webp" width="800" height="575" alt="Concrete basement entrance laval" loading="lazy">
+        <img src="/assets/img/descente-de-sous-sol-en-beton-004.webp" width="800" height="575" alt="Concrete basement entrance rive-nord" loading="lazy">
+        <img src="/assets/img/descente-de-sous-sol-en-beton-005.webp" width="800" height="575" alt="Concrete basement entrance montreal" loading="lazy">
       </div>
       <div class="alignleft" style="margin: 25px 0;">
         <h2>Foundations for house expansion</h2>
