@@ -93,6 +93,9 @@ include_once(__DIR__ . "/../head.php");
         <img src="/assets/img/balcon-de-beton-004.webp" width="800" height="575" alt="Conrete Balcony" fetchPriority="high" loading="lazy">
         <img src="/assets/img/balcon12.webp" width="800" height="575" alt="Concrete sidewalk" fetchPriority="high" loading="lazy">
       </div>
+      <div class="insta-button">
+        <a class="red-button" href="https://photos.app.goo.gl/Q6cwfNRs3VCq7Kk57" target="_blank"><span>See the full album of balconies</span></a>
+      </div>
       <div class="alignleft" style="margin: 25px 0;">
         <h2>Concrete basement entrance</h2>
       </div>
