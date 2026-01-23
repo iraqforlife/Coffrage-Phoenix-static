@@ -43,6 +43,15 @@
     color: #000 !important;
     padding: 32px;
     text-align: center;
+    border: 2px solid var(--secondary);
+    border-radius: 8px;
+    background: linear-gradient(to bottom, var(--neutral-lighter), #fff);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .reviews-box:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(231, 76, 60, 0.2);
   }
 
   @media (max-width:959px) {
@@ -67,17 +76,19 @@
     height: 100px;
     margin-bottom: 32px;
     border-radius: 50%;
-    border: 12px solid var(--primaryColor);
+    border: 3px solid var(--secondary);
     display: flex;
     align-items: center;
     justify-content: center;
     flex-shrink: 0;
     line-height: 0;
     overflow: hidden;
+    background: var(--neutral-lighter);
+    box-shadow: 0 4px 12px rgba(231, 76, 60, 0.15);
   }
 
-  .reviews-box p {
-    color: var(--primaryColor);
+  .reviews i {
+    color: var(--secondary);
   }
 
   .review-item p {
@@ -85,7 +96,7 @@
     line-height: 28px;
     font-weight: 500;
     letter-spacing: 0;
-    color: #0c4c8e;
+    color: var(--secondary);
     text-align: center;
   }
 </style>

@@ -197,15 +197,15 @@ include_once(__DIR__ . "/head.php");
 
       <?php
       $services = array(
-        (object) ['href' => '/services/balcon-en-beton/', 'src' => '/assets/img/balcon-de-beton.webp', 'alt' => 'Balcons en béton', 'text' => "Balcons en béton"],
-        (object) ['href' => '/services/coffrage/', 'src' => '/assets/img/coffrage-de-beton.webp', 'alt' => 'coffrage', 'text' => "Coffrage"],
-        (object) ['href' => '/services/dalle-de-beton/', 'src' => '/assets/img/dalle.webp', 'alt' => 'concrete-dalle', 'text' => "Dalles en béton"],
-        (object) ['href' => '/services/marche-de-beton/', 'src' => '/assets/img/escalier-de-beton.webp', 'alt' => 'Marche en béton', 'text' => "Marche en béton"],
-        (object) ['href' => '/services/fondation-maison/', 'src' => '/assets/img/fondation.webp', 'alt' => 'concrete-foundation-house', 'text' => "Fondations de maison"],
-        (object) ['href' => '/services/agrandissement-maison/', 'src' => '/assets/img/agrandissement.webp', 'alt' => 'Agrandissement de maison', 'text' => "Agrandissement de maison"],
-        (object) ['href' => '/services/descente-sous-sol-beton/', 'src' => '/assets/img/descente-de-sous-sol-en-beton-003.webp', 'alt' => 'Descente de sous-sol en béton', 'text' => "Descente de sous-sol en béton"],
-        (object) ['href' => '/services/mur-de-soutenement/', 'src' => '/assets/img/soutenement.webp', 'alt' => 'Mur de soutènement en béton', 'text' => "Mur de soutènement"],
-        (object) ['href' => '/services/sous-oeuvre/', 'src' => '/assets/img/sousoeuvre.webp', 'alt' => 'Sous-œuvre et renforcement de fondations', 'text' => "Sous-œuvre"],
+        (object) ['href' => '/services/balcon-en-beton/', 'src' => '/assets/img/balcon-de-beton.webp', 'alt' => 'Balcons en béton', 'text' => "Balcons en béton", 'desc' => "Durables et modernes pour votre demeure"],
+        (object) ['href' => '/services/coffrage/', 'src' => '/assets/img/coffrage-de-beton.webp', 'alt' => 'coffrage', 'text' => "Coffrage", 'desc' => "Solutions adaptées à vos projets"],
+        (object) ['href' => '/services/dalle-de-beton/', 'src' => '/assets/img/dalle.webp', 'alt' => 'concrete-dalle', 'text' => "Dalles en béton", 'desc' => "Solides pour patios et terrasses"],
+        (object) ['href' => '/services/marche-de-beton/', 'src' => '/assets/img/escalier-de-beton.webp', 'alt' => 'Marche en béton', 'text' => "Marche en béton", 'desc' => "Sécuritaires et fonctionnelles"],
+        (object) ['href' => '/services/fondation-maison/', 'src' => '/assets/img/fondation.webp', 'alt' => 'concrete-foundation-house', 'text' => "Fondations de maison", 'desc' => "Robustes pour votre maison"],
+        (object) ['href' => '/services/agrandissement-maison/', 'src' => '/assets/img/agrandissement.webp', 'alt' => 'Agrandissement de maison', 'text' => "Agrandissement de maison", 'desc' => "Aux normes professionnelles"],
+        (object) ['href' => '/services/descente-sous-sol-beton/', 'src' => '/assets/img/descente-de-sous-sol-en-beton-003.webp', 'alt' => 'Descente de sous-sol en béton', 'text' => "Descente de sous-sol en béton", 'desc' => "Accès sécuritaire"],
+        (object) ['href' => '/services/mur-de-soutenement/', 'src' => '/assets/img/soutenement.webp', 'alt' => 'Mur de soutènement en béton', 'text' => "Mur de soutènement", 'desc' => "Stables et fiables"],
+        (object) ['href' => '/services/sous-oeuvre/', 'src' => '/assets/img/sousoeuvre.webp', 'alt' => 'Sous-œuvre et renforcement de fondations', 'text' => "Sous-œuvre", 'desc' => "Renforcement de fondations"],
       );
       ?>
       <div id="mobileServices">
@@ -222,6 +222,7 @@ include_once(__DIR__ . "/head.php");
                   <a href="<?= $service->href; ?>">
                     <img src="<?= $service->src; ?>" alt="<?= $service->alt; ?>">
                     <p><?= $service->text; ?></p>
+                    <div class="service-desc"><?= $service->desc; ?></div>
                   </a>
                 </div>
               <?php endforeach; ?>
@@ -245,6 +246,7 @@ include_once(__DIR__ . "/head.php");
             <a href="<?= $service->href; ?>">
               <img src="<?= $service->src; ?>" alt="<?= $service->alt; ?>">
               <p><?= $service->text; ?></p>
+              <div class="service-desc"><?= $service->desc; ?></div>
             </a>
           </div>
         <?php endforeach; ?>
