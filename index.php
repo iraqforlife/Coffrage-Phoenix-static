@@ -158,6 +158,7 @@ include_once(__DIR__ . "/head.php");
     <div style="position: relative;z-index: 2;">
       <div class="absolute container-91pct left-003pct slider-header">
         <h1 class="home-header" style="color:white;">Spécialiste en balcon, trottoir, dalle de béton et coffrages dans la région de Montréal, Laval, Terrebonne et la Rive-Nord</h1>
+        <p style="color: rgba(255,255,255,0.95); font-size: 18px; font-weight: 300; margin-bottom: 20px; line-height: 1.6;">Construire durable, renaître plus fort • Expertise reconnue depuis des années</p>
         <div class="spacer-001"></div>
         <a class="button-border" href="#soumission">Soumission&nbsp; &#10095;</a>
         <div class="socials fonthover-06" style="margin-top: 15px;">

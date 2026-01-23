@@ -50,7 +50,16 @@ img {
 }
 
 :root {
-    --primaryColor: #0c4c8e
+    --primaryColor: #0c4c8e;
+    --primaryDark: #08344d;
+    --secondary: #e74c3c;
+    --secondaryLight: #f39c12;
+    --neutral-dark: #2c3e50;
+    --neutral-light: #ecf0f1;
+    --neutral-lighter: #f8f9fa;
+    --accent-gold: #d4af37;
+    --success: #27ae60;
+    --info: #3498db
 }
 
 .dropdown {

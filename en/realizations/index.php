@@ -53,6 +53,56 @@ include_once(__DIR__ . "/../head.php");
       letter-spacing: 0 !important;
       color: var(--primaryColor)
     }
+
+    .project-category {
+      margin: 50px 0 30px 0;
+      padding-bottom: 15px;
+      border-bottom: 3px solid var(--secondary);
+      position: relative;
+    }
+
+    .project-category h2 {
+      font-size: 32px;
+      margin: 0;
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .project-category-icon {
+      width: 30px;
+      height: 30px;
+      background: var(--secondary);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-weight: bold;
+      font-size: 16px;
+    }
+
+    .columns-03-333333 img {
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(12, 76, 142, 0.15);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .columns-03-333333 img:hover {
+      transform: scale(1.02);
+      box-shadow: 0 8px 16px rgba(12, 76, 142, 0.25);
+    }
+
+    .columns-02-5050 img {
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(12, 76, 142, 0.15);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .columns-02-5050 img:hover {
+      transform: scale(1.02);
+      box-shadow: 0 8px 16px rgba(12, 76, 142, 0.25);
+    }
   </style>
   <?php include(__DIR__ . "/../header.php") ?>
 
@@ -73,8 +123,8 @@ include_once(__DIR__ . "/../head.php");
           </svg>
         </a>
       </div>
-      <div class="alignleft" style="margin: 30px 0;">
-        <h2 class="header-1">Concrete stairs, concrete sidewalks and concrete balconies</h2>
+      <div class="project-category">
+        <h2><span class="project-category-icon">1</span>Concrete stairs, concrete sidewalks and concrete balconies</h2>
       </div>
       <div class="columns-03-333333">
         <img src="/assets/img/balcon-de-beton2.webp" width="800" height="575" alt="Concrete Balcony laval" fetchPriority="high" loading="lazy">
@@ -96,8 +146,8 @@ include_once(__DIR__ . "/../head.php");
       <div class="insta-button">
         <a class="red-button" href="https://photos.app.goo.gl/Q6cwfNRs3VCq7Kk57" target="_blank"><span>See the full album of balconies</span></a>
       </div>
-      <div class="alignleft" style="margin: 25px 0;">
-        <h2>Concrete basement entrance</h2>
+      <div class="project-category">
+        <h2><span class="project-category-icon">2</span>Concrete basement entrance</h2>
       </div>
       <div class="columns-02-5050">
         <img src="/assets/img/descente-de-sous-sol-en-beton-001.webp" width="800" height="575" alt="Concrete basement entrance" loading="lazy">
@@ -105,8 +155,8 @@ include_once(__DIR__ . "/../head.php");
         <img src="/assets/img/descente-de-sous-sol-en-beton-004.webp" width="800" height="575" alt="Concrete basement entrance rive-nord" loading="lazy">
         <img src="/assets/img/descente-de-sous-sol-en-beton-005.webp" width="800" height="575" alt="Concrete basement entrance montreal" loading="lazy">
       </div>
-      <div class="alignleft" style="margin: 25px 0;">
-        <h2>Foundations for house expansion</h2>
+      <div class="project-category">
+        <h2><span class="project-category-icon">3</span>Foundations for house expansion</h2>
       </div>
       <div class="columns-02-5050">
         <img src="/assets/img/fondation-agrandissement-de-maison-001.webp" width="800" height="575" alt="Agrandissement fondation" fetchPriority="low" loading="lazy">
