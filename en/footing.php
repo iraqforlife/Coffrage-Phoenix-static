@@ -191,4 +191,14 @@
 <!--JavaScript at end of body for optimized loading-->
 <script type="text/javascript" src="https://coffragesphoenix.com/js/materialize.min.js"></script>
 <script type="text/javascript" src="https://coffragesphoenix.com/js/paperform.min.js"></script>
+<!-- AOS - Animate On Scroll initialization -->
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+  AOS.init({
+    duration: 800,
+    easing: 'ease-in-out-quad',
+    once: true,
+    offset: 100
+  });
+</script>
 <!--<script type="text/javascript" src="https://coffragesphoenix.com/js/e07c990d09.js"></script>-->

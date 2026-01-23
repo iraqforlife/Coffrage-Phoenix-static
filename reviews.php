@@ -131,7 +131,7 @@
     <div id="reviewCarousel" style="display:flex;align-items:center;overflow-x:auto;scroll-behavior:smooth">
       <div class="aligncenter serviceItems">
         <?php foreach ($reviews as $review): ?>
-          <a class="review-item" href="<?= $review->url; ?>" style="border:1px solid #0c4c8e;margin:10px;width:285px;
+          <a class="review-item" href="<?= $review->url; ?>" data-aos="fade-up" data-aos-duration="600" style="border:1px solid #0c4c8e;margin:10px;width:285px;
     overflow-y: hidden;;height: 370px;box-shadow:0 4px 5px 0 rgba(12,76,142,.38)">
 
             <div style="padding:5px;">

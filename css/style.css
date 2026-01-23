@@ -1150,6 +1150,47 @@ img {
     font-style: italic;
 }
 
+.service-badge {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: linear-gradient(135deg, var(--secondary), var(--secondaryLight));
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    box-shadow: 0 4px 12px rgba(231, 76, 60, 0.3);
+    z-index: 10;
+}
+
+.cta-button-sticky {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background: linear-gradient(135deg, var(--secondary), var(--primaryColor));
+    color: #fff;
+    padding: 15px 25px;
+    border-radius: 50px;
+    font-weight: 600;
+    text-decoration: none;
+    box-shadow: 0 8px 24px rgba(231, 76, 60, 0.4);
+    transition: all 0.3s ease;
+    z-index: 100;
+    display: none;
+}
+
+.cta-button-sticky:hover {
+    transform: translateY(-3px) scale(1.05);
+    box-shadow: 0 12px 32px rgba(231, 76, 60, 0.5);
+}
+
+.cta-button-sticky.show {
+    display: block;
+}
+
 .carouselButtons {
     outline: 0;
     background: 0 0;

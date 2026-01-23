@@ -155,7 +155,6 @@ include_once(__DIR__ . "/head.php");
     }
   </style>
   <div class="container">
-    <script src="https://kit.fontawesome.com/22ddb733eb.js" crossorigin="anonymous"></script>
     <div style="position: relative;z-index: 2;">
       <div class="absolute container-91pct left-003pct slider-header">
         <h1 style="color:white;">Concrete balcony, side walk, slab and formwork specialist in Montreal, Laval, Terrebonne and the North Shore of Montreal.</h1>
@@ -186,26 +185,26 @@ include_once(__DIR__ . "/head.php");
         </div>
       </div>
       <div style="overflow: hidden;">
-        <img src="/assets/img/coffrage-de-beton-sainte-anne-des-plaines.webp" style="min-height:250px;max-height:530px;object-fit:cover;width: 200%;position:relative;margin:0;left:0" alt="Coffrage-de-beton-rive-nord">
+        <img src="/assets/img/coffrage-de-beton-sainte-anne-des-plaines.webp" style="min-height:250px;max-height:530px;object-fit:cover;width: 100%;position:relative;margin:0;left:0" alt="Coffrage-de-beton-rive-nord">
       </div>
     </div>
 
-    <div class="container-1200px padding-060px" style="padding-bottom: 0;">
+    <div class="container-1200px padding-060px" style="padding-bottom: 0;" data-aos="fade-up" data-aos-delay="100">
       <div class="services-header">
-        <h2>Coffrages Phoenix</h2>
-        <h3>Our services</h3>
+        <h2 data-aos="zoom-in" data-aos-delay="200">Coffrages Phoenix</h2>
+        <h3 data-aos="zoom-in" data-aos-delay="300">Our services</h3>
       </div>
       <?php
       $services = array(
-        (object) ['href' => '/en/services/concrete-balcony/', 'src' => '/assets/img/balcon-de-beton.webp', 'alt' => 'Concrete balcony', 'text' => "Concrete balcony"],
-        (object) ['href' => '/en/services/formwork/', 'src' => '/assets/img/coffrage-de-beton.webp', 'alt' => 'Formwork', 'text' => "Formwork"],
-        (object) ['href' => '/en/services/concrete-slab/', 'src' => '/assets/img/dalle.webp', 'alt' => 'concrete slab', 'text' => "Concrete slab"],
-        (object) ['href' => '/en/services/concrete-step/', 'src' => '/assets/img/escalier-de-beton.webp', 'alt' => 'Concrete step', 'text' => "Concrete step"],
-        (object) ['href' => '/en/services/house-foundation/', 'src' => '/assets/img/fondation.webp', 'alt' => 'concrete-foundation-house', 'text' => "House foundations"],
-        (object) ['href' => '/en/services/house-extension/', 'src' => '/assets/img/agrandissement.webp', 'alt' => 'House extension', 'text' => "House extension"],
-        (object) ['href' => '/en/services/concrete-basement/', 'src' => '/assets/img/descente-de-sous-sol-en-beton-003.webp', 'alt' => 'Concrete basement descent', 'text' => "Concrete basement descent"],
-        (object) ['href' => '/en/services/concrete-retaining-walls/', 'src' => '/assets/img/soutenement.webp', 'alt' => 'Concrete retaining walls', 'text' => "Concrete retaining walls"],
-        (object) ['href' => '/en/services/underpinning/', 'src' => '/assets/img/sousoeuvre.webp', 'alt' => 'Underpinning and foundation reinforcement', 'text' => "Underpinning"],
+        (object) ['href' => '/en/services/concrete-balcony/', 'src' => '/assets/img/balcon-de-beton.webp', 'alt' => 'Concrete balcony', 'text' => "Concrete balcony", 'desc' => "Durable and modern for your home", 'popular' => true],
+        (object) ['href' => '/en/services/formwork/', 'src' => '/assets/img/coffrage-de-beton.webp', 'alt' => 'Formwork', 'text' => "Formwork", 'desc' => "Solutions tailored to your projects", 'popular' => true],
+        (object) ['href' => '/en/services/concrete-slab/', 'src' => '/assets/img/dalle.webp', 'alt' => 'concrete slab', 'text' => "Concrete slab", 'desc' => "Solid for patios and terraces"],
+        (object) ['href' => '/en/services/concrete-step/', 'src' => '/assets/img/escalier-de-beton.webp', 'alt' => 'Concrete step', 'text' => "Concrete step", 'desc' => "Safe and functional"],
+        (object) ['href' => '/en/services/house-foundation/', 'src' => '/assets/img/fondation.webp', 'alt' => 'concrete-foundation-house', 'text' => "House foundations", 'desc' => "Robust for your home", 'popular' => true],
+        (object) ['href' => '/en/services/house-extension/', 'src' => '/assets/img/agrandissement.webp', 'alt' => 'House extension', 'text' => "House extension", 'desc' => "To professional standards"],
+        (object) ['href' => '/en/services/concrete-basement/', 'src' => '/assets/img/descente-de-sous-sol-en-beton-003.webp', 'alt' => 'Concrete basement descent', 'text' => "Concrete basement descent", 'desc' => "Safe access"],
+        (object) ['href' => '/en/services/concrete-retaining-walls/', 'src' => '/assets/img/soutenement.webp', 'alt' => 'Concrete retaining walls', 'text' => "Concrete retaining walls", 'desc' => "Stable and reliable"],
+        (object) ['href' => '/en/services/underpinning/', 'src' => '/assets/img/sousoeuvre.webp', 'alt' => 'Underpinning and foundation reinforcement', 'text' => "Underpinning", 'desc' => "Foundation reinforcement"],
       );
       ?>
       <div id="mobileServices">
@@ -220,8 +219,9 @@ include_once(__DIR__ . "/head.php");
               <?php foreach ($services as $service): ?>
                 <div class="service-item">
                   <a href="<?= $service->href; ?>">
-                    <img src="<?= $service->src; ?>" alt="<?= $service->alt; ?>">
+                    <img src="<?= $service->src; ?>" alt="<?= $service->alt; ?>" loading="lazy" width="400" height="300" style="width: 100%; height: auto;">
                     <p><?= $service->text; ?></p>
+                    <div class="service-desc"><?= $service->desc; ?></div>
                   </a>
                 </div>
               <?php endforeach; ?>
@@ -241,20 +241,24 @@ include_once(__DIR__ . "/head.php");
       </div>
       <div id="desktopServices" class="aligncenter serviceItems" style="display: grid;grid-template-columns: 33% 33% 33%;">
         <?php foreach ($services as $service): ?>
-          <div class="service-item">
+          <div class="service-item" data-aos="fade-up" data-aos-duration="600" style="position: relative;">
+            <?php if (isset($service->popular) && $service->popular): ?>
+              <span class="service-badge">⭐ Popular</span>
+            <?php endif; ?>
             <a href="<?= $service->href; ?>">
-              <img src="<?= $service->src; ?>" alt="<?= $service->alt; ?>">
+              <img src="<?= $service->src; ?>" alt="<?= $service->alt; ?>" loading="lazy" width="400" height="300" style="width: 100%; height: auto;">
               <p><?= $service->text; ?></p>
+              <div class="service-desc"><?= $service->desc; ?></div>
             </a>
           </div>
         <?php endforeach; ?>
       </div>
       <div style="text-align: center;margin-bottom: 35px;margin-top: 35px;">
-        <a href="/services/" class="blue-button">More details about the services</a>
+        <a href="/en/services/" class="blue-button">More details about the services</a>
       </div>
       <?php include(__DIR__ . "/values.php") ?>
       <div style="text-align: center;margin-bottom: 35px;">
-        <a href="/entreprise/" class="blue-button">Learn more about the company</a>
+        <a href="/en/company/" class="blue-button">Learn more about the company</a>
       </div>
       <div id="quote" data-paperform-id="5am6rzq3"></div>
       <?php include(__DIR__ . "/reviews.php") ?>

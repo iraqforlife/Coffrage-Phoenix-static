@@ -1,4 +1,4 @@
-<div class="values-header">
+<div class="values-header" data-aos="fade-down">
     <h2>Our values</h2>
 </div>
 <div class="values">
@@ -68,7 +68,6 @@
 
         @media only screen and (max-width:390px) {
             .value {
-                min-height: 410px;
                 font-size: 14px
             }
         }

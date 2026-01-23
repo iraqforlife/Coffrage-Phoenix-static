@@ -9,7 +9,6 @@
 ?>
 <body >
   <?php include(__DIR__."/../../header.php")?>
-
   <div class="container">
     <div style="display: grid;" class="about">
       <div style="text-align: center;">

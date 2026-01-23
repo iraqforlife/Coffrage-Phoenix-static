@@ -185,27 +185,27 @@ include_once(__DIR__ . "/head.php");
         </div>
       </div>
       <div style="overflow: hidden;">
-        <img src="/assets/img/coffrage-de-beton-sainte-anne-des-plaines.webp" style="min-height:250px;max-height:530px;object-fit:cover;width: 200%;position:relative;margin:0;left:0" alt="Coffrage-de-beton-rive-nord">
+        <img src="/assets/img/coffrage-de-beton-sainte-anne-des-plaines.webp" style="min-height:250px;max-height:530px;object-fit:cover;width: 100%;position:relative;margin:0;left:0" alt="Coffrage-de-beton-rive-nord">
       </div>
     </div>
 
-    <div class="container-1200px padding-060px" style="padding-bottom: 0;">
+    <div class="container-1200px padding-060px" style="padding-bottom: 0;" data-aos="fade-up" data-aos-delay="100">
       <div class="services-header">
-        <h2>Coffrages Phoenix</h2>
-        <h3>Nos services</h3>
+        <h2 data-aos="zoom-in" data-aos-delay="200">Coffrages Phoenix</h2>
+        <h3 data-aos="zoom-in" data-aos-delay="300">Nos services</h3>
       </div>
 
       <?php
       $services = array(
-        (object) ['href' => '/services/balcon-en-beton/', 'src' => '/assets/img/balcon-de-beton.webp', 'alt' => 'Balcons en béton', 'text' => "Balcons en béton", 'desc' => "Durables et modernes pour votre demeure"],
+        (object) ['href' => '/services/balcon-en-beton/', 'src' => '/assets/img/balcon-de-beton.webp', 'alt' => 'Balcons en béton', 'text' => "Balcons en béton", 'desc' => "Durables et modernes pour votre demeure", 'popular' => true],
         (object) ['href' => '/services/coffrage/', 'src' => '/assets/img/coffrage-de-beton.webp', 'alt' => 'coffrage', 'text' => "Coffrage", 'desc' => "Solutions adaptées à vos projets"],
         (object) ['href' => '/services/dalle-de-beton/', 'src' => '/assets/img/dalle.webp', 'alt' => 'concrete-dalle', 'text' => "Dalles en béton", 'desc' => "Solides pour patios et terrasses"],
         (object) ['href' => '/services/marche-de-beton/', 'src' => '/assets/img/escalier-de-beton.webp', 'alt' => 'Marche en béton', 'text' => "Marche en béton", 'desc' => "Sécuritaires et fonctionnelles"],
         (object) ['href' => '/services/fondation-maison/', 'src' => '/assets/img/fondation.webp', 'alt' => 'concrete-foundation-house', 'text' => "Fondations de maison", 'desc' => "Robustes pour votre maison"],
         (object) ['href' => '/services/agrandissement-maison/', 'src' => '/assets/img/agrandissement.webp', 'alt' => 'Agrandissement de maison', 'text' => "Agrandissement de maison", 'desc' => "Aux normes professionnelles"],
-        (object) ['href' => '/services/descente-sous-sol-beton/', 'src' => '/assets/img/descente-de-sous-sol-en-beton-003.webp', 'alt' => 'Descente de sous-sol en béton', 'text' => "Descente de sous-sol en béton", 'desc' => "Accès sécuritaire"],
+        (object) ['href' => '/services/descente-sous-sol-beton/', 'src' => '/assets/img/descente-de-sous-sol-en-beton-003.webp', 'alt' => 'Descente de sous-sol en béton', 'text' => "Descente de sous-sol en béton", 'desc' => "Accès sécuritaire", 'popular' => true],
         (object) ['href' => '/services/mur-de-soutenement/', 'src' => '/assets/img/soutenement.webp', 'alt' => 'Mur de soutènement en béton', 'text' => "Mur de soutènement", 'desc' => "Stables et fiables"],
-        (object) ['href' => '/services/sous-oeuvre/', 'src' => '/assets/img/sousoeuvre.webp', 'alt' => 'Sous-œuvre et renforcement de fondations', 'text' => "Sous-œuvre", 'desc' => "Renforcement de fondations"],
+        (object) ['href' => '/services/sous-oeuvre/', 'src' => '/assets/img/sousoeuvre.webp', 'alt' => 'Sous-œuvre et renforcement de fondations', 'text' => "Sous-œuvre", 'desc' => "Renforcement de fondations", 'popular' => true],
       );
       ?>
       <div id="mobileServices">
@@ -220,7 +220,7 @@ include_once(__DIR__ . "/head.php");
               <?php foreach ($services as $service): ?>
                 <div class="service-item">
                   <a href="<?= $service->href; ?>">
-                    <img src="<?= $service->src; ?>" alt="<?= $service->alt; ?>">
+                    <img src="<?= $service->src; ?>" alt="<?= $service->alt; ?>" loading="lazy" width="400" height="300" style="width: 100%; height: auto;">
                     <p><?= $service->text; ?></p>
                     <div class="service-desc"><?= $service->desc; ?></div>
                   </a>
@@ -242,9 +242,12 @@ include_once(__DIR__ . "/head.php");
       </div>
       <div id="desktopServices" class="aligncenter serviceItems" style="display: grid;grid-template-columns: 33% 33% 33%;">
         <?php foreach ($services as $service): ?>
-          <div class="service-item">
+          <div class="service-item" data-aos="fade-up" data-aos-duration="600" style="position: relative;">
+            <?php if (isset($service->popular) && $service->popular): ?>
+              <span class="service-badge">⭐ Populaire</span>
+            <?php endif; ?>
             <a href="<?= $service->href; ?>">
-              <img src="<?= $service->src; ?>" alt="<?= $service->alt; ?>">
+              <img src="<?= $service->src; ?>" alt="<?= $service->alt; ?>" loading="lazy" width="400" height="300" style="width: 100%; height: auto;">
               <p><?= $service->text; ?></p>
               <div class="service-desc"><?= $service->desc; ?></div>
             </a>

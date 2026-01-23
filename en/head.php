@@ -7,8 +7,22 @@
   <meta name="description" content="<?php echo  $metaDesc?>">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="keywords" content="concrete,béton,fondation,foundation,balcon,balcony,stairscase,escaliers,escalier,coffrages,formwork,structure,dalles,stabs, retaining walls">
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://coffragesphoenix.com/en/">
+  <meta property="og:title" content="<?php echo  $title?>">
+  <meta property="og:description" content="<?php echo  $metaDesc?>">
+  <meta property="og:image" content="https://coffragesphoenix.com/assets/img/coffrages-phoenix.webp">
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://coffragesphoenix.com/en/">
+  <meta property="twitter:title" content="<?php echo  $title?>">
+  <meta property="twitter:description" content="<?php echo  $metaDesc?>">
+  <meta property="twitter:image" content="https://coffragesphoenix.com/assets/img/coffrages-phoenix.webp">
   <link type="text/css" rel="stylesheet" href="/css/materialize.min.css"  media="screen,projection" async/>
   <link rel="canonical" href="https://coffragesphoenix.com/<?php echo  $canonical?>" />
+  <!-- AOS - Animate On Scroll -->
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" async/>
   <!-- to modify -->
   <link type="text/css" rel="stylesheet" href="/css/style.css" async/>
   <link rel="icon" type="image/x-icon" href="/assets/favicon.ico" async/>

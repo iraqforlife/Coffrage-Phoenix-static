@@ -11,6 +11,7 @@
   <?php include(__DIR__."/../../header.php")?>
 
   <div class="container">
+  <div class="container">
     <div class="about">
       <div style="text-align: center;">
           <h2><strong>Services Coffrages</strong></h2>

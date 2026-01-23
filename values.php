@@ -1,4 +1,4 @@
-<div class="values-header">
+<div class="values-header" data-aos="fade-down">
   <h2>Nos valeurs</h2>
 </div>
 <div class="values">
@@ -90,7 +90,7 @@
       }
     }
   </style>
-  <div class="value">
+  <div class="value" data-aos="fade-right" data-aos-delay="100">
     <div>
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" fill="var(--primaryColor)" width="52.5px" height="61px"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. -->
         <path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512l388.6 0c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304l-91.4 0z" />
@@ -124,7 +124,7 @@
       <p>Nous renforçons la confiance de nos clients grâce à notre transparence dans nos communications et nos activités, tout en respectant nos engagements.</p>
     </div>
   </div>
-  <div class="value">
+  <div class="value" data-aos="fade-left" data-aos-delay="400">
     <div>
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" fill="var(--primaryColor)" width="52.5px" height="61px"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. -->
         <path d="M272 384c9.6-31.9 29.5-59.1 49.2-86.2c0 0 0 0 0 0c5.2-7.1 10.4-14.2 15.4-21.4c19.8-28.5 31.4-63 31.4-100.3C368 78.8 289.2 0 192 0S16 78.8 16 176c0 37.3 11.6 71.9 31.4 100.3c5 7.2 10.2 14.3 15.4 21.4c0 0 0 0 0 0c19.8 27.1 39.7 54.4 49.2 86.2l160 0zM192 512c44.2 0 80-35.8 80-80l0-16-160 0 0 16c0 44.2 35.8 80 80 80zM112 176c0 8.8-7.2 16-16 16s-16-7.2-16-16c0-61.9 50.1-112 112-112c8.8 0 16 7.2 16 16s-7.2 16-16 16c-44.2 0-80 35.8-80 80z" />
