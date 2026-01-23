@@ -1,5 +1,5 @@
 <div class="header">
-    <nav style="box-shadow: none;width: 100%;display: block;height: auto;background-color: #ffffff;">
+    <nav style="box-shadow: none;width: 100%;display: block;height: auto;background-color: #fff;">
         <div class="header-menu">
             <div style="display: flex;">
                 <a href="/"><img class="header-logo imagehover-01" src="/assets/img/coffrages-phoenix.webp" alt="Coffrages-Phoenix"></a>
