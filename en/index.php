@@ -197,14 +197,14 @@ include_once(__DIR__ . "/head.php");
       <?php
       $services = array(
         (object) ['href' => '/en/services/concrete-balcony/', 'src' => '/assets/img/balcon-de-beton.webp', 'alt' => 'Concrete balcony', 'text' => "Concrete balcony", 'desc' => "Durable and modern for your home", 'popular' => true],
-        (object) ['href' => '/en/services/formwork/', 'src' => '/assets/img/coffrage-de-beton.webp', 'alt' => 'Formwork', 'text' => "Formwork", 'desc' => "Solutions tailored to your projects", 'popular' => true],
+        (object) ['href' => '/en/services/formwork/', 'src' => '/assets/img/coffrage-de-beton.webp', 'alt' => 'Formwork', 'text' => "Formwork", 'desc' => "Solutions tailored to your projects"],
         (object) ['href' => '/en/services/concrete-slab/', 'src' => '/assets/img/dalle.webp', 'alt' => 'concrete slab', 'text' => "Concrete slab", 'desc' => "Solid for patios and terraces"],
         (object) ['href' => '/en/services/concrete-step/', 'src' => '/assets/img/escalier-de-beton.webp', 'alt' => 'Concrete step', 'text' => "Concrete step", 'desc' => "Safe and functional"],
-        (object) ['href' => '/en/services/house-foundation/', 'src' => '/assets/img/fondation.webp', 'alt' => 'concrete-foundation-house', 'text' => "House foundations", 'desc' => "Robust for your home", 'popular' => true],
+        (object) ['href' => '/en/services/house-foundation/', 'src' => '/assets/img/fondation.webp', 'alt' => 'concrete-foundation-house', 'text' => "House foundations", 'desc' => "Robust for your home"],
         (object) ['href' => '/en/services/house-extension/', 'src' => '/assets/img/agrandissement.webp', 'alt' => 'House extension', 'text' => "House extension", 'desc' => "To professional standards"],
-        (object) ['href' => '/en/services/concrete-basement/', 'src' => '/assets/img/descente-de-sous-sol-en-beton-003.webp', 'alt' => 'Concrete basement descent', 'text' => "Concrete basement descent", 'desc' => "Safe access"],
+        (object) ['href' => '/en/services/concrete-basement/', 'src' => '/assets/img/descente-de-sous-sol-en-beton-003.webp', 'alt' => 'Concrete basement descent', 'text' => "Concrete basement descent", 'desc' => "Safe access", 'popular' => true],
         (object) ['href' => '/en/services/concrete-retaining-walls/', 'src' => '/assets/img/soutenement.webp', 'alt' => 'Concrete retaining walls', 'text' => "Concrete retaining walls", 'desc' => "Stable and reliable"],
-        (object) ['href' => '/en/services/underpinning/', 'src' => '/assets/img/sousoeuvre.webp', 'alt' => 'Underpinning and foundation reinforcement', 'text' => "Underpinning", 'desc' => "Foundation reinforcement"],
+        (object) ['href' => '/en/services/underpinning/', 'src' => '/assets/img/sousoeuvre.webp', 'alt' => 'Underpinning and foundation reinforcement', 'text' => "Underpinning", 'desc' => "Foundation reinforcement", 'popular' => true],
       );
       ?>
       <div id="mobileServices">
