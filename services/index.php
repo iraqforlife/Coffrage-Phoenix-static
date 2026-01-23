@@ -146,6 +146,16 @@ include_once(__DIR__ . "/../head.php");
           </p>
         </div>
         <div></div>
+        <div class="services-item">
+          <a href="/services/sous-oeuvre/">
+            <h4>Sous-œuvre</h4>
+            <img class="imagehover-02 border-01px" src="/assets/img/sousoeuvre.webp" alt="Sous-oeuvre">
+          </a>
+          <p>
+            La sous-œuvre est essentielle pour <strong>renforcer et stabiliser</strong> les fondations existantes de votre maison. Nos experts en coffrage et béton offrent des services professionnels pour <strong>réparer les fondations endommagées</strong> ou <strong>les renforcer pour un agrandissement</strong>. Nous utilisons des techniques et des matériaux de <strong>haute qualité</strong> pour assurer la <strong>durabilité et la sécurité</strong> de votre maison.
+          </p>
+        </div>
+        <div></div>
         <div class="">
         </div>
       </div>

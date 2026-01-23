@@ -29,6 +29,7 @@
                             <a href="/services/agrandissement-maison/" style="color:var(--primaryColor)">Agrandissement de maison</a>
                             <a href="/services/descente-sous-sol-beton/" style="color:var(--primaryColor)">Descente de sous-sol en béton</a>
                             <a href="/services/mur-de-soutenement/" style="color:var(--primaryColor)">Mur de soutènement</a>
+                            <a href="/services/sous-oeuvre/" style="color:var(--primaryColor)">Sous-œuvre</a>
                         </div>
                         <!-- Dropdown Structure -->
                         <script>

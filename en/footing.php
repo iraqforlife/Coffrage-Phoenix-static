@@ -73,6 +73,7 @@
                     <a href="/en/services/concrete-basement/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Garage floors</a><br>
                     <a href="/en/services/house-extension/" class="fonthover-04 lineheight-125" style="font-size: 17px;">House extensions</a><br>
                     <a href="/en/services/concrete-retaining-walls/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Concrete retaining walls</a><br>
+                    <a href="/en/services/underpinning/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Underpinning</a><br>
                     <div class="footer-spacer-001"></div>
                 </div>
             </div>

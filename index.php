@@ -204,6 +204,7 @@ include_once(__DIR__ . "/head.php");
         (object) ['href' => '/services/agrandissement-maison/', 'src' => '/assets/img/agrandissement.webp', 'alt' => 'Agrandissement de maison', 'text' => "Agrandissement de maison"],
         (object) ['href' => '/services/descente-sous-sol-beton/', 'src' => '/assets/img/descente-de-sous-sol-en-beton-003.webp', 'alt' => 'Descente de sous-sol en béton', 'text' => "Descente de sous-sol en béton"],
         (object) ['href' => '/services/mur-de-soutenement/', 'src' => '/assets/img/soutenement.webp', 'alt' => 'Mur de soutènement en béton', 'text' => "Mur de soutènement"],
+        (object) ['href' => '/services/sous-oeuvre/', 'src' => '/assets/img/sousoeuvre.webp', 'alt' => 'Sous-œuvre et renforcement de fondations', 'text' => "Sous-œuvre"],
       );
       ?>
       <div id="mobileServices">

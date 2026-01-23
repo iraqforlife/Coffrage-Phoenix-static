@@ -74,6 +74,7 @@
                     <a href="/services/dalle-de-beton/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Planchers de garage</a><br>
                     <a href="/services/dalle-de-beton/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Dalles en béton</a><br>
                     <a href="/services/mur-de-soutenement/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Murs de soutènement</a><br>
+                    <a href="/services/sous-oeuvre/" class="fonthover-04 lineheight-125" style="font-size: 17px;">Sous-œuvre</a><br>
                     <div class="footer-spacer-001"></div>
                 </div>
             </div>
