@@ -160,7 +160,7 @@ include_once(__DIR__ . "/head.php");
         <h1 class="home-header" style="color:white;">Spécialiste en balcon, trottoir, dalle de béton et coffrages dans la région de Montréal, Laval, Terrebonne et la Rive-Nord</h1>
         <p style="color: rgba(255,255,255,0.95); font-size: 18px; font-weight: 300; margin-bottom: 20px; line-height: 1.6;">Construire durable, renaître plus fort • Expertise reconnue depuis des années</p>
         <div class="spacer-001"></div>
-        <a class="button-border" href="#soumission">Soumission&nbsp; &#10095;</a>
+        <a class="button-border" href="#soumission" style="display: inline-block; white-space: nowrap;">Soumission&nbsp; &#10095;</a>
         <div class="socials fonthover-06" style="margin-top: 15px;">
           <a class="reseau-button" href="https://www.facebook.com/coffragesphoenix/" target="_blank">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="#fff" width="30px" height="30px"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. -->
@@ -185,7 +185,7 @@ include_once(__DIR__ . "/head.php");
         </div>
       </div>
       <div style="overflow: hidden;">
-        <img src="/assets/img/coffrage-de-beton-sainte-anne-des-plaines.webp" style="min-height:250px;max-height:530px;object-fit:cover;width: 100%;position:relative;margin:0;left:0" alt="Coffrage-de-beton-rive-nord">
+        <img src="/assets/img/coffrage-de-beton-sainte-anne-des-plaines.webp" style="min-height:350px;max-height:530px;object-fit:cover;width: 100%;position:relative;margin:0;left:0" alt="Coffrage-de-beton-rive-nord">
       </div>
     </div>
 

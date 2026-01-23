@@ -171,7 +171,7 @@
 
         function scrollFunction() {
             var currentScroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
-            console.log(currentScroll)
+            
             if (currentScroll > 20) {
                 mybutton.style.opacity = 1;
             } else {
