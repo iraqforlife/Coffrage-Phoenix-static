@@ -44,7 +44,7 @@
                     <a href="/entreprise/" style="color: var(--primaryColor);">Entreprise</a>&nbsp;&nbsp;&nbsp;
                     <a href="/soumission/" style="color: var(--primaryColor);">Soumission</a>&nbsp;&nbsp;&nbsp;
                     <a href="/contact/" style="color: var(--primaryColor);">Contact</a>&nbsp;&nbsp;&nbsp;
-                    <a href="/recrutement/" style="color: var(--primaryColor);">Emploi</a>&nbsp;&nbsp;&nbsp;
+                    <a href="/emploi/" style="color: var(--primaryColor);">Emploi</a>&nbsp;&nbsp;&nbsp;
                     <a href="<?php echo  $englishUrl ?>" style="cursor: pointer; color: var(--primaryColor);">English</a>
                 </div>
             </div>
@@ -78,7 +78,7 @@
             <a href="/contact/" data-target="slide-out">Contact</a>
         </div>
         <div style="border-top-color:lightgray;border-top-color: lightgray;margin: 0;border-top-style: solid;border-width: thin;">
-            <a href="/recrutement/">Emploi</a>
+            <a href="/emploi/">Emploi</a>
         </div>
         <div style="border-top-color:lightgray;border-top-color: lightgray;margin: 0;border-top-style: solid;border-width: thin;">
             <a href="<?php echo  $englishUrl ?>" style="cursor: pointer;">English</a>

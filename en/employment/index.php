@@ -2,9 +2,9 @@
 <html lang="en-CA">
 <?php 
     $metaDesc ="Join our team - send your CV to emploi@coffragesphoenix.com";
-    $englishUrl = "/recrutement/";
+    $englishUrl = "/emploi/";
     $title = "Coffrages Phoenix - Employment";
-    $canonical = "en/recruitment/";
+    $canonical = "en/employment/";
     include_once(__DIR__."/../head.php");
 ?>
 <body >
@@ -22,7 +22,7 @@
         <div class="desc-text">
           <h2 style="text-align: center;">Join Coffrages Phoenix</h2>
           <h5 style="text-align:center;">We're hiring — grow with us</h5>
-          <p style="text-align:center;max-width:760px;margin:10px auto 0;">We are a growing company looking for a <strong>journeyman carpenter</strong> or a qualified <strong>formwork carpenter</strong> to supervise our sites, drive the pickup and perform various formworks (balconies, foundations, basements) with our lightweight system. Unlike others, we don't push employees to the limit — we create an environment where everyone thrives and finds meaning. Work is seasonal, with a loyal team and growth prospects. You will have freedom and autonomy, with competitive pay. Join us!</p>
+          <p style="text-align:center;max-width:760px;margin:10px auto 0;">We are a growing company looking for <strong>journeyman carpenters</strong> and <strong>qualified formwork carpenters</strong> to supervise sites, drive the pickup truck and perform various formworks (balconies, foundations, basements) using our lightweight system. Unlike others, we don't push employees to the limit — we build an environment where people thrive and find meaning. Work is seasonal, with a loyal team and growth prospects. You will have freedom and autonomy with competitive pay.</p>
         </div>
 
         <div class="desc-img">
@@ -32,12 +32,12 @@
 
       <?php include(__DIR__ . "/../values.php") ?>
 
+    
     <div style="text-align:center;margin-top:26px;">
       <a href="mailto:emploi@coffragesphoenix.com?subject=Application%20-%20Carpenter%20or%20Formwork" class="blue-button">Apply by email</a>
       <p style="margin-top:12px;color:#666;">Or send your CV to <a href="mailto:emploi@coffragesphoenix.com">emploi@coffragesphoenix.com</a></p>
     </div>
 
-    <p style="text-align:center;margin-top:30px;"><a href="<?php echo $englishUrl ?>">Voir cette offre en français</a></p>
   </div>
   <?php include(__DIR__."/../footing.php")?>
 </body>

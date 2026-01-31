@@ -2,9 +2,9 @@
 <html lang="fr-CA">
 <?php 
     $metaDesc ="Rejoignez notre équipe - envoyez votre CV à emploi@coffragesphoenix.com";
-    $englishUrl = "/en/recruitment/";
+    $englishUrl = "/en/employment/";
     $title = "Coffrages Phoenix - Emploi";
-    $canonical = "recrutement/";
+    $canonical = "emploi/";
     include_once(__DIR__."/../head.php");
 ?>
 <body >
@@ -32,6 +32,7 @@
 
       <?php include(__DIR__ . "/../values.php") ?>
 
+    
     <div style="text-align:center;margin-top:26px;">
       <a href="mailto:emploi@coffragesphoenix.com?subject=Candidature%20-%20Charpentier%20ou%20Coffreur" class="blue-button">Postuler par courriel</a>
       <p style="margin-top:12px;color:#666;">Ou envoyez simplement votre CV à <a href="mailto:emploi@coffragesphoenix.com">emploi@coffragesphoenix.com</a></p>
