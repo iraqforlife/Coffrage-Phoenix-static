@@ -44,6 +44,7 @@
                     <a href="/en/company/" style="color:var(--primaryColor)">Company</a>&nbsp;&nbsp;&nbsp;
                     <a href="/en/quote/" style="color:var(--primaryColor)">Quote</a>&nbsp;&nbsp;&nbsp;
                     <a href="/en/contact/" style="color:var(--primaryColor)">Contact</a>&nbsp;&nbsp;&nbsp;
+                    <a href="/en/recruitment/" style="color:var(--primaryColor)">Employment</a>&nbsp;&nbsp;&nbsp;
                     <a href="<?php echo  $englishUrl ?>" style="cursor: pointer;color:var(--primaryColor)">Français</a>
                 </div>
             </div>
@@ -73,6 +74,9 @@
         </div>
         <div style="border-top-color:lightgray;border-top-color: lightgray;margin: 0;border-top-style: solid;border-width: thin;">
             <a href="/en/contact/" data-target="slide-out">Contact</a>
+        </div>
+        <div style="border-top-color:lightgray;border-top-color: lightgray;margin: 0;border-top-style: solid;border-width: thin;">
+            <a href="/en/recruitment/">Employment</a>
         </div>
         <div style="border-top-color:lightgray;border-top-color: lightgray;margin: 0;border-top-style: solid;border-width: thin;">
             <a href="<?php echo  $englishUrl ?>" style="cursor: pointer;">Français</a>
