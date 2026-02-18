@@ -151,7 +151,7 @@ include_once(__DIR__ . "/../head.php");
                 </div>
                 <div style="margin-left: 20px;">
                   <h4>Location</h4>
-                  <span>4635 Boulevard Laurier,<br>Terrebonne, QC<br>J6X 0B3</span>
+                  <span>1660 av d'iéna,<br>laval, QC<br>H7V 3H7</span>
                 </div>
               </div>
             </a>
